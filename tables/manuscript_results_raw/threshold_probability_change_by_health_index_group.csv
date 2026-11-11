@@ -1,0 +1,7 @@
+health_index_group,sex,mean_state_probability_below_80_2024,mean_state_probability_below_80_2050,median_state_probability_below_80_2024,median_state_probability_below_80_2050,n_states_probability_below_80_over_50_2024,n_states_probability_below_80_over_50_2050,pct_states_probability_below_80_over_50_2024,pct_states_probability_below_80_over_50_2050,change_mean_state_probability,change_median_state_probability
+Front-runner,Female,0.92375,0.304,1,0.31225,6,0,100,0,-0.61975,-0.68775
+Achiever,Female,0.9416071428571428,0.5159285714285714,1,0.54475,7,4,100,57.14285714285714,-0.42567857142857135,-0.45525000000000004
+Aspirant,Female,1,0.6908,1,0.81575,10,7,100,70,-0.30920000000000003,-0.18425000000000002
+Front-runner,Male,1,0.8344166666666666,1,0.8178749999999999,6,6,100,100,-0.16558333333333342,-0.1821250000000001
+Achiever,Male,1,0.9911785714285716,1,0.99375,7,7,100,100,-0.008821428571428425,-0.006249999999999978
+Aspirant,Male,1,0.966475,1,0.995375,10,10,100,100,-0.03352500000000003,-0.00462499999999999

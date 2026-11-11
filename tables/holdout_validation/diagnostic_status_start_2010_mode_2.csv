@@ -1,0 +1,2 @@
+forecast_start_year,prior_mode,model,sampler_status,failed_checks,divergences,max_treedepth_hits,min_bfmi,chains_bfmi_below_0_3,max_rhat,min_ess
+2010,2,Main model (regularised baseline),PASS,None,0,0,0.8447613886626398,0,1.0039504361668914,1766.571214893165

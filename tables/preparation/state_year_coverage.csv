@@ -1,0 +1,24 @@
+state,g,n_observations,first_year,last_year,n_gaps_over_1_year
+Andhra Pradesh,1,21,1971,2024,7
+Assam,2,23,1971,2024,9
+Bihar,3,20,1981,2024,6
+Chhattisgarh,4,16,2004,2024,2
+Delhi,5,16,2004,2024,2
+Goa,6,22,1991,2012,0
+Gujarat,7,23,1971,2024,9
+Haryana,8,22,1971,2024,8
+Himachal Pradesh,9,32,1991,2024,2
+Jammu & Kashmir,10,15,2004,2024,3
+Jharkhand,11,16,2004,2024,2
+Karnataka,12,23,1971,2024,9
+Kerala,13,23,1971,2024,9
+Madhya Pradesh,14,19,1971,2024,5
+Maharashtra,15,22,1971,2024,8
+Odisha,16,23,1971,2024,9
+Punjab,17,23,1971,2024,9
+Rajasthan,18,23,1971,2024,9
+Tamil Nadu,19,23,1971,2024,9
+Telangana,20,11,2014,2024,0
+Uttar Pradesh,21,23,1971,2024,9
+Uttarakhand,22,11,2014,2024,0
+West Bengal,23,21,1981,2024,7

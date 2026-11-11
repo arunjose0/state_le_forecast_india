@@ -1,0 +1,4 @@
+model,n_parameter_rows,maximum_rhat,minimum_ess,n_rhat_above_1_01,n_ess_below_100,n_nonfinite_rhat,n_nonfinite_ess
+Main model (regularised baseline),130,1.0045972523813025,1004.1120282163456,0,0,0,0
+Tighter-prior sensitivity,130,1.001488958293796,1610.454010103546,0,0,0,0
+Wide-prior sensitivity,130,1.0046386778419103,949.1614493164918,0,0,0,0

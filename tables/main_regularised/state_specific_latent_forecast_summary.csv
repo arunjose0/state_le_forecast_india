@@ -1,0 +1,1267 @@
+model_label,state,year,sex,segment,q025,median,q975
+Main model (regularised baseline),Andhra Pradesh,2024,Female,Forecast,74.58380171063315,75.41485956051983,76.28076672601793
+Main model (regularised baseline),Andhra Pradesh,2025,Female,Forecast,73.60979481148989,75.74124971694172,77.84839993602415
+Main model (regularised baseline),Andhra Pradesh,2026,Female,Forecast,73.38092574308949,75.97741506471354,78.78700747069823
+Main model (regularised baseline),Andhra Pradesh,2027,Female,Forecast,73.0148533418076,76.2686162901207,79.6324181085635
+Main model (regularised baseline),Andhra Pradesh,2028,Female,Forecast,72.89405374129498,76.47546649659952,80.0682018273159
+Main model (regularised baseline),Andhra Pradesh,2029,Female,Forecast,72.85010374674243,76.65644213681082,80.6011618853782
+Main model (regularised baseline),Andhra Pradesh,2030,Female,Forecast,72.82152724478766,76.8849430269123,81.11450239856205
+Main model (regularised baseline),Andhra Pradesh,2031,Female,Forecast,72.92523735652934,77.1603829269948,81.43587393553757
+Main model (regularised baseline),Andhra Pradesh,2032,Female,Forecast,73.11496686299488,77.45428337938233,82.04916914502068
+Main model (regularised baseline),Andhra Pradesh,2033,Female,Forecast,73.20415675894913,77.6644513692566,82.00277096758373
+Main model (regularised baseline),Andhra Pradesh,2034,Female,Forecast,73.29240628176282,77.89471388647632,82.5974241278281
+Main model (regularised baseline),Andhra Pradesh,2035,Female,Forecast,73.45662476946876,78.14496972312234,82.81074373128708
+Main model (regularised baseline),Andhra Pradesh,2036,Female,Forecast,73.34301987438418,78.41549362628682,83.41264721158028
+Main model (regularised baseline),Andhra Pradesh,2037,Female,Forecast,73.2203975559266,78.55428231345257,83.62988720494528
+Main model (regularised baseline),Andhra Pradesh,2038,Female,Forecast,73.61762343370643,78.7513440676504,83.77465399794718
+Main model (regularised baseline),Andhra Pradesh,2039,Female,Forecast,73.24924737038832,79.02836386919935,84.31864967102042
+Main model (regularised baseline),Andhra Pradesh,2040,Female,Forecast,73.79852591915308,79.17929381301317,84.4581864565873
+Main model (regularised baseline),Andhra Pradesh,2041,Female,Forecast,73.86884560137977,79.28611135716213,84.75356475516318
+Main model (regularised baseline),Andhra Pradesh,2042,Female,Forecast,74.03758178003774,79.57884784149272,84.92980363795581
+Main model (regularised baseline),Andhra Pradesh,2043,Female,Forecast,74.08351473477353,79.6862072251696,85.06465727326874
+Main model (regularised baseline),Andhra Pradesh,2044,Female,Forecast,74.54658578523991,79.87981220979546,85.19552815011137
+Main model (regularised baseline),Andhra Pradesh,2045,Female,Forecast,74.41546467434534,80.03179499390822,85.29044684907238
+Main model (regularised baseline),Andhra Pradesh,2046,Female,Forecast,74.36976985701722,80.22552463850873,85.63189660840375
+Main model (regularised baseline),Andhra Pradesh,2047,Female,Forecast,74.47641080391361,80.46493194222495,85.88439279101432
+Main model (regularised baseline),Andhra Pradesh,2048,Female,Forecast,74.61795662610871,80.64524403752704,86.16593104018992
+Main model (regularised baseline),Andhra Pradesh,2049,Female,Forecast,74.96434981649686,80.83049889336964,86.25938266788503
+Main model (regularised baseline),Andhra Pradesh,2050,Female,Forecast,75.03887508305432,80.959801125608,86.42128223234799
+Main model (regularised baseline),Andhra Pradesh,2024,Male,Forecast,69.6971963944955,70.51069573741,71.29025620369185
+Main model (regularised baseline),Andhra Pradesh,2025,Male,Forecast,69.3605177609827,70.96864298515183,72.63736235903997
+Main model (regularised baseline),Andhra Pradesh,2026,Male,Forecast,69.21446771362986,71.29373156955312,73.46443317451786
+Main model (regularised baseline),Andhra Pradesh,2027,Male,Forecast,69.20496382817029,71.5869056965131,74.2741809364228
+Main model (regularised baseline),Andhra Pradesh,2028,Male,Forecast,69.18767434909743,71.90781472456057,74.66700974124664
+Main model (regularised baseline),Andhra Pradesh,2029,Male,Forecast,69.1817354626477,72.0888604193301,75.14207838366696
+Main model (regularised baseline),Andhra Pradesh,2030,Male,Forecast,69.25831114299469,72.34026509598955,75.63315535002047
+Main model (regularised baseline),Andhra Pradesh,2031,Male,Forecast,69.20003889939247,72.61653376504734,76.08974904719197
+Main model (regularised baseline),Andhra Pradesh,2032,Male,Forecast,69.11396167583307,72.82043294130808,76.39969333810254
+Main model (regularised baseline),Andhra Pradesh,2033,Male,Forecast,69.4245378346732,73.04870147033786,76.66986883119914
+Main model (regularised baseline),Andhra Pradesh,2034,Male,Forecast,69.35910064134754,73.26915738662942,76.96423232285713
+Main model (regularised baseline),Andhra Pradesh,2035,Male,Forecast,69.50951291191528,73.46934276532313,77.43475843644123
+Main model (regularised baseline),Andhra Pradesh,2036,Male,Forecast,69.69365601300987,73.72550609454129,77.93204300473386
+Main model (regularised baseline),Andhra Pradesh,2037,Male,Forecast,69.75408908061016,73.8665664073205,78.08247934038984
+Main model (regularised baseline),Andhra Pradesh,2038,Male,Forecast,69.86914695264169,74.01857260895491,78.46664812853828
+Main model (regularised baseline),Andhra Pradesh,2039,Male,Forecast,69.84779750235774,74.23353747040315,78.74222546035405
+Main model (regularised baseline),Andhra Pradesh,2040,Male,Forecast,70.2126951325829,74.51305125194354,78.89188333027745
+Main model (regularised baseline),Andhra Pradesh,2041,Male,Forecast,70.22477002924666,74.68021549357786,79.18002735282194
+Main model (regularised baseline),Andhra Pradesh,2042,Male,Forecast,70.37150879282255,74.95174355293956,79.36813038594265
+Main model (regularised baseline),Andhra Pradesh,2043,Male,Forecast,70.34073313839495,75.17690086157191,79.64674226361836
+Main model (regularised baseline),Andhra Pradesh,2044,Male,Forecast,70.60434635836461,75.26953361816227,79.93727644314626
+Main model (regularised baseline),Andhra Pradesh,2045,Male,Forecast,70.76185339020817,75.44146105518053,80.01571265018252
+Main model (regularised baseline),Andhra Pradesh,2046,Male,Forecast,70.89944027254286,75.68805472844173,80.17486933506498
+Main model (regularised baseline),Andhra Pradesh,2047,Male,Forecast,71.1088310488842,75.84911042964913,80.39559123794687
+Main model (regularised baseline),Andhra Pradesh,2048,Male,Forecast,71.16641947928088,76.01047134729006,80.76582615433293
+Main model (regularised baseline),Andhra Pradesh,2049,Male,Forecast,71.29068615934355,76.13480427188482,80.68893690383267
+Main model (regularised baseline),Andhra Pradesh,2050,Male,Forecast,71.27748850042117,76.34603946502408,80.97069152082844
+Main model (regularised baseline),Assam,2024,Female,Forecast,71.6437669440355,72.43655835751645,73.26472413690401
+Main model (regularised baseline),Assam,2025,Female,Forecast,70.66779380217378,72.65928720730307,74.73514654896891
+Main model (regularised baseline),Assam,2026,Female,Forecast,70.33035620216029,72.8855042145725,75.35155546477758
+Main model (regularised baseline),Assam,2027,Female,Forecast,70.02635919765825,73.0556587353449,76.08053565247644
+Main model (regularised baseline),Assam,2028,Female,Forecast,69.88844932910666,73.24990447147465,76.65011488392118
+Main model (regularised baseline),Assam,2029,Female,Forecast,69.70681382702027,73.42460919896612,77.16653816546706
+Main model (regularised baseline),Assam,2030,Female,Forecast,69.73235066517194,73.56935542247777,77.47025540562201
+Main model (regularised baseline),Assam,2031,Female,Forecast,69.7120094063503,73.79865154305847,77.83088981667507
+Main model (regularised baseline),Assam,2032,Female,Forecast,69.77681213789128,73.90995500769532,78.25357306995805
+Main model (regularised baseline),Assam,2033,Female,Forecast,69.63679172026711,74.09490475975764,78.67579514472843
+Main model (regularised baseline),Assam,2034,Female,Forecast,69.65335922562714,74.34509222467148,78.91795489868653
+Main model (regularised baseline),Assam,2035,Female,Forecast,69.49663900717549,74.5930102944591,79.39965938784161
+Main model (regularised baseline),Assam,2036,Female,Forecast,69.85580935475859,74.68896159202343,79.66878286692355
+Main model (regularised baseline),Assam,2037,Female,Forecast,69.74241053769451,74.83314085582765,80.10451998314933
+Main model (regularised baseline),Assam,2038,Female,Forecast,69.76457830432808,75.02667860927046,80.30064616966716
+Main model (regularised baseline),Assam,2039,Female,Forecast,69.9252467929932,75.17576093106612,80.54858479141109
+Main model (regularised baseline),Assam,2040,Female,Forecast,70.19117558173143,75.39510674003819,81.19883573341012
+Main model (regularised baseline),Assam,2041,Female,Forecast,70.28899430780712,75.61638829971093,81.03904077419716
+Main model (regularised baseline),Assam,2042,Female,Forecast,70.19203695978479,75.8330216438837,81.42654376931984
+Main model (regularised baseline),Assam,2043,Female,Forecast,70.21831149737577,76.03278227484859,81.61757810989887
+Main model (regularised baseline),Assam,2044,Female,Forecast,70.26768645376059,76.17421701881088,81.85632468648106
+Main model (regularised baseline),Assam,2045,Female,Forecast,70.35898591517196,76.2822268341327,82.03602865061578
+Main model (regularised baseline),Assam,2046,Female,Forecast,70.52681070996469,76.36782551022367,82.26892950219818
+Main model (regularised baseline),Assam,2047,Female,Forecast,70.56703522640736,76.61040431279471,82.6943404415959
+Main model (regularised baseline),Assam,2048,Female,Forecast,70.76069057339899,76.82141739512852,82.80357268662507
+Main model (regularised baseline),Assam,2049,Female,Forecast,70.76865001197129,76.95342256532717,82.953382828823635
+Main model (regularised baseline),Assam,2050,Female,Forecast,70.78986303808793,77.0913594053772,83.07821790556572
+Main model (regularised baseline),Assam,2024,Male,Forecast,67.55242172153544,68.33363818999939,69.1611586902637
+Main model (regularised baseline),Assam,2025,Male,Forecast,66.99796021725575,68.72338503872486,70.38081277722263
+Main model (regularised baseline),Assam,2026,Male,Forecast,66.79650816782222,68.9935557486468,71.12233173843322
+Main model (regularised baseline),Assam,2027,Male,Forecast,66.59739824460152,69.23183216783059,71.7916449845865
+Main model (regularised baseline),Assam,2028,Male,Forecast,66.60641138948219,69.44504768444355,72.27532656932098
+Main model (regularised baseline),Assam,2029,Male,Forecast,66.57805751613915,69.6662731012328,72.53631661833393
+Main model (regularised baseline),Assam,2030,Male,Forecast,66.38091608464465,69.78814967901005,73.03177021934526
+Main model (regularised baseline),Assam,2031,Male,Forecast,66.585485475637455,69.96470027544059,73.24920320534997
+Main model (regularised baseline),Assam,2032,Male,Forecast,66.45413748751152,70.11401471970692,73.72925748639668
+Main model (regularised baseline),Assam,2033,Male,Forecast,66.55550279506853,70.34536550976279,73.92854019076564
+Main model (regularised baseline),Assam,2034,Male,Forecast,66.5520645284795,70.43493204568358,74.34030440837694
+Main model (regularised baseline),Assam,2035,Male,Forecast,66.49047425517259,70.66946585301883,74.65528328160218
+Main model (regularised baseline),Assam,2036,Male,Forecast,66.75234969625147,70.85165968669483,74.91796448249418
+Main model (regularised baseline),Assam,2037,Male,Forecast,66.83062052480079,70.99832692853116,75.16676141989036
+Main model (regularised baseline),Assam,2038,Male,Forecast,66.85945364667771,71.20638631373572,75.19849436671832
+Main model (regularised baseline),Assam,2039,Male,Forecast,66.91561569494328,71.4032056849574,75.73800223118042
+Main model (regularised baseline),Assam,2040,Male,Forecast,66.95638237615904,71.6120778926292,75.89226661345018
+Main model (regularised baseline),Assam,2041,Male,Forecast,67.26018821020428,71.76934329449769,76.13843355896775
+Main model (regularised baseline),Assam,2042,Male,Forecast,67.3534601043007,71.90036359928213,76.22006860183257
+Main model (regularised baseline),Assam,2043,Male,Forecast,67.42071249127156,71.95068648928091,76.66362259357903
+Main model (regularised baseline),Assam,2044,Male,Forecast,67.50458869171781,72.06922168428869,76.8282834851963
+Main model (regularised baseline),Assam,2045,Male,Forecast,67.53082231865739,72.28114249682662,77.34141911553495
+Main model (regularised baseline),Assam,2046,Male,Forecast,67.71706391993749,72.43155053464675,77.46595423367913
+Main model (regularised baseline),Assam,2047,Male,Forecast,67.83889508526542,72.55973775389829,77.49624700406757
+Main model (regularised baseline),Assam,2048,Male,Forecast,67.98341935822936,72.71848154072063,77.58976841227582
+Main model (regularised baseline),Assam,2049,Male,Forecast,68.19615175486389,72.80867651112405,77.48576387943893
+Main model (regularised baseline),Assam,2050,Male,Forecast,68.04505337213809,72.92556329547594,77.83977773943535
+Main model (regularised baseline),Bihar,2024,Female,Forecast,70.08802036444509,70.91149949980709,71.72802108547592
+Main model (regularised baseline),Bihar,2025,Female,Forecast,69.29476533357574,71.18957314534688,73.23020553064556
+Main model (regularised baseline),Bihar,2026,Female,Forecast,68.8292306289319,71.54178804795544,74.11253278988944
+Main model (regularised baseline),Bihar,2027,Female,Forecast,68.57507473687755,71.77480728447547,74.68827523973206
+Main model (regularised baseline),Bihar,2028,Female,Forecast,68.55078688892647,72.0227473626725,75.46735328630224
+Main model (regularised baseline),Bihar,2029,Female,Forecast,68.65193325969608,72.2563036455895,75.88942243935176
+Main model (regularised baseline),Bihar,2030,Female,Forecast,68.6059318452311,72.50379337074413,76.63257482104228
+Main model (regularised baseline),Bihar,2031,Female,Forecast,68.65914337226081,72.78671638783925,77.1260251568561
+Main model (regularised baseline),Bihar,2032,Female,Forecast,68.77332310642699,73.08815873803638,77.88752172570065
+Main model (regularised baseline),Bihar,2033,Female,Forecast,69.01925000234098,73.30813517387833,78.00075259117766
+Main model (regularised baseline),Bihar,2034,Female,Forecast,69.03702008741946,73.53781309018825,78.46848214840901
+Main model (regularised baseline),Bihar,2035,Female,Forecast,69.0673758758034,73.69562356433909,78.76631719339233
+Main model (regularised baseline),Bihar,2036,Female,Forecast,69.05225633208087,73.98442684863002,78.76134587458759
+Main model (regularised baseline),Bihar,2037,Female,Forecast,69.00798242230637,74.1824138103006,78.91536645305317
+Main model (regularised baseline),Bihar,2038,Female,Forecast,69.15262585866816,74.40518978369991,79.26900213783402
+Main model (regularised baseline),Bihar,2039,Female,Forecast,69.40584052560934,74.58310202318336,79.47359230682628
+Main model (regularised baseline),Bihar,2040,Female,Forecast,69.61535957165984,74.78930380166094,79.96121013310992
+Main model (regularised baseline),Bihar,2041,Female,Forecast,69.36031461299316,74.91727195503775,80.30919892319226
+Main model (regularised baseline),Bihar,2042,Female,Forecast,69.65095886556226,75.11061572285476,80.57816348910805
+Main model (regularised baseline),Bihar,2043,Female,Forecast,69.86012926181527,75.36881117492476,80.94717935726986
+Main model (regularised baseline),Bihar,2044,Female,Forecast,70.11707331768066,75.5963447065106,81.1075811206303
+Main model (regularised baseline),Bihar,2045,Female,Forecast,70.24823754466863,75.6756590249469,81.41847198001923
+Main model (regularised baseline),Bihar,2046,Female,Forecast,70.41663177438488,75.85013118165327,81.63316753102761
+Main model (regularised baseline),Bihar,2047,Female,Forecast,70.64357303683029,76.08729678381724,81.85538624843552
+Main model (regularised baseline),Bihar,2048,Female,Forecast,70.64328911983202,76.28221264910394,82.11182310408996
+Main model (regularised baseline),Bihar,2049,Female,Forecast,70.4982265547073,76.43262331144214,82.09701316303551
+Main model (regularised baseline),Bihar,2050,Female,Forecast,70.76818732582797,76.6954975034502,82.18255599666387
+Main model (regularised baseline),Bihar,2024,Male,Forecast,69.34052361464332,70.08676024469784,70.90706918689305
+Main model (regularised baseline),Bihar,2025,Male,Forecast,68.79488189114062,70.46914992591812,72.08392768983384
+Main model (regularised baseline),Bihar,2026,Male,Forecast,68.54994343477796,70.72818471515959,72.89260036344618
+Main model (regularised baseline),Bihar,2027,Male,Forecast,68.40868956160001,70.91234072363201,73.31420007519505
+Main model (regularised baseline),Bihar,2028,Male,Forecast,68.39676259696367,71.10173289639808,73.74968956071277
+Main model (regularised baseline),Bihar,2029,Male,Forecast,68.26487689547665,71.23215790186015,74.30900308841458
+Main model (regularised baseline),Bihar,2030,Male,Forecast,68.30094369745228,71.42091351226796,74.7138167121688
+Main model (regularised baseline),Bihar,2031,Male,Forecast,68.218370368096,71.59834557941771,74.84219947029227
+Main model (regularised baseline),Bihar,2032,Male,Forecast,68.32259437968114,71.79810737618246,75.18045503279325
+Main model (regularised baseline),Bihar,2033,Male,Forecast,68.2674251390527,71.90407232915896,75.46574124071671
+Main model (regularised baseline),Bihar,2034,Male,Forecast,68.38844692456833,72.08316516324922,75.63420575057792
+Main model (regularised baseline),Bihar,2035,Male,Forecast,68.51090277542876,72.2637353314347,75.98906193560906
+Main model (regularised baseline),Bihar,2036,Male,Forecast,68.54662341051753,72.34707773686168,76.14702851104921
+Main model (regularised baseline),Bihar,2037,Male,Forecast,68.60560174761204,72.45476117334579,76.49120826455196
+Main model (regularised baseline),Bihar,2038,Male,Forecast,68.64538363316483,72.571346023764,76.68100923627821
+Main model (regularised baseline),Bihar,2039,Male,Forecast,68.78729909556051,72.78863854865476,76.82630408828726
+Main model (regularised baseline),Bihar,2040,Male,Forecast,68.80490013760186,72.93618812668103,77.00079622290468
+Main model (regularised baseline),Bihar,2041,Male,Forecast,68.7598434404103,73.0400841944122,77.29256011734485
+Main model (regularised baseline),Bihar,2042,Male,Forecast,68.77157167334613,73.15912117620684,77.47329769417675
+Main model (regularised baseline),Bihar,2043,Male,Forecast,68.76856902854671,73.31486852464987,77.74820401080567
+Main model (regularised baseline),Bihar,2044,Male,Forecast,69.08368518397874,73.48586334369274,77.79222451029506
+Main model (regularised baseline),Bihar,2045,Male,Forecast,69.19503747242278,73.59237892811237,78.05004082913075
+Main model (regularised baseline),Bihar,2046,Male,Forecast,69.20219596254236,73.75912553170582,78.2095431341887
+Main model (regularised baseline),Bihar,2047,Male,Forecast,69.36394333060673,73.86068387888099,78.44563796132798
+Main model (regularised baseline),Bihar,2048,Male,Forecast,69.67889872817604,73.99528424399892,78.56343632878826
+Main model (regularised baseline),Bihar,2049,Male,Forecast,69.6766518796949,74.15751286671215,78.89140089516434
+Main model (regularised baseline),Bihar,2050,Male,Forecast,69.63041830999228,74.32069676826796,79.169074353872
+Main model (regularised baseline),Chhattisgarh,2024,Female,Forecast,66.99231929427152,67.83516998468559,68.69312925204868
+Main model (regularised baseline),Chhattisgarh,2025,Female,Forecast,66.44629590732146,68.47432914398925,70.49204899533075
+Main model (regularised baseline),Chhattisgarh,2026,Female,Forecast,66.36894899328468,69.06010817805378,71.78846118697254
+Main model (regularised baseline),Chhattisgarh,2027,Female,Forecast,66.42291861509881,69.60430534936442,72.76382109187836
+Main model (regularised baseline),Chhattisgarh,2028,Female,Forecast,66.57008362428422,70.17451766051943,73.6673121372851
+Main model (regularised baseline),Chhattisgarh,2029,Female,Forecast,66.59490093416707,70.67370469327054,74.45058390981178
+Main model (regularised baseline),Chhattisgarh,2030,Female,Forecast,67.0090704611556,71.16131398176661,75.17764148024906
+Main model (regularised baseline),Chhattisgarh,2031,Female,Forecast,67.2678115870561,71.59033968945224,75.78321042576773
+Main model (regularised baseline),Chhattisgarh,2032,Female,Forecast,67.45053123556733,72.07760809727034,76.34878359508112
+Main model (regularised baseline),Chhattisgarh,2033,Female,Forecast,67.82614839125964,72.52684392059135,76.94910218116038
+Main model (regularised baseline),Chhattisgarh,2034,Female,Forecast,68.23716581432092,72.8815417788648,77.31710994393231
+Main model (regularised baseline),Chhattisgarh,2035,Female,Forecast,68.38294854443183,73.21984961635508,77.88597517405051
+Main model (regularised baseline),Chhattisgarh,2036,Female,Forecast,68.75429076241858,73.61539531688364,78.65932518439264
+Main model (regularised baseline),Chhattisgarh,2037,Female,Forecast,68.81504539981516,73.95091156756347,78.96862991014386
+Main model (regularised baseline),Chhattisgarh,2038,Female,Forecast,69.23124247389929,74.2531512187009,79.37627864081453
+Main model (regularised baseline),Chhattisgarh,2039,Female,Forecast,69.50786342390265,74.61123517044487,79.5996069028902
+Main model (regularised baseline),Chhattisgarh,2040,Female,Forecast,69.77670626208021,75.03368021102065,80.20599096224676
+Main model (regularised baseline),Chhattisgarh,2041,Female,Forecast,69.90953919087065,75.28358110047614,80.51900682442292
+Main model (regularised baseline),Chhattisgarh,2042,Female,Forecast,70.19998319456076,75.56036003554348,81.03243018125254
+Main model (regularised baseline),Chhattisgarh,2043,Female,Forecast,70.46396563997294,75.861507157504235,81.26107403636642
+Main model (regularised baseline),Chhattisgarh,2044,Female,Forecast,70.6145524580583,76.19032578214228,81.50877211449757
+Main model (regularised baseline),Chhattisgarh,2045,Female,Forecast,70.9994062523849,76.3671648486403,81.89267062052342
+Main model (regularised baseline),Chhattisgarh,2046,Female,Forecast,71.16527744159853,76.70212943127252,81.9423585598191
+Main model (regularised baseline),Chhattisgarh,2047,Female,Forecast,71.13592557254714,76.98395679137722,82.39212344566528
+Main model (regularised baseline),Chhattisgarh,2048,Female,Forecast,71.17203231964449,77.16989437778713,82.6986203395734
+Main model (regularised baseline),Chhattisgarh,2049,Female,Forecast,71.32882671316553,77.40140557748668,82.92247978630115
+Main model (regularised baseline),Chhattisgarh,2050,Female,Forecast,71.48184906584126,77.59141766584553,83.26043153915077
+Main model (regularised baseline),Chhattisgarh,2024,Male,Forecast,62.56894714201985,63.36911672807149,64.17816904882858
+Main model (regularised baseline),Chhattisgarh,2025,Male,Forecast,62.356022469953935,64.03811050449295,65.71003384655283
+Main model (regularised baseline),Chhattisgarh,2026,Male,Forecast,62.303672425785265,64.55588915738933,66.51089985786105
+Main model (regularised baseline),Chhattisgarh,2027,Male,Forecast,62.51372796938808,65.05203270574145,67.47677326863771
+Main model (regularised baseline),Chhattisgarh,2028,Male,Forecast,62.46057309629204,65.44803189246431,68.15243780346799
+Main model (regularised baseline),Chhattisgarh,2029,Male,Forecast,62.84535502878386,65.85052457972877,68.98750821921868
+Main model (regularised baseline),Chhattisgarh,2030,Male,Forecast,62.970893356182806,66.19286346500179,69.55079602739603
+Main model (regularised baseline),Chhattisgarh,2031,Male,Forecast,63.11948211235605,66.56729405371928,69.99586498119783
+Main model (regularised baseline),Chhattisgarh,2032,Male,Forecast,63.171979584648355,66.86999452721241,70.45867775075482
+Main model (regularised baseline),Chhattisgarh,2033,Male,Forecast,63.46900068445275,67.22957995448732,70.94371963439973
+Main model (regularised baseline),Chhattisgarh,2034,Male,Forecast,63.606430886320574,67.51113527152967,71.29602508158855
+Main model (regularised baseline),Chhattisgarh,2035,Male,Forecast,63.68891284257621,67.73739590568053,71.68080645663223
+Main model (regularised baseline),Chhattisgarh,2036,Male,Forecast,64.04218853196622,68.13255767740702,72.20089758492331
+Main model (regularised baseline),Chhattisgarh,2037,Male,Forecast,64.38014677772189,68.4371647928931,72.5252502324721
+Main model (regularised baseline),Chhattisgarh,2038,Male,Forecast,64.43278266622733,68.66114458840042,72.82319505072391
+Main model (regularised baseline),Chhattisgarh,2039,Male,Forecast,64.5017247526603,68.9912575027425,73.26053271681414
+Main model (regularised baseline),Chhattisgarh,2040,Male,Forecast,64.87968180391297,69.18153804523774,73.6129320590888
+Main model (regularised baseline),Chhattisgarh,2041,Male,Forecast,64.89320146789001,69.44773071864384,73.68387913535615
+Main model (regularised baseline),Chhattisgarh,2042,Male,Forecast,65.20448098123995,69.63859776123013,74.03684906174051
+Main model (regularised baseline),Chhattisgarh,2043,Male,Forecast,65.32664409106296,69.8023421296071,74.21748603217462
+Main model (regularised baseline),Chhattisgarh,2044,Male,Forecast,65.35453892316349,70.08660408650991,74.5632056808877
+Main model (regularised baseline),Chhattisgarh,2045,Male,Forecast,65.64230602096087,70.30101780584866,74.83224243454082
+Main model (regularised baseline),Chhattisgarh,2046,Male,Forecast,65.6840427792207,70.58728619706247,74.94176650611415
+Main model (regularised baseline),Chhattisgarh,2047,Male,Forecast,65.82109821672506,70.7909091031411,75.333295568595
+Main model (regularised baseline),Chhattisgarh,2048,Male,Forecast,66.02998733912665,70.91976271063136,75.4324025451254
+Main model (regularised baseline),Chhattisgarh,2049,Male,Forecast,66.12935229110586,71.04330634761048,75.56130794431783
+Main model (regularised baseline),Chhattisgarh,2050,Male,Forecast,66.34235997613374,71.24563060486079,75.9696930718657
+Main model (regularised baseline),Delhi,2024,Female,Forecast,76.37792217929906,77.2456295790686,78.05749311210957
+Main model (regularised baseline),Delhi,2025,Female,Forecast,75.53523111491263,77.48575072438855,79.47440273661755
+Main model (regularised baseline),Delhi,2026,Female,Forecast,75.148475835565,77.75948629697439,80.37250967354154
+Main model (regularised baseline),Delhi,2027,Female,Forecast,74.91073699937988,77.94468442818757,80.80324207447615
+Main model (regularised baseline),Delhi,2028,Female,Forecast,74.53935677191565,78.10498834822766,81.45726102888531
+Main model (regularised baseline),Delhi,2029,Female,Forecast,74.31853191041732,78.2750645989635,81.86303017083424
+Main model (regularised baseline),Delhi,2030,Female,Forecast,74.34921135858849,78.45142174352631,82.51091585244552
+Main model (regularised baseline),Delhi,2031,Female,Forecast,74.07153575734202,78.59305843668827,82.81936172920197
+Main model (regularised baseline),Delhi,2032,Female,Forecast,74.18061478335719,78.72914621606003,83.05923060423449
+Main model (regularised baseline),Delhi,2033,Female,Forecast,74.07147093253639,78.85860031757754,83.56758539832748
+Main model (regularised baseline),Delhi,2034,Female,Forecast,74.17683628768948,79.02110165438434,83.56005140872777
+Main model (regularised baseline),Delhi,2035,Female,Forecast,74.3434956947475,79.10390350733306,83.97336834955942
+Main model (regularised baseline),Delhi,2036,Female,Forecast,74.39813637112827,79.18895843615093,84.02887188020651
+Main model (regularised baseline),Delhi,2037,Female,Forecast,74.2762367897243,79.33648696169737,84.21710209392981
+Main model (regularised baseline),Delhi,2038,Female,Forecast,74.50121865760435,79.47242834107522,84.42397834679477
+Main model (regularised baseline),Delhi,2039,Female,Forecast,74.51758577436684,79.55524420090379,84.67209005903135
+Main model (regularised baseline),Delhi,2040,Female,Forecast,74.30360460162743,79.7104818355491,84.60954727118641
+Main model (regularised baseline),Delhi,2041,Female,Forecast,74.452983910302,79.7959974914321,84.80100401761162
+Main model (regularised baseline),Delhi,2042,Female,Forecast,74.56878244717942,79.9969172210096,85.13751920929793
+Main model (regularised baseline),Delhi,2043,Female,Forecast,74.59113233429187,80.112516899570693,85.37516744631503
+Main model (regularised baseline),Delhi,2044,Female,Forecast,74.70983062593119,80.20530466077955,85.72942858887899
+Main model (regularised baseline),Delhi,2045,Female,Forecast,74.78081866832727,80.40945596798814,85.706795581752
+Main model (regularised baseline),Delhi,2046,Female,Forecast,74.97509134107125,80.44281054791861,85.86161383042744
+Main model (regularised baseline),Delhi,2047,Female,Forecast,74.9452831266927,80.59650636531406,86.22181461125314
+Main model (regularised baseline),Delhi,2048,Female,Forecast,75.01291561015417,80.69959460366722,86.38487320972249
+Main model (regularised baseline),Delhi,2049,Female,Forecast,75.26176869911505,80.84186649939402,86.50644265102912
+Main model (regularised baseline),Delhi,2050,Female,Forecast,75.49491103801542,80.94159046942482,86.69986172871619
+Main model (regularised baseline),Delhi,2024,Male,Forecast,72.75036046838694,73.5511217077554,74.33475563562538
+Main model (regularised baseline),Delhi,2025,Male,Forecast,72.24844845574358,73.84811545554933,75.64451619616135
+Main model (regularised baseline),Delhi,2026,Male,Forecast,71.91699607012663,74.12233595812125,76.34216688964986
+Main model (regularised baseline),Delhi,2027,Male,Forecast,71.7458891565742,74.27806254604256,76.73457205282561
+Main model (regularised baseline),Delhi,2028,Male,Forecast,71.61745664693515,74.4084542101035,77.22995109660987
+Main model (regularised baseline),Delhi,2029,Male,Forecast,71.45115712997875,74.54209781064424,77.58838460917589
+Main model (regularised baseline),Delhi,2030,Male,Forecast,71.24111650369754,74.61581962590205,78.0910091345504
+Main model (regularised baseline),Delhi,2031,Male,Forecast,71.26178014160794,74.6786664178463,78.187378275376
+Main model (regularised baseline),Delhi,2032,Male,Forecast,71.35543390372568,74.77445929009698,78.3454275184982
+Main model (regularised baseline),Delhi,2033,Male,Forecast,71.52387914725057,74.91043096820762,78.72896008777508
+Main model (regularised baseline),Delhi,2034,Male,Forecast,71.49263891698921,75.02219209663777,78.98469499944932
+Main model (regularised baseline),Delhi,2035,Male,Forecast,71.37143348748333,75.11336319093272,79.06531882727239
+Main model (regularised baseline),Delhi,2036,Male,Forecast,71.32380648765509,75.21966667020155,79.34632460233706
+Main model (regularised baseline),Delhi,2037,Male,Forecast,71.21083853787479,75.30079890553515,79.45173630306545
+Main model (regularised baseline),Delhi,2038,Male,Forecast,71.32321902970685,75.3358677159177,79.45716368974905
+Main model (regularised baseline),Delhi,2039,Male,Forecast,71.31840635572146,75.58393110954222,79.7024262657497
+Main model (regularised baseline),Delhi,2040,Male,Forecast,71.56522044659822,75.63350006883513,79.88848571484431
+Main model (regularised baseline),Delhi,2041,Male,Forecast,71.67224695990103,75.7204803146754,79.98721161539504
+Main model (regularised baseline),Delhi,2042,Male,Forecast,71.70838260952206,75.85710993235682,80.28213994218822
+Main model (regularised baseline),Delhi,2043,Male,Forecast,71.82924613934424,76.06753148000459,80.45291538925338
+Main model (regularised baseline),Delhi,2044,Male,Forecast,71.67942726565657,76.08668577614108,80.61919235897943
+Main model (regularised baseline),Delhi,2045,Male,Forecast,71.71476053212972,76.29860402353299,80.71172969756269
+Main model (regularised baseline),Delhi,2046,Male,Forecast,71.65790371784462,76.34974736782479,80.79487032564265
+Main model (regularised baseline),Delhi,2047,Male,Forecast,71.56176233299905,76.4535867723682,81.04267275140796
+Main model (regularised baseline),Delhi,2048,Male,Forecast,71.70122020321683,76.56028917919414,81.18285991181988
+Main model (regularised baseline),Delhi,2049,Male,Forecast,71.79407925175553,76.74679250643513,81.28651289579724
+Main model (regularised baseline),Delhi,2050,Male,Forecast,71.80967682184257,76.79674779852212,81.36655862984937
+Main model (regularised baseline),Goa,2012,Female,Forecast,76.74368458136779,77.57296209647703,78.39232664262963
+Main model (regularised baseline),Goa,2013,Female,Forecast,75.56794092040072,77.70869668738526,79.69318387950605
+Main model (regularised baseline),Goa,2014,Female,Forecast,75.07979733211387,77.8448883464431,80.38388477226374
+Main model (regularised baseline),Goa,2015,Female,Forecast,74.75661152774984,78.03956195043291,81.05134886018331
+Main model (regularised baseline),Goa,2016,Female,Forecast,74.65197937853227,78.07552344466586,81.51672537090379
+Main model (regularised baseline),Goa,2017,Female,Forecast,74.3954779010634,78.19761712721578,81.94774286105232
+Main model (regularised baseline),Goa,2018,Female,Forecast,74.29549030964456,78.3366322006359,82.34189939315553
+Main model (regularised baseline),Goa,2019,Female,Forecast,74.35813609042842,78.48285669015308,82.66123024967249
+Main model (regularised baseline),Goa,2020,Female,Forecast,73.76227955966154,78.33401269764954,82.90683628749696
+Main model (regularised baseline),Goa,2021,Female,Forecast,72.1599121862701,76.93851792238169,81.4892514975217
+Main model (regularised baseline),Goa,2022,Female,Forecast,73.25983694932258,78.29083091015404,83.04412875016429
+Main model (regularised baseline),Goa,2023,Female,Forecast,73.76924364400844,78.81607315653417,83.92226338798457
+Main model (regularised baseline),Goa,2024,Female,Forecast,74.05394489284325,79.09222070724066,84.28353116339662
+Main model (regularised baseline),Goa,2025,Female,Forecast,74.08560141408383,79.22805686798256,84.18496895601027
+Main model (regularised baseline),Goa,2026,Female,Forecast,74.14252033059572,79.38953533424282,84.56696498045443
+Main model (regularised baseline),Goa,2027,Female,Forecast,74.39584510619738,79.48314200237806,84.83152271123691
+Main model (regularised baseline),Goa,2028,Female,Forecast,74.4376129255283,79.5654385439594,84.97950519601117
+Main model (regularised baseline),Goa,2029,Female,Forecast,74.49331670807189,79.74246816739185,85.25126480525455
+Main model (regularised baseline),Goa,2030,Female,Forecast,74.4103164424165,79.87876694437895,85.40760770081653
+Main model (regularised baseline),Goa,2031,Female,Forecast,74.62716041514065,80.03549231774434,85.53929409379806
+Main model (regularised baseline),Goa,2032,Female,Forecast,74.83621000898252,80.14859193388855,85.91410416980679
+Main model (regularised baseline),Goa,2033,Female,Forecast,74.68823686053041,80.2400811247764,86.00070317519628
+Main model (regularised baseline),Goa,2034,Female,Forecast,74.82078348109489,80.4413637235358,86.06619896477868
+Main model (regularised baseline),Goa,2035,Female,Forecast,74.91554798780751,80.53248020942326,86.18698794249843
+Main model (regularised baseline),Goa,2036,Female,Forecast,75.18510328407608,80.68026242466811,86.41422488323096
+Main model (regularised baseline),Goa,2037,Female,Forecast,75.11428072982017,80.839866428541,86.3020595084967
+Main model (regularised baseline),Goa,2038,Female,Forecast,75.08295732519761,80.91159377640956,86.52706818462731
+Main model (regularised baseline),Goa,2039,Female,Forecast,75.31567115225087,81.05861158248128,86.83115629951445
+Main model (regularised baseline),Goa,2040,Female,Forecast,75.43657457669761,81.03679294595273,86.71830193411017
+Main model (regularised baseline),Goa,2041,Female,Forecast,75.30531876482605,81.16060995625955,86.74556748077029
+Main model (regularised baseline),Goa,2042,Female,Forecast,75.57768162980966,81.2123789504864,86.91905520875565
+Main model (regularised baseline),Goa,2043,Female,Forecast,75.51566544980776,81.41634005716631,87.06580902243816
+Main model (regularised baseline),Goa,2044,Female,Forecast,75.61575581664545,81.52868612411174,87.32991977259431
+Main model (regularised baseline),Goa,2045,Female,Forecast,75.91315102824889,81.56245865939059,87.44407554229765
+Main model (regularised baseline),Goa,2046,Female,Forecast,76.12120160278116,81.668974019319,87.64523883586939
+Main model (regularised baseline),Goa,2047,Female,Forecast,76.19732788123414,81.8081752701578,87.57082990921121
+Main model (regularised baseline),Goa,2048,Female,Forecast,76.09732963542993,81.91804228043719,87.893281209483
+Main model (regularised baseline),Goa,2049,Female,Forecast,76.17877080064696,81.96656506023228,87.84356671089714
+Main model (regularised baseline),Goa,2050,Female,Forecast,76.45393077634425,82.11770370779291,88.16541024407005
+Main model (regularised baseline),Goa,2012,Male,Forecast,69.86845835785209,70.69499748956831,71.45134165955875
+Main model (regularised baseline),Goa,2013,Male,Forecast,69.12516771195891,70.75511224163712,72.32976869391904
+Main model (regularised baseline),Goa,2014,Male,Forecast,68.66642500180704,70.869075767867,72.98051406302201
+Main model (regularised baseline),Goa,2015,Male,Forecast,68.31868851669303,70.95086911788724,73.40636919878946
+Main model (regularised baseline),Goa,2016,Male,Forecast,68.16902111895786,71.01632461800725,73.75953422077633
+Main model (regularised baseline),Goa,2017,Male,Forecast,67.88459657640198,71.05786165286199,74.19873355078127
+Main model (regularised baseline),Goa,2018,Male,Forecast,67.96450600856696,71.07489235232734,74.48421727321252
+Main model (regularised baseline),Goa,2019,Male,Forecast,68.0025250244365,71.23831754419537,74.70495169017413
+Main model (regularised baseline),Goa,2020,Male,Forecast,67.23666762292987,70.78830070683735,74.55062892793232
+Main model (regularised baseline),Goa,2021,Male,Forecast,64.60011203008733,68.3555309812977,72.38641929589308
+Main model (regularised baseline),Goa,2022,Male,Forecast,66.09777339163631,69.86060870662979,73.9056643511858
+Main model (regularised baseline),Goa,2023,Male,Forecast,66.90418019078483,70.74636533051296,74.93977365040597
+Main model (regularised baseline),Goa,2024,Male,Forecast,67.44359273929318,71.25408806017182,75.5062869521807
+Main model (regularised baseline),Goa,2025,Male,Forecast,67.7304622323089,71.62230545083413,75.83709503938788
+Main model (regularised baseline),Goa,2026,Male,Forecast,67.58995043700334,71.84706864727042,76.21266923065026
+Main model (regularised baseline),Goa,2027,Male,Forecast,67.70625184894263,72.04169800128086,76.52736036071792
+Main model (regularised baseline),Goa,2028,Male,Forecast,67.9293414546483,72.14102155678432,76.88304453149377
+Main model (regularised baseline),Goa,2029,Male,Forecast,68.07709802734641,72.24660266580054,76.98495763811927
+Main model (regularised baseline),Goa,2030,Male,Forecast,67.92239236096177,72.41323187261168,76.99284414469452
+Main model (regularised baseline),Goa,2031,Male,Forecast,67.93915830506648,72.56836553578816,77.03902635051976
+Main model (regularised baseline),Goa,2032,Male,Forecast,68.16058781290866,72.66974140870876,77.36135974637652
+Main model (regularised baseline),Goa,2033,Male,Forecast,68.1074030483056,72.81396684947495,77.76081503598252
+Main model (regularised baseline),Goa,2034,Male,Forecast,68.5127140015616,72.94195712326275,77.96874845348954
+Main model (regularised baseline),Goa,2035,Male,Forecast,68.45251502703945,73.0460996235236,77.90177400407688
+Main model (regularised baseline),Goa,2036,Male,Forecast,68.51429245470462,73.17990033913907,78.012113488576
+Main model (regularised baseline),Goa,2037,Male,Forecast,68.60810837350259,73.28318276023327,78.05621291604474
+Main model (regularised baseline),Goa,2038,Male,Forecast,68.84862842697079,73.45466578395536,78.10080291763471
+Main model (regularised baseline),Goa,2039,Male,Forecast,68.82693375264355,73.51069247318318,78.33933718251608
+Main model (regularised baseline),Goa,2040,Male,Forecast,68.79584937550473,73.59519300383744,78.48222658521662
+Main model (regularised baseline),Goa,2041,Male,Forecast,69.12584394230831,73.68243905348366,78.56955689759101
+Main model (regularised baseline),Goa,2042,Male,Forecast,69.24907015187887,73.83527847797052,78.88491016744214
+Main model (regularised baseline),Goa,2043,Male,Forecast,69.39959876449635,73.94358314398087,79.04695002578342
+Main model (regularised baseline),Goa,2044,Male,Forecast,69.06559976442891,74.01537132767554,78.9477879607569
+Main model (regularised baseline),Goa,2045,Male,Forecast,69.1354572716739,74.10617574636888,79.24975323784126
+Main model (regularised baseline),Goa,2046,Male,Forecast,69.12316720466937,74.26904146426962,79.33386218969596
+Main model (regularised baseline),Goa,2047,Male,Forecast,69.39907165238861,74.39983047552812,79.54073185995715
+Main model (regularised baseline),Goa,2048,Male,Forecast,69.47130191029726,74.43055712148515,79.73757997191753
+Main model (regularised baseline),Goa,2049,Male,Forecast,69.42519427119046,74.57986935124515,80.0094544592407
+Main model (regularised baseline),Goa,2050,Male,Forecast,69.68373838149881,74.65643313778168,79.9699093331586
+Main model (regularised baseline),Gujarat,2024,Female,Forecast,75.11114361058898,75.94967299568827,76.79647865801576
+Main model (regularised baseline),Gujarat,2025,Female,Forecast,74.13451991340203,76.13115390786083,78.2117328151648
+Main model (regularised baseline),Gujarat,2026,Female,Forecast,73.50344114288737,76.22911383083567,78.90918769556224
+Main model (regularised baseline),Gujarat,2027,Female,Forecast,73.03650272287227,76.31711123174117,79.52745677781657
+Main model (regularised baseline),Gujarat,2028,Female,Forecast,72.90731527148877,76.3877710696396,79.75804375395153
+Main model (regularised baseline),Gujarat,2029,Female,Forecast,72.45606396996463,76.47621797586291,80.27124574200495
+Main model (regularised baseline),Gujarat,2030,Female,Forecast,72.4296378211408,76.59626844196835,80.75893050496768
+Main model (regularised baseline),Gujarat,2031,Female,Forecast,72.44996214656777,76.63338901628339,81.06367014499305
+Main model (regularised baseline),Gujarat,2032,Female,Forecast,72.22890044586062,76.71468200637104,81.15360400785246
+Main model (regularised baseline),Gujarat,2033,Female,Forecast,72.20143205340585,76.83577194226231,81.44888037790382
+Main model (regularised baseline),Gujarat,2034,Female,Forecast,72.48531281116095,76.86855084711567,81.62119159946403
+Main model (regularised baseline),Gujarat,2035,Female,Forecast,72.43155542330929,77.02268967829721,81.98604109329337
+Main model (regularised baseline),Gujarat,2036,Female,Forecast,72.47819222313886,77.14903124540075,82.48394671204036
+Main model (regularised baseline),Gujarat,2037,Female,Forecast,72.614215604807,77.2337029587502,82.48724228600804
+Main model (regularised baseline),Gujarat,2038,Female,Forecast,72.54113855624692,77.32851283248672,82.7252595963068
+Main model (regularised baseline),Gujarat,2039,Female,Forecast,72.25217497175235,77.42905457802723,83.03538930584818
+Main model (regularised baseline),Gujarat,2040,Female,Forecast,72.36947815321825,77.49350528864812,83.1433347047641
+Main model (regularised baseline),Gujarat,2041,Female,Forecast,72.43284009156767,77.65999186131927,83.3471839442798
+Main model (regularised baseline),Gujarat,2042,Female,Forecast,72.59843019329311,77.84653012450983,83.32688317247978
+Main model (regularised baseline),Gujarat,2043,Female,Forecast,72.69195862335351,77.96404466705033,83.5229825498758
+Main model (regularised baseline),Gujarat,2044,Female,Forecast,72.72901586284509,78.23603469111777,83.63081432428068
+Main model (regularised baseline),Gujarat,2045,Female,Forecast,72.91635619837683,78.47791791066933,83.90116596204123
+Main model (regularised baseline),Gujarat,2046,Female,Forecast,72.62195666739329,78.5721968891765,84.12730078436309
+Main model (regularised baseline),Gujarat,2047,Female,Forecast,72.8957930529059,78.7480846736843,84.38305656531554
+Main model (regularised baseline),Gujarat,2048,Female,Forecast,73.00424658483108,78.85031698075528,84.17812265259661
+Main model (regularised baseline),Gujarat,2049,Female,Forecast,73.19963163159335,79.00891915937387,84.59108511609244
+Main model (regularised baseline),Gujarat,2050,Female,Forecast,73.30727954484058,79.18711359273149,84.83494643174143
+Main model (regularised baseline),Gujarat,2024,Male,Forecast,69.17004003721726,69.94172308462647,70.73372665384211
+Main model (regularised baseline),Gujarat,2025,Male,Forecast,68.60697639930079,70.22714969805295,71.80446905883736
+Main model (regularised baseline),Gujarat,2026,Male,Forecast,68.20452223597522,70.39932021866144,72.54202766260676
+Main model (regularised baseline),Gujarat,2027,Male,Forecast,67.94315603415387,70.53174519005285,73.05469520003176
+Main model (regularised baseline),Gujarat,2028,Male,Forecast,67.65573101182031,70.60005423776266,73.47405711688072
+Main model (regularised baseline),Gujarat,2029,Male,Forecast,67.55620299124314,70.68783762287931,73.65211581016385
+Main model (regularised baseline),Gujarat,2030,Male,Forecast,67.53321009330567,70.79784582231926,73.93755467456947
+Main model (regularised baseline),Gujarat,2031,Male,Forecast,67.38279295320359,70.86240739390638,74.21595055820173
+Main model (regularised baseline),Gujarat,2032,Male,Forecast,67.27349753208033,70.92630055137343,74.59064986791816
+Main model (regularised baseline),Gujarat,2033,Male,Forecast,67.25835394371673,70.990899809175,74.86430270395354
+Main model (regularised baseline),Gujarat,2034,Male,Forecast,67.34532979580926,71.11161539209758,75.1012160644506
+Main model (regularised baseline),Gujarat,2035,Male,Forecast,67.41008785161452,71.16864471570815,75.06999304998561
+Main model (regularised baseline),Gujarat,2036,Male,Forecast,67.48932047209748,71.30069210101303,75.42568180981779
+Main model (regularised baseline),Gujarat,2037,Male,Forecast,67.27585214524596,71.43595324490134,75.65729359131522
+Main model (regularised baseline),Gujarat,2038,Male,Forecast,67.35806354003697,71.51050643532162,76.00606210128365
+Main model (regularised baseline),Gujarat,2039,Male,Forecast,67.22748068985821,71.64381099497287,76.10977890553639
+Main model (regularised baseline),Gujarat,2040,Male,Forecast,67.16189772830522,71.76013433289954,76.44304174445828
+Main model (regularised baseline),Gujarat,2041,Male,Forecast,67.3435466994655,71.87154092979878,76.51027727354618
+Main model (regularised baseline),Gujarat,2042,Male,Forecast,67.41270565840807,71.98274050360581,76.70552411890425
+Main model (regularised baseline),Gujarat,2043,Male,Forecast,67.44867618302419,72.05182347181501,76.84052302544166
+Main model (regularised baseline),Gujarat,2044,Male,Forecast,67.6302780534479,72.22605877304527,76.91105241651643
+Main model (regularised baseline),Gujarat,2045,Male,Forecast,67.70664671374301,72.39711244886851,77.32815520930015
+Main model (regularised baseline),Gujarat,2046,Male,Forecast,67.91365882715148,72.46861007669204,77.41621660281817
+Main model (regularised baseline),Gujarat,2047,Male,Forecast,68.01486137118955,72.60019348683451,77.57301783796343
+Main model (regularised baseline),Gujarat,2048,Male,Forecast,67.885771715122,72.74022920812867,77.6204650086547
+Main model (regularised baseline),Gujarat,2049,Male,Forecast,68.04430659624933,72.80336788200663,77.60965141762638
+Main model (regularised baseline),Gujarat,2050,Male,Forecast,68.1573680472133,72.9341085827047,77.74418458978282
+Main model (regularised baseline),Haryana,2024,Female,Forecast,72.74545101638662,73.60359355808758,74.4555922425338
+Main model (regularised baseline),Haryana,2025,Female,Forecast,72.01064557212442,73.95767543089153,75.92245578874055
+Main model (regularised baseline),Haryana,2026,Female,Forecast,71.73338010161211,74.34473230401952,77.0497906142311
+Main model (regularised baseline),Haryana,2027,Female,Forecast,71.44610308740735,74.66810709161078,77.75149651372301
+Main model (regularised baseline),Haryana,2028,Female,Forecast,71.27855214548936,74.87459388784231,78.51264303166059
+Main model (regularised baseline),Haryana,2029,Female,Forecast,71.26975780551635,75.1839769302934,79.1254306637427
+Main model (regularised baseline),Haryana,2030,Female,Forecast,71.44336499766881,75.43596973492916,79.59578146073827
+Main model (regularised baseline),Haryana,2031,Female,Forecast,71.65085672255614,75.78730112118356,79.87501510520481
+Main model (regularised baseline),Haryana,2032,Female,Forecast,71.75986170061942,76.08552309323167,80.48232630148233
+Main model (regularised baseline),Haryana,2033,Female,Forecast,71.86343604192139,76.38658730925727,80.838540946031
+Main model (regularised baseline),Haryana,2034,Female,Forecast,72.02272263346761,76.65012578037546,81.38991580018904
+Main model (regularised baseline),Haryana,2035,Female,Forecast,72.11577733485242,76.88647702515621,81.76050371902477
+Main model (regularised baseline),Haryana,2036,Female,Forecast,71.95039707156316,77.07901225113173,82.30598806977818
+Main model (regularised baseline),Haryana,2037,Female,Forecast,72.09499345621819,77.2260727226994,82.62994045646602
+Main model (regularised baseline),Haryana,2038,Female,Forecast,72.34911628898149,77.49582800027522,82.77155280466903
+Main model (regularised baseline),Haryana,2039,Female,Forecast,72.21707355641644,77.68380382828832,82.89218275379417
+Main model (regularised baseline),Haryana,2040,Female,Forecast,72.44029031683272,77.88041566448877,83.2116363507
+Main model (regularised baseline),Haryana,2041,Female,Forecast,72.75477812404691,78.09724327901098,83.56144012062713
+Main model (regularised baseline),Haryana,2042,Female,Forecast,72.99436524271569,78.33449888382779,83.90426978570814
+Main model (regularised baseline),Haryana,2043,Female,Forecast,72.98377277248404,78.37564018927648,84.03219651102891
+Main model (regularised baseline),Haryana,2044,Female,Forecast,73.36300549111661,78.45221472721624,84.11927201349083
+Main model (regularised baseline),Haryana,2045,Female,Forecast,73.33944791273372,78.76495978539751,84.37870508314542
+Main model (regularised baseline),Haryana,2046,Female,Forecast,73.41817317430231,78.9022241058812,84.73773636581271
+Main model (regularised baseline),Haryana,2047,Female,Forecast,73.12411269436147,79.1531940087512,84.79555602347806
+Main model (regularised baseline),Haryana,2048,Female,Forecast,73.38167120771476,79.29040676123134,85.11925816738768
+Main model (regularised baseline),Haryana,2049,Female,Forecast,73.39953057022383,79.51856334891698,85.4018014078238
+Main model (regularised baseline),Haryana,2050,Female,Forecast,73.46118462341212,79.65957911640149,85.31722917623216
+Main model (regularised baseline),Haryana,2024,Male,Forecast,66.86340330954374,67.6392096765562,68.45116870637331
+Main model (regularised baseline),Haryana,2025,Male,Forecast,66.47248989841985,68.16819279715821,69.9068836146751
+Main model (regularised baseline),Haryana,2026,Male,Forecast,66.50912262236534,68.5327756310796,70.78943312719592
+Main model (regularised baseline),Haryana,2027,Male,Forecast,66.39431163546864,68.92567722235938,71.48871591370546
+Main model (regularised baseline),Haryana,2028,Male,Forecast,66.35590170681044,69.16146667511208,71.9209692701619
+Main model (regularised baseline),Haryana,2029,Male,Forecast,66.47423259556096,69.42080673327376,72.49880292715508
+Main model (regularised baseline),Haryana,2030,Male,Forecast,66.42726004748609,69.63475154474952,72.9712958694057
+Main model (regularised baseline),Haryana,2031,Male,Forecast,66.4169988526624,69.91882646369373,73.45637647497135
+Main model (regularised baseline),Haryana,2032,Male,Forecast,66.57894089335808,70.17250093382663,73.73206472713392
+Main model (regularised baseline),Haryana,2033,Male,Forecast,66.6334588923833,70.38585628261627,74.05557567069222
+Main model (regularised baseline),Haryana,2034,Male,Forecast,66.78300966064748,70.6320513224201,74.26405364501592
+Main model (regularised baseline),Haryana,2035,Male,Forecast,66.72589564084464,70.81420483783766,74.64388073327413
+Main model (regularised baseline),Haryana,2036,Male,Forecast,66.64223918741519,71.03135878535483,75.07146969841703
+Main model (regularised baseline),Haryana,2037,Male,Forecast,66.89825051942348,71.19391509908965,75.5227296571297
+Main model (regularised baseline),Haryana,2038,Male,Forecast,67.06969885092376,71.40443497529783,75.67957951895816
+Main model (regularised baseline),Haryana,2039,Male,Forecast,67.28429952154734,71.535806868839245,75.95763231451848
+Main model (regularised baseline),Haryana,2040,Male,Forecast,67.17921648281528,71.6742326887277,76.17905227994599
+Main model (regularised baseline),Haryana,2041,Male,Forecast,67.19430101350962,71.9110629760177,76.57248196006736
+Main model (regularised baseline),Haryana,2042,Male,Forecast,67.25661338125832,72.04532304824505,76.60513512520725
+Main model (regularised baseline),Haryana,2043,Male,Forecast,67.51341404829009,72.16097300841835,76.8138519246095
+Main model (regularised baseline),Haryana,2044,Male,Forecast,67.60279717624087,72.26312117070506,76.87338869857821
+Main model (regularised baseline),Haryana,2045,Male,Forecast,67.7109628653069,72.40931674608376,77.03287327511435
+Main model (regularised baseline),Haryana,2046,Male,Forecast,67.77584857823632,72.52058465261733,77.43416588232299
+Main model (regularised baseline),Haryana,2047,Male,Forecast,67.6726189619715,72.7154105742784,77.58218664049774
+Main model (regularised baseline),Haryana,2048,Male,Forecast,67.78531233158263,72.81955807233268,77.50957546401534
+Main model (regularised baseline),Haryana,2049,Male,Forecast,67.887560851623,72.97994361463684,77.56993035261317
+Main model (regularised baseline),Haryana,2050,Male,Forecast,68.08998485746727,73.06238294246889,77.78610632582243
+Main model (regularised baseline),Himachal Pradesh,2024,Female,Forecast,78.48180180418275,79.3393155790072,80.15767339119702
+Main model (regularised baseline),Himachal Pradesh,2025,Female,Forecast,77.38139657646865,79.35562975772598,81.36673646586021
+Main model (regularised baseline),Himachal Pradesh,2026,Female,Forecast,76.8078623834872,79.4554373120765,82.1231843761344
+Main model (regularised baseline),Himachal Pradesh,2027,Female,Forecast,76.29542245448187,79.48174194214558,82.58517042677656
+Main model (regularised baseline),Himachal Pradesh,2028,Female,Forecast,76.15422456816458,79.51414654218323,83.02294984529327
+Main model (regularised baseline),Himachal Pradesh,2029,Female,Forecast,75.680485507298,79.46552281278821,83.09994496514047
+Main model (regularised baseline),Himachal Pradesh,2030,Female,Forecast,75.51521942902387,79.49306766777761,83.42219893997367
+Main model (regularised baseline),Himachal Pradesh,2031,Female,Forecast,75.40381587931279,79.60591182812593,84.0211442708849
+Main model (regularised baseline),Himachal Pradesh,2032,Female,Forecast,75.40335918885312,79.6300408714781,84.04743548737461
+Main model (regularised baseline),Himachal Pradesh,2033,Female,Forecast,75.22488437804802,79.67622641306785,84.24031958565797
+Main model (regularised baseline),Himachal Pradesh,2034,Female,Forecast,74.85494575028251,79.71781794945002,84.20314015560817
+Main model (regularised baseline),Himachal Pradesh,2035,Female,Forecast,75.0380009798935,79.74658531631106,84.56261705620673
+Main model (regularised baseline),Himachal Pradesh,2036,Female,Forecast,75.03617550624473,79.839936028968,84.53374799202385
+Main model (regularised baseline),Himachal Pradesh,2037,Female,Forecast,75.16044709286496,79.890181211747,84.88308255029713
+Main model (regularised baseline),Himachal Pradesh,2038,Female,Forecast,75.0401785742766,80.02433404175463,85.05064095994427
+Main model (regularised baseline),Himachal Pradesh,2039,Female,Forecast,74.88621582658908,80.09538986792336,85.10152836800725
+Main model (regularised baseline),Himachal Pradesh,2040,Female,Forecast,74.80619052515291,80.25862116106103,85.19867993523614
+Main model (regularised baseline),Himachal Pradesh,2041,Female,Forecast,75.06070376037889,80.3226489973799,85.48896493551118
+Main model (regularised baseline),Himachal Pradesh,2042,Female,Forecast,74.87522998671876,80.37833832461067,85.57312389688104
+Main model (regularised baseline),Himachal Pradesh,2043,Female,Forecast,74.95279432221308,80.41524361929619,85.50664182801488
+Main model (regularised baseline),Himachal Pradesh,2044,Female,Forecast,75.23854049102273,80.48066111709164,86.01160017391574
+Main model (regularised baseline),Himachal Pradesh,2045,Female,Forecast,75.25845277374749,80.61793295936442,86.11660716846983
+Main model (regularised baseline),Himachal Pradesh,2046,Female,Forecast,75.29362074355053,80.67755069816337,86.44625710265977
+Main model (regularised baseline),Himachal Pradesh,2047,Female,Forecast,75.12028434635903,80.63868480945195,86.75078130802815
+Main model (regularised baseline),Himachal Pradesh,2048,Female,Forecast,75.09095563870463,80.77610128880721,86.54008770395913
+Main model (regularised baseline),Himachal Pradesh,2049,Female,Forecast,75.2476587849248,80.89999783092017,86.6184803681534
+Main model (regularised baseline),Himachal Pradesh,2050,Female,Forecast,75.31588914059193,81.01981459513868,86.90970472123483
+Main model (regularised baseline),Himachal Pradesh,2024,Male,Forecast,72.04199464519043,72.83881981182118,73.62307789501206
+Main model (regularised baseline),Himachal Pradesh,2025,Male,Forecast,71.43768133562915,73.08457092204802,74.63911817428328
+Main model (regularised baseline),Himachal Pradesh,2026,Male,Forecast,71.0046904060317,73.25103013735475,75.37457311334155
+Main model (regularised baseline),Himachal Pradesh,2027,Male,Forecast,70.61886609352982,73.28350450416744,75.6972315010534
+Main model (regularised baseline),Himachal Pradesh,2028,Male,Forecast,70.51004189681176,73.36965820908958,75.99699801921464
+Main model (regularised baseline),Himachal Pradesh,2029,Male,Forecast,70.50572657834023,73.39158357545685,76.2955561390974
+Main model (regularised baseline),Himachal Pradesh,2030,Male,Forecast,70.28460922320711,73.42104076128845,76.55472592542401
+Main model (regularised baseline),Himachal Pradesh,2031,Male,Forecast,70.13301928007064,73.48107082091711,76.8609243455999
+Main model (regularised baseline),Himachal Pradesh,2032,Male,Forecast,70.06068211908159,73.51258620911541,77.20143352982927
+Main model (regularised baseline),Himachal Pradesh,2033,Male,Forecast,69.86335505480056,73.54423552652722,77.15301595872916
+Main model (regularised baseline),Himachal Pradesh,2034,Male,Forecast,69.90353009667207,73.5876581065709,77.24203272779498
+Main model (regularised baseline),Himachal Pradesh,2035,Male,Forecast,69.72229806038487,73.65718813786282,77.59493783390943
+Main model (regularised baseline),Himachal Pradesh,2036,Male,Forecast,69.80083847323043,73.78868971800176,77.70864524840988
+Main model (regularised baseline),Himachal Pradesh,2037,Male,Forecast,69.7682420482002,73.73191770561176,77.955823865475
+Main model (regularised baseline),Himachal Pradesh,2038,Male,Forecast,69.88532222133486,73.84374375818825,78.08831445640894
+Main model (regularised baseline),Himachal Pradesh,2039,Male,Forecast,69.70244306004479,73.91702261470707,78.23968278719163
+Main model (regularised baseline),Himachal Pradesh,2040,Male,Forecast,69.76337278143872,73.94927087704026,78.37831443611209
+Main model (regularised baseline),Himachal Pradesh,2041,Male,Forecast,69.80690711358228,74.00733428877894,78.36531258547578
+Main model (regularised baseline),Himachal Pradesh,2042,Male,Forecast,69.77124191469814,74.06273079603363,78.67224443452268
+Main model (regularised baseline),Himachal Pradesh,2043,Male,Forecast,69.7785035105735,74.13714953610895,78.7181679549374
+Main model (regularised baseline),Himachal Pradesh,2044,Male,Forecast,69.79166447710429,74.22258233840176,78.77842229202737
+Main model (regularised baseline),Himachal Pradesh,2045,Male,Forecast,69.80720765651407,74.32189865776023,78.98401373753327
+Main model (regularised baseline),Himachal Pradesh,2046,Male,Forecast,69.95026784765753,74.32953853526098,78.87149259272256
+Main model (regularised baseline),Himachal Pradesh,2047,Male,Forecast,69.82689649603711,74.39746159801538,79.14640244729611
+Main model (regularised baseline),Himachal Pradesh,2048,Male,Forecast,69.91898876282104,74.49309571222804,79.2670750603586
+Main model (regularised baseline),Himachal Pradesh,2049,Male,Forecast,69.93024577615547,74.60129993294876,79.33547930623867
+Main model (regularised baseline),Himachal Pradesh,2050,Male,Forecast,70.00155214438965,74.66240143268482,79.44012692826198
+Main model (regularised baseline),Jammu & Kashmir,2024,Female,Forecast,77.2371207727032,78.06718765076727,78.86581814826383
+Main model (regularised baseline),Jammu & Kashmir,2025,Female,Forecast,76.1836649370447,78.27605349186763,80.19408063143094
+Main model (regularised baseline),Jammu & Kashmir,2026,Female,Forecast,75.72727406398415,78.42888752921417,80.9580660266052
+Main model (regularised baseline),Jammu & Kashmir,2027,Female,Forecast,75.25841664445814,78.5622669542915,81.65180182482277
+Main model (regularised baseline),Jammu & Kashmir,2028,Female,Forecast,75.23618110801526,78.685486099927,82.19066961086911
+Main model (regularised baseline),Jammu & Kashmir,2029,Female,Forecast,75.35574653128029,78.81807638031763,82.66680222116032
+Main model (regularised baseline),Jammu & Kashmir,2030,Female,Forecast,75.1154589619151,79.02630393841815,82.77920773715907
+Main model (regularised baseline),Jammu & Kashmir,2031,Female,Forecast,75.02542358614262,79.1206409361583,83.35762429441587
+Main model (regularised baseline),Jammu & Kashmir,2032,Female,Forecast,75.05581941898328,79.30664402130695,83.52814892219878
+Main model (regularised baseline),Jammu & Kashmir,2033,Female,Forecast,75.02222737068087,79.44386929648846,83.95071004767965
+Main model (regularised baseline),Jammu & Kashmir,2034,Female,Forecast,74.8721587731267,79.40722318734237,84.03711181826486
+Main model (regularised baseline),Jammu & Kashmir,2035,Female,Forecast,74.80012000112299,79.52916452005502,84.19620167150919
+Main model (regularised baseline),Jammu & Kashmir,2036,Female,Forecast,74.94455036135474,79.70899637236255,84.48481880717623
+Main model (regularised baseline),Jammu & Kashmir,2037,Female,Forecast,75.05727559260372,79.71248990322354,84.64445148841004
+Main model (regularised baseline),Jammu & Kashmir,2038,Female,Forecast,75.07385842910625,79.83049580417887,84.76792568989697
+Main model (regularised baseline),Jammu & Kashmir,2039,Female,Forecast,75.0819719442405,79.97356454229163,84.92764605952061
+Main model (regularised baseline),Jammu & Kashmir,2040,Female,Forecast,75.11615336411805,80.09820417414458,85.28596463415128
+Main model (regularised baseline),Jammu & Kashmir,2041,Female,Forecast,75.02871165025118,80.1142470525833,85.1751987888351
+Main model (regularised baseline),Jammu & Kashmir,2042,Female,Forecast,74.96505203849173,80.26602853978112,85.46315348999245
+Main model (regularised baseline),Jammu & Kashmir,2043,Female,Forecast,75.32498183065479,80.39124506761138,85.71060486334534
+Main model (regularised baseline),Jammu & Kashmir,2044,Female,Forecast,75.3242424476114,80.53890745014331,85.63807692925508
+Main model (regularised baseline),Jammu & Kashmir,2045,Female,Forecast,75.22337415781787,80.68185214854847,85.74299082456834
+Main model (regularised baseline),Jammu & Kashmir,2046,Female,Forecast,75.50079612467627,80.75523924467565,85.9605883003431
+Main model (regularised baseline),Jammu & Kashmir,2047,Female,Forecast,75.29538985647062,80.82718730954707,86.19355300288568
+Main model (regularised baseline),Jammu & Kashmir,2048,Female,Forecast,75.43334918478561,80.93341281997158,86.37985098616612
+Main model (regularised baseline),Jammu & Kashmir,2049,Female,Forecast,75.50964565472188,80.98054113615424,86.49927671481953
+Main model (regularised baseline),Jammu & Kashmir,2050,Female,Forecast,75.81763620294862,81.03155642177235,86.68956785351683
+Main model (regularised baseline),Jammu & Kashmir,2024,Male,Forecast,75.1906280728067,75.96171973718303,76.76249781998443
+Main model (regularised baseline),Jammu & Kashmir,2025,Male,Forecast,74.59201740682262,76.23785751558704,77.7667668341853
+Main model (regularised baseline),Jammu & Kashmir,2026,Male,Forecast,74.218687073053,76.35692229385383,78.55711150011882
+Main model (regularised baseline),Jammu & Kashmir,2027,Male,Forecast,73.9836134605884,76.51665058593593,78.99468950008568
+Main model (regularised baseline),Jammu & Kashmir,2028,Male,Forecast,73.75355784054955,76.58238307352809,79.34782814212484
+Main model (regularised baseline),Jammu & Kashmir,2029,Male,Forecast,73.61992358203587,76.65783464996429,79.7303515829837
+Main model (regularised baseline),Jammu & Kashmir,2030,Male,Forecast,73.43853665552722,76.74454020293543,79.95404262451592
+Main model (regularised baseline),Jammu & Kashmir,2031,Male,Forecast,73.37080628246675,76.7656133311919,80.34515757168163
+Main model (regularised baseline),Jammu & Kashmir,2032,Male,Forecast,73.29802136980841,76.868884728228835,80.47331063483473
+Main model (regularised baseline),Jammu & Kashmir,2033,Male,Forecast,73.28233773197566,76.80552496935485,80.65652818891405
+Main model (regularised baseline),Jammu & Kashmir,2034,Male,Forecast,73.12023366570762,76.87250400779507,80.75862890180295
+Main model (regularised baseline),Jammu & Kashmir,2035,Male,Forecast,73.0361544147471,76.98405671558729,80.92679578115427
+Main model (regularised baseline),Jammu & Kashmir,2036,Male,Forecast,72.92384507877891,77.03365690260885,81.16061751610373
+Main model (regularised baseline),Jammu & Kashmir,2037,Male,Forecast,73.03905591521921,77.08767836111437,81.32144066469402
+Main model (regularised baseline),Jammu & Kashmir,2038,Male,Forecast,72.93316014980161,77.17062084586458,81.44434459788309
+Main model (regularised baseline),Jammu & Kashmir,2039,Male,Forecast,72.88472154902772,77.28024044072652,81.5985730894215
+Main model (regularised baseline),Jammu & Kashmir,2040,Male,Forecast,72.80752938403619,77.30498404852574,81.54886383379761
+Main model (regularised baseline),Jammu & Kashmir,2041,Male,Forecast,72.83256892912823,77.32245466755549,81.6174450776784
+Main model (regularised baseline),Jammu & Kashmir,2042,Male,Forecast,72.9681176524779,77.37027374184753,81.61010498585551
+Main model (regularised baseline),Jammu & Kashmir,2043,Male,Forecast,73.21074162202832,77.41729386161983,81.94461699307291
+Main model (regularised baseline),Jammu & Kashmir,2044,Male,Forecast,73.29149325266562,77.48690896144811,81.96314165682008
+Main model (regularised baseline),Jammu & Kashmir,2045,Male,Forecast,73.29475985856722,77.57554666648511,82.23786457064598
+Main model (regularised baseline),Jammu & Kashmir,2046,Male,Forecast,73.36084273042593,77.68269249651331,82.14931267194578
+Main model (regularised baseline),Jammu & Kashmir,2047,Male,Forecast,73.45110001852268,77.76194854289952,82.25598247270418
+Main model (regularised baseline),Jammu & Kashmir,2048,Male,Forecast,73.60149967830651,77.82985476423524,82.56755163984906
+Main model (regularised baseline),Jammu & Kashmir,2049,Male,Forecast,73.40002002060152,77.81517607512754,82.61320859654268
+Main model (regularised baseline),Jammu & Kashmir,2050,Male,Forecast,73.58275540156603,77.90819775369411,82.59795530457845
+Main model (regularised baseline),Jharkhand,2024,Female,Forecast,69.89621836054891,70.77054782043062,71.62979903335292
+Main model (regularised baseline),Jharkhand,2025,Female,Forecast,69.03336174101274,71.03365584945976,72.8960269049121
+Main model (regularised baseline),Jharkhand,2026,Female,Forecast,68.65981084766837,71.3594768247275,74.0551373902895
+Main model (regularised baseline),Jharkhand,2027,Female,Forecast,68.49277141119838,71.68749754609885,74.80465889731235
+Main model (regularised baseline),Jharkhand,2028,Female,Forecast,68.37719834986194,71.83117464790806,75.35418702048871
+Main model (regularised baseline),Jharkhand,2029,Female,Forecast,68.35510901778355,72.08601896755553,75.82011397293185
+Main model (regularised baseline),Jharkhand,2030,Female,Forecast,68.24574625441326,72.38312559113487,76.42857259326243
+Main model (regularised baseline),Jharkhand,2031,Female,Forecast,68.58000308541352,72.64113651199216,76.85214823688209
+Main model (regularised baseline),Jharkhand,2032,Female,Forecast,68.65403207910758,72.88502938891867,77.26341517572646
+Main model (regularised baseline),Jharkhand,2033,Female,Forecast,68.6666170242768,73.21385701845193,77.4266789634247
+Main model (regularised baseline),Jharkhand,2034,Female,Forecast,68.52097059708387,73.36986428347032,77.74962528175217
+Main model (regularised baseline),Jharkhand,2035,Female,Forecast,68.8189251147183,73.66470998907857,78.14282754034511
+Main model (regularised baseline),Jharkhand,2036,Female,Forecast,69.00887630721473,73.82935651520734,78.48297922112914
+Main model (regularised baseline),Jharkhand,2037,Female,Forecast,69.28206530743235,74.05993312607934,78.68490392198592
+Main model (regularised baseline),Jharkhand,2038,Female,Forecast,69.54054081200628,74.3266824337359,79.00455912452907
+Main model (regularised baseline),Jharkhand,2039,Female,Forecast,69.74785164873663,74.56424966611772,79.32270254559944
+Main model (regularised baseline),Jharkhand,2040,Female,Forecast,69.61629629920911,74.75548013812421,79.57165799879975
+Main model (regularised baseline),Jharkhand,2041,Female,Forecast,69.87670592683736,74.8598194160245,79.97263048423068
+Main model (regularised baseline),Jharkhand,2042,Female,Forecast,70.04567318375545,75.20042525275228,80.17614862512019
+Main model (regularised baseline),Jharkhand,2043,Female,Forecast,70.08339677387312,75.26924590223814,80.48045424444861
+Main model (regularised baseline),Jharkhand,2044,Female,Forecast,70.56464970849481,75.50473093559229,80.58866661380233
+Main model (regularised baseline),Jharkhand,2045,Female,Forecast,70.69406190958159,75.71879886503018,80.75062220671089
+Main model (regularised baseline),Jharkhand,2046,Female,Forecast,70.56750372442914,75.86641906873211,81.18872919072918
+Main model (regularised baseline),Jharkhand,2047,Female,Forecast,70.66779943415708,76.14173260542938,81.36987994676826
+Main model (regularised baseline),Jharkhand,2048,Female,Forecast,70.96509509734675,76.3310443253313,81.5809782722227
+Main model (regularised baseline),Jharkhand,2049,Female,Forecast,70.83375876938882,76.4085462432805,81.96083069190401
+Main model (regularised baseline),Jharkhand,2050,Female,Forecast,71.27072913344101,76.64291228826649,82.28834397273646
+Main model (regularised baseline),Jharkhand,2024,Male,Forecast,67.61614771116403,68.43868756761296,69.21962031511104
+Main model (regularised baseline),Jharkhand,2025,Male,Forecast,67.1112701443561,68.80756135393605,70.55095652217199
+Main model (regularised baseline),Jharkhand,2026,Male,Forecast,67.04386584710507,69.20484007046923,71.46682438730073
+Main model (regularised baseline),Jharkhand,2027,Male,Forecast,66.9053081180904,69.4360983544172,72.15041482478941
+Main model (regularised baseline),Jharkhand,2028,Male,Forecast,66.89565794537802,69.71210412865574,72.64794726383106
+Main model (regularised baseline),Jharkhand,2029,Male,Forecast,66.8684610233417,69.90989346256842,72.96348740581507
+Main model (regularised baseline),Jharkhand,2030,Male,Forecast,66.87541948098915,70.1741030158997,73.63440450423859
+Main model (regularised baseline),Jharkhand,2031,Male,Forecast,66.9001780040713,70.28876240954511,73.72803014747241
+Main model (regularised baseline),Jharkhand,2032,Male,Forecast,66.95001916313169,70.50200304901615,74.01839582234007
+Main model (regularised baseline),Jharkhand,2033,Male,Forecast,66.981997572739715,70.69292948693021,74.5293562601932
+Main model (regularised baseline),Jharkhand,2034,Male,Forecast,66.94886803316881,70.81096639863406,74.78869442032615
+Main model (regularised baseline),Jharkhand,2035,Male,Forecast,67.0488689857159,71.00957978367259,75.00755253306302
+Main model (regularised baseline),Jharkhand,2036,Male,Forecast,66.92082126175687,71.25085139138537,75.35553984087628
+Main model (regularised baseline),Jharkhand,2037,Male,Forecast,67.01219157098664,71.40032961556827,75.5060922643774
+Main model (regularised baseline),Jharkhand,2038,Male,Forecast,67.37972067467457,71.60168327504056,75.84025843297331
+Main model (regularised baseline),Jharkhand,2039,Male,Forecast,67.61523051616122,71.76938848131857,75.9007599706294
+Main model (regularised baseline),Jharkhand,2040,Male,Forecast,67.72132344435809,71.92533882913457,76.26469386033986
+Main model (regularised baseline),Jharkhand,2041,Male,Forecast,67.7067776499632,72.06470132104029,76.33035265026552
+Main model (regularised baseline),Jharkhand,2042,Male,Forecast,68.03337062296207,72.28671423622797,76.43439456138438
+Main model (regularised baseline),Jharkhand,2043,Male,Forecast,68.06893243063327,72.48543518464882,76.57925819851677
+Main model (regularised baseline),Jharkhand,2044,Male,Forecast,68.28245021917405,72.57864659760358,76.88328314449524
+Main model (regularised baseline),Jharkhand,2045,Male,Forecast,68.26384370207815,72.7464643431041,77.02605860438398
+Main model (regularised baseline),Jharkhand,2046,Male,Forecast,68.51422869918727,72.94255031908637,77.30226757021495
+Main model (regularised baseline),Jharkhand,2047,Male,Forecast,68.5432718279538,73.13766536798047,77.5048707143708
+Main model (regularised baseline),Jharkhand,2048,Male,Forecast,68.70197514445242,73.27719469286761,77.65386283008561
+Main model (regularised baseline),Jharkhand,2049,Male,Forecast,68.73290931692054,73.40187067183726,77.82018555309278
+Main model (regularised baseline),Jharkhand,2050,Male,Forecast,68.92970056221128,73.55828735596049,78.34085422180993
+Main model (regularised baseline),Karnataka,2024,Female,Forecast,73.26834188495485,74.07105517963925,74.98371738981228
+Main model (regularised baseline),Karnataka,2025,Female,Forecast,72.43291132243051,74.43374453802033,76.37901843825686
+Main model (regularised baseline),Karnataka,2026,Female,Forecast,72.12081299920324,74.71342018165257,77.51601334500815
+Main model (regularised baseline),Karnataka,2027,Female,Forecast,72.13093067535448,74.96760454668618,78.23015105142777
+Main model (regularised baseline),Karnataka,2028,Female,Forecast,72.00187246294804,75.20199907250516,78.71354905570651
+Main model (regularised baseline),Karnataka,2029,Female,Forecast,71.64811025846177,75.49530158512917,79.42295694216946
+Main model (regularised baseline),Karnataka,2030,Female,Forecast,71.56535452136404,75.8098993442806,79.79290638762609
+Main model (regularised baseline),Karnataka,2031,Female,Forecast,71.71116015227162,76.00489399995091,80.34624575923335
+Main model (regularised baseline),Karnataka,2032,Female,Forecast,71.7462333843688,76.21631964957535,80.46756214416654
+Main model (regularised baseline),Karnataka,2033,Female,Forecast,71.76238966271333,76.4817253675534,81.03147565232159
+Main model (regularised baseline),Karnataka,2034,Female,Forecast,71.9742096688097,76.64344403730603,81.27029010408262
+Main model (regularised baseline),Karnataka,2035,Female,Forecast,71.84837718615319,76.84033454470529,81.70672417067061
+Main model (regularised baseline),Karnataka,2036,Female,Forecast,72.12164651347183,77.03855143189793,81.88837429082304
+Main model (regularised baseline),Karnataka,2037,Female,Forecast,71.9951093601181,77.2056216658555,82.2607707266209
+Main model (regularised baseline),Karnataka,2038,Female,Forecast,72.32177438749423,77.3533539770062,82.42750581896776
+Main model (regularised baseline),Karnataka,2039,Female,Forecast,72.35519732670419,77.5234591406961,82.94051537150254
+Main model (regularised baseline),Karnataka,2040,Female,Forecast,72.34228521486662,77.73524826090485,83.41279843761299
+Main model (regularised baseline),Karnataka,2041,Female,Forecast,72.41813741926671,77.86751113394399,83.32132281155158
+Main model (regularised baseline),Karnataka,2042,Female,Forecast,72.6677599257911,78.19106378392206,83.6706304772828
+Main model (regularised baseline),Karnataka,2043,Female,Forecast,72.54441257270955,78.32241813573276,83.58226017720692
+Main model (regularised baseline),Karnataka,2044,Female,Forecast,72.97336582473827,78.4534767182503,84.07385751183344
+Main model (regularised baseline),Karnataka,2045,Female,Forecast,73.25455918083419,78.56962846825611,84.21980734915289
+Main model (regularised baseline),Karnataka,2046,Female,Forecast,73.17053505218905,78.68048518405894,84.56402973132201
+Main model (regularised baseline),Karnataka,2047,Female,Forecast,73.34982434907306,78.87729416423923,84.72793963695284
+Main model (regularised baseline),Karnataka,2048,Female,Forecast,73.50272733012592,78.98597686075877,84.8254605407378
+Main model (regularised baseline),Karnataka,2049,Female,Forecast,73.39387278922761,79.22315843281322,85.21753635880616
+Main model (regularised baseline),Karnataka,2050,Female,Forecast,73.63940847526445,79.2999858453993,85.04923994114253
+Main model (regularised baseline),Karnataka,2024,Male,Forecast,68.89949060909598,69.63430822738984,70.43322396665889
+Main model (regularised baseline),Karnataka,2025,Male,Forecast,68.42726120861859,70.03848771393102,71.60024436912144
+Main model (regularised baseline),Karnataka,2026,Male,Forecast,68.23252124854906,70.23213247242211,72.40758223405588
+Main model (regularised baseline),Karnataka,2027,Male,Forecast,68.08349448309947,70.46579139033162,72.99223219816345
+Main model (regularised baseline),Karnataka,2028,Male,Forecast,67.92040672083931,70.67128258503604,73.53817993467851
+Main model (regularised baseline),Karnataka,2029,Male,Forecast,67.83328314949901,70.85196268092619,73.98613497842403
+Main model (regularised baseline),Karnataka,2030,Male,Forecast,67.79282132092702,71.10150089342548,74.42502281214433
+Main model (regularised baseline),Karnataka,2031,Male,Forecast,67.87338815630872,71.1812302443249,74.62592560106425
+Main model (regularised baseline),Karnataka,2032,Male,Forecast,67.69587854339885,71.30507800374572,74.94731573466359
+Main model (regularised baseline),Karnataka,2033,Male,Forecast,67.79864127260709,71.4964329856204,75.16634223986937
+Main model (regularised baseline),Karnataka,2034,Male,Forecast,67.9000977734846,71.61843383367,75.60210132132113
+Main model (regularised baseline),Karnataka,2035,Male,Forecast,67.98417620450921,71.76758797146903,75.69365974230979
+Main model (regularised baseline),Karnataka,2036,Male,Forecast,67.76623520965363,71.90698898679959,76.18085056534545
+Main model (regularised baseline),Karnataka,2037,Male,Forecast,67.89716167919697,72.11225907170036,76.48076985746127
+Main model (regularised baseline),Karnataka,2038,Male,Forecast,68.0458749461715,72.20532246770938,76.4553222575723
+Main model (regularised baseline),Karnataka,2039,Male,Forecast,67.83489299085932,72.33699570681998,76.65339432115952
+Main model (regularised baseline),Karnataka,2040,Male,Forecast,68.09176768098348,72.47326299915903,77.11324039531819
+Main model (regularised baseline),Karnataka,2041,Male,Forecast,67.99286946807788,72.61047998624593,77.3633924063673
+Main model (regularised baseline),Karnataka,2042,Male,Forecast,68.09756354735903,72.76305644057092,77.49735835943126
+Main model (regularised baseline),Karnataka,2043,Male,Forecast,68.21931071862123,72.93555404922597,77.67112162960618
+Main model (regularised baseline),Karnataka,2044,Male,Forecast,68.21832177403405,72.98267440221548,77.64683108096459
+Main model (regularised baseline),Karnataka,2045,Male,Forecast,68.4557181305488,73.15366370628168,77.74636772104562
+Main model (regularised baseline),Karnataka,2046,Male,Forecast,68.68314110980819,73.15864903054447,77.81518308058418
+Main model (regularised baseline),Karnataka,2047,Male,Forecast,68.77319816690088,73.26247594288871,77.90363291199334
+Main model (regularised baseline),Karnataka,2048,Male,Forecast,68.80531969185515,73.36260259524877,78.09490129823654
+Main model (regularised baseline),Karnataka,2049,Male,Forecast,69.0005850522569,73.45706842881232,78.25110894825269
+Main model (regularised baseline),Karnataka,2050,Male,Forecast,68.95485021342601,73.60120941539114,78.43072057531977
+Main model (regularised baseline),Kerala,2024,Female,Forecast,79.10624845953551,79.9288103195026,80.80493109908637
+Main model (regularised baseline),Kerala,2025,Female,Forecast,78.12835643824788,80.17481997180377,82.20110879449709
+Main model (regularised baseline),Kerala,2026,Female,Forecast,77.76301292707757,80.36993214642533,83.11362773193848
+Main model (regularised baseline),Kerala,2027,Female,Forecast,77.43607599382744,80.59993434758158,83.70697127876757
+Main model (regularised baseline),Kerala,2028,Female,Forecast,77.2864423444891,80.78510652279093,84.0642469685555
+Main model (regularised baseline),Kerala,2029,Female,Forecast,77.13483603232842,80.98725628131056,84.45786167043357
+Main model (regularised baseline),Kerala,2030,Female,Forecast,77.10143898391044,81.18719221378356,85.08047132922334
+Main model (regularised baseline),Kerala,2031,Female,Forecast,76.97897792095463,81.36130655075647,85.49416807901447
+Main model (regularised baseline),Kerala,2032,Female,Forecast,77.07788519173253,81.49588922791636,85.84446704183743
+Main model (regularised baseline),Kerala,2033,Female,Forecast,76.98219312417714,81.66454273301443,86.28279011070997
+Main model (regularised baseline),Kerala,2034,Female,Forecast,76.88641743447378,81.78067136730095,86.41272641572033
+Main model (regularised baseline),Kerala,2035,Female,Forecast,76.8968226093431,81.99188997133379,86.61996634543917
+Main model (regularised baseline),Kerala,2036,Female,Forecast,77.1507783530948,82.09750031992479,87.04375439168132
+Main model (regularised baseline),Kerala,2037,Female,Forecast,76.87376502750564,82.27611407496052,87.22012554680366
+Main model (regularised baseline),Kerala,2038,Female,Forecast,77.15171292975054,82.41219032824333,87.31419138162579
+Main model (regularised baseline),Kerala,2039,Female,Forecast,77.07177358188656,82.45568049496704,87.61126950661986
+Main model (regularised baseline),Kerala,2040,Female,Forecast,77.15041821484627,82.59070776279165,88.01332646983387
+Main model (regularised baseline),Kerala,2041,Female,Forecast,77.6596961854541,82.79476162338895,88.2248531306628
+Main model (regularised baseline),Kerala,2042,Female,Forecast,77.56344760728358,83.00275091071069,88.32030586353618
+Main model (regularised baseline),Kerala,2043,Female,Forecast,77.51881291770914,83.10598213362884,88.57765784504073
+Main model (regularised baseline),Kerala,2044,Female,Forecast,77.83267142532772,83.22077323822677,88.80233978760455
+Main model (regularised baseline),Kerala,2045,Female,Forecast,77.76336469968776,83.37134523510778,88.9325130416457
+Main model (regularised baseline),Kerala,2046,Female,Forecast,77.83631057380886,83.49344583816696,89.22302356612497
+Main model (regularised baseline),Kerala,2047,Female,Forecast,77.82417654049576,83.5941038925393,89.24429956928579
+Main model (regularised baseline),Kerala,2048,Female,Forecast,78.02452987200287,83.73990984971374,89.45665569497899
+Main model (regularised baseline),Kerala,2049,Female,Forecast,78.20430204621661,83.84140324818739,89.70698494189226
+Main model (regularised baseline),Kerala,2050,Female,Forecast,78.30907739439445,84.00265213498413,89.88218490612633
+Main model (regularised baseline),Kerala,2024,Male,Forecast,73.28032565330025,74.04270947922352,74.842416803112
+Main model (regularised baseline),Kerala,2025,Male,Forecast,72.87896770662095,74.47482981496256,76.18320430285482
+Main model (regularised baseline),Kerala,2026,Male,Forecast,72.67273195047096,74.84629550433519,77.00713452623361
+Main model (regularised baseline),Kerala,2027,Male,Forecast,72.5889040150425,75.11871979516052,77.56877795377277
+Main model (regularised baseline),Kerala,2028,Male,Forecast,72.52243892029925,75.31080605303171,78.02894552423776
+Main model (regularised baseline),Kerala,2029,Male,Forecast,72.46571590854937,75.51730084544151,78.47289609797518
+Main model (regularised baseline),Kerala,2030,Male,Forecast,72.55360290749367,75.73217585087036,78.9389227789975
+Main model (regularised baseline),Kerala,2031,Male,Forecast,72.50199432779601,75.94619861989342,79.38749491054631
+Main model (regularised baseline),Kerala,2032,Male,Forecast,72.45866358915438,76.10691151992174,79.66970608779684
+Main model (regularised baseline),Kerala,2033,Male,Forecast,72.37142944951647,76.34398568543705,80.01913810841147
+Main model (regularised baseline),Kerala,2034,Male,Forecast,72.5956363081514,76.48423742594522,80.15975718196121
+Main model (regularised baseline),Kerala,2035,Male,Forecast,72.68916035446415,76.70389640439208,80.63119468417386
+Main model (regularised baseline),Kerala,2036,Male,Forecast,72.61618999264675,76.84428483406273,80.69328333939748
+Main model (regularised baseline),Kerala,2037,Male,Forecast,72.60241889560801,76.93484008544297,80.9083407966165
+Main model (regularised baseline),Kerala,2038,Male,Forecast,72.78685372037626,77.1205034416777,81.18495860604712
+Main model (regularised baseline),Kerala,2039,Male,Forecast,72.76169996155728,77.2303508942649,81.37413881210506
+Main model (regularised baseline),Kerala,2040,Male,Forecast,72.75442790791767,77.39300710677054,81.59474018049485
+Main model (regularised baseline),Kerala,2041,Male,Forecast,72.98682762585713,77.55810089245166,81.9214459636142
+Main model (regularised baseline),Kerala,2042,Male,Forecast,73.12454882563767,77.73727337390505,82.10275764627978
+Main model (regularised baseline),Kerala,2043,Male,Forecast,73.13899237282533,77.79502589410629,82.35381593094064
+Main model (regularised baseline),Kerala,2044,Male,Forecast,73.40139543037519,77.90241919918782,82.4719975192845
+Main model (regularised baseline),Kerala,2045,Male,Forecast,73.3858302808897,78.12885723041867,82.6070880828948
+Main model (regularised baseline),Kerala,2046,Male,Forecast,73.46573894954844,78.30293925166413,82.69123333392685
+Main model (regularised baseline),Kerala,2047,Male,Forecast,73.26682513297999,78.41783585308097,82.9691829095477
+Main model (regularised baseline),Kerala,2048,Male,Forecast,73.83576625701154,78.5135656260651,83.36709226721587
+Main model (regularised baseline),Kerala,2049,Male,Forecast,73.95903098055634,78.69026227717866,83.43203119866264
+Main model (regularised baseline),Kerala,2050,Male,Forecast,74.07108788997063,78.86689699425229,83.44533691750911
+Main model (regularised baseline),Madhya Pradesh,2024,Female,Forecast,71.65016372456378,72.4741545267712,73.31827611843293
+Main model (regularised baseline),Madhya Pradesh,2025,Female,Forecast,70.844180823696135,72.80746815041806,74.80889237953585
+Main model (regularised baseline),Madhya Pradesh,2026,Female,Forecast,70.60013812493125,72.95553048876566,75.63760449024815
+Main model (regularised baseline),Madhya Pradesh,2027,Female,Forecast,70.36281438573319,73.20921687528309,76.33934413678575
+Main model (regularised baseline),Madhya Pradesh,2028,Female,Forecast,70.05128239944649,73.4427254080361,76.82485382473264
+Main model (regularised baseline),Madhya Pradesh,2029,Female,Forecast,69.891284679105,73.66076655475878,77.25457982943904
+Main model (regularised baseline),Madhya Pradesh,2030,Female,Forecast,69.6085244643761,73.79092353835517,77.97253211074468
+Main model (regularised baseline),Madhya Pradesh,2031,Female,Forecast,69.84839839907472,74.02516484392186,78.1770356563307
+Main model (regularised baseline),Madhya Pradesh,2032,Female,Forecast,69.87596823023837,74.2268320937703,78.70268066442395
+Main model (regularised baseline),Madhya Pradesh,2033,Female,Forecast,70.00471175945361,74.40189807302711,79.0086666608636
+Main model (regularised baseline),Madhya Pradesh,2034,Female,Forecast,69.87505148172087,74.67996479296198,79.48790402905179
+Main model (regularised baseline),Madhya Pradesh,2035,Female,Forecast,70.04153194560003,74.86631128728087,79.80544649743996
+Main model (regularised baseline),Madhya Pradesh,2036,Female,Forecast,70.29647963629452,75.06152932269936,79.94532970033082
+Main model (regularised baseline),Madhya Pradesh,2037,Female,Forecast,70.29537968767191,75.34504066339817,80.52206508741153
+Main model (regularised baseline),Madhya Pradesh,2038,Female,Forecast,70.36358959584133,75.41928959897615,80.57328690208338
+Main model (regularised baseline),Madhya Pradesh,2039,Female,Forecast,70.29630867176459,75.57907445365808,80.8275637469676
+Main model (regularised baseline),Madhya Pradesh,2040,Female,Forecast,70.2463856252979,75.80554838605423,81.117626012949
+Main model (regularised baseline),Madhya Pradesh,2041,Female,Forecast,70.48059255557575,75.94245144075855,81.39413828025882
+Main model (regularised baseline),Madhya Pradesh,2042,Female,Forecast,70.59445911518854,76.03883212693371,81.55987026641765
+Main model (regularised baseline),Madhya Pradesh,2043,Female,Forecast,70.63467982839315,76.25580537727893,81.82401276891625
+Main model (regularised baseline),Madhya Pradesh,2044,Female,Forecast,70.61580574555921,76.42434160617647,82.04320033310096
+Main model (regularised baseline),Madhya Pradesh,2045,Female,Forecast,70.72901093598774,76.57357556259251,82.34888260386428
+Main model (regularised baseline),Madhya Pradesh,2046,Female,Forecast,70.943012087948,76.6215093681338,82.78119672451655
+Main model (regularised baseline),Madhya Pradesh,2047,Female,Forecast,71.06092545593003,76.83067297847185,82.97062551022373
+Main model (regularised baseline),Madhya Pradesh,2048,Female,Forecast,71.12655336698002,77.06486662609717,83.15429064618269
+Main model (regularised baseline),Madhya Pradesh,2049,Female,Forecast,71.3817209138931,77.25169231167865,83.41620139833981
+Main model (regularised baseline),Madhya Pradesh,2050,Female,Forecast,71.53979486584034,77.35503156672897,83.45702458297846
+Main model (regularised baseline),Madhya Pradesh,2024,Male,Forecast,66.22956072683932,66.95520099665448,67.77239722676389
+Main model (regularised baseline),Madhya Pradesh,2025,Male,Forecast,65.75099241244851,67.41079803734752,69.06913495577857
+Main model (regularised baseline),Madhya Pradesh,2026,Male,Forecast,65.59585699293909,67.83149324395154,69.93395228828098
+Main model (regularised baseline),Madhya Pradesh,2027,Male,Forecast,65.56791827179597,68.07371630197775,70.59928612318109
+Main model (regularised baseline),Madhya Pradesh,2028,Male,Forecast,65.47453315657619,68.40156228863087,71.12776640007928
+Main model (regularised baseline),Madhya Pradesh,2029,Male,Forecast,65.38454410782181,68.63894486461817,71.62626792336373
+Main model (regularised baseline),Madhya Pradesh,2030,Male,Forecast,65.42737064947488,68.84069561010739,71.98702535770211
+Main model (regularised baseline),Madhya Pradesh,2031,Male,Forecast,65.46779627410743,69.08911736559827,72.62176864173253
+Main model (regularised baseline),Madhya Pradesh,2032,Male,Forecast,65.50049131611668,69.21869302282818,72.96168428631698
+Main model (regularised baseline),Madhya Pradesh,2033,Male,Forecast,65.72388690072464,69.52058921653929,73.31194351605959
+Main model (regularised baseline),Madhya Pradesh,2034,Male,Forecast,65.77555269160364,69.70825106365537,73.83090155441786
+Main model (regularised baseline),Madhya Pradesh,2035,Male,Forecast,65.81642604585795,69.95235429636179,73.96457931220378
+Main model (regularised baseline),Madhya Pradesh,2036,Male,Forecast,66.15245402957981,70.13876813066284,74.2393852892019
+Main model (regularised baseline),Madhya Pradesh,2037,Male,Forecast,66.17046363210646,70.33763014162538,74.5547862385491
+Main model (regularised baseline),Madhya Pradesh,2038,Male,Forecast,66.18476602671105,70.47149038270055,74.77142821432287
+Main model (regularised baseline),Madhya Pradesh,2039,Male,Forecast,66.12389939355856,70.62273195404262,75.0202952844557
+Main model (regularised baseline),Madhya Pradesh,2040,Male,Forecast,66.30076312937469,70.84650323871408,75.25673692031987
+Main model (regularised baseline),Madhya Pradesh,2041,Male,Forecast,66.4003876079296,70.9432743762897,75.55160800263258
+Main model (regularised baseline),Madhya Pradesh,2042,Male,Forecast,66.69692314478014,71.12722987834432,75.72731240801241
+Main model (regularised baseline),Madhya Pradesh,2043,Male,Forecast,66.98707118759633,71.34651157461036,75.82737183080884
+Main model (regularised baseline),Madhya Pradesh,2044,Male,Forecast,66.92017075330048,71.506345223106,76.05125015618175
+Main model (regularised baseline),Madhya Pradesh,2045,Male,Forecast,66.88270595793797,71.65590313054633,76.41231244017081
+Main model (regularised baseline),Madhya Pradesh,2046,Male,Forecast,66.97889317297931,71.76165906101865,76.45749485920037
+Main model (regularised baseline),Madhya Pradesh,2047,Male,Forecast,67.07679251466071,71.94629653722806,76.7178455862756
+Main model (regularised baseline),Madhya Pradesh,2048,Male,Forecast,67.32871314166711,72.11589596741973,77.02485331012792
+Main model (regularised baseline),Madhya Pradesh,2049,Male,Forecast,67.47215265414853,72.38711329611584,77.2012006470695
+Main model (regularised baseline),Madhya Pradesh,2050,Male,Forecast,67.44695401333988,72.46732770750447,77.56894663453691
+Main model (regularised baseline),Maharashtra,2024,Female,Forecast,75.88645436743428,76.71216469933381,77.61647214616083
+Main model (regularised baseline),Maharashtra,2025,Female,Forecast,75.11661683768527,77.0094521329106,79.04543072199101
+Main model (regularised baseline),Maharashtra,2026,Female,Forecast,74.68358346431035,77.22003798806202,79.91594557803025
+Main model (regularised baseline),Maharashtra,2027,Female,Forecast,74.58035488983222,77.48439386460365,80.67087180123448
+Main model (regularised baseline),Maharashtra,2028,Female,Forecast,74.53306805546094,77.71048647504361,81.18914631083761
+Main model (regularised baseline),Maharashtra,2029,Female,Forecast,74.52497643308953,77.95470468792101,81.81278431055557
+Main model (regularised baseline),Maharashtra,2030,Female,Forecast,74.29650660703592,78.19474927045418,82.27413533585106
+Main model (regularised baseline),Maharashtra,2031,Female,Forecast,74.15552082942439,78.40102679864484,82.59319436384192
+Main model (regularised baseline),Maharashtra,2032,Female,Forecast,74.0660247471436,78.60747558555258,83.12788736199822
+Main model (regularised baseline),Maharashtra,2033,Female,Forecast,74.20371377446317,78.83002878485289,83.37567384038422
+Main model (regularised baseline),Maharashtra,2034,Female,Forecast,74.41177945716686,79.12375643088185,83.99758471377277
+Main model (regularised baseline),Maharashtra,2035,Female,Forecast,74.5596392330955,79.41432327114569,84.27777513934076
+Main model (regularised baseline),Maharashtra,2036,Female,Forecast,74.55032317387298,79.53186261286919,84.30952545511153
+Main model (regularised baseline),Maharashtra,2037,Female,Forecast,74.68021500425596,79.69432980360185,84.60162495009425
+Main model (regularised baseline),Maharashtra,2038,Female,Forecast,74.47834196596827,79.82696028695618,85.07114408684747
+Main model (regularised baseline),Maharashtra,2039,Female,Forecast,74.82722437503928,80.01502541664581,85.23787814287377
+Main model (regularised baseline),Maharashtra,2040,Female,Forecast,74.91078675372228,80.22635399492236,85.59164930370154
+Main model (regularised baseline),Maharashtra,2041,Female,Forecast,74.9413957401266,80.45262041898147,85.76546646472387
+Main model (regularised baseline),Maharashtra,2042,Female,Forecast,75.22719057013566,80.63673653407002,85.94688748765715
+Main model (regularised baseline),Maharashtra,2043,Female,Forecast,75.30157075951581,80.72619147314666,86.30346252277384
+Main model (regularised baseline),Maharashtra,2044,Female,Forecast,75.46161754410045,80.87690465007405,86.50544575112215
+Main model (regularised baseline),Maharashtra,2045,Female,Forecast,75.50725605263403,81.03783014083878,86.81617741410997
+Main model (regularised baseline),Maharashtra,2046,Female,Forecast,75.62633044900252,81.21747677124824,87.06356693866687
+Main model (regularised baseline),Maharashtra,2047,Female,Forecast,75.72864320967909,81.46162120059333,87.30908703279556
+Main model (regularised baseline),Maharashtra,2048,Female,Forecast,75.83033902668619,81.63884539910876,87.32424168926752
+Main model (regularised baseline),Maharashtra,2049,Female,Forecast,75.82147565441674,81.80222445119094,87.50162848267638
+Main model (regularised baseline),Maharashtra,2050,Female,Forecast,75.82668137823869,81.99568289698149,87.5832224411347
+Main model (regularised baseline),Maharashtra,2024,Male,Forecast,71.7852017219584,72.60991936062995,73.35320209638587
+Main model (regularised baseline),Maharashtra,2025,Male,Forecast,71.48248544146416,73.05191134894966,74.68833472478255
+Main model (regularised baseline),Maharashtra,2026,Male,Forecast,71.28055510176065,73.40398999193889,75.48587940051074
+Main model (regularised baseline),Maharashtra,2027,Male,Forecast,71.15756292487063,73.62983310912821,76.14861805623994
+Main model (regularised baseline),Maharashtra,2028,Male,Forecast,71.16754735750258,73.8829545591203,76.75142753909641
+Main model (regularised baseline),Maharashtra,2029,Male,Forecast,71.14565585364883,74.18983542177426,77.17246718276397
+Main model (regularised baseline),Maharashtra,2030,Male,Forecast,71.19317153985175,74.40053533359826,77.50918139926586
+Main model (regularised baseline),Maharashtra,2031,Male,Forecast,71.03240636306452,74.54713371522442,77.98874332311757
+Main model (regularised baseline),Maharashtra,2032,Male,Forecast,70.96513839410889,74.86510393300632,78.35287188333844
+Main model (regularised baseline),Maharashtra,2033,Male,Forecast,71.0453569146401,75.01074091239278,78.5165949871562
+Main model (regularised baseline),Maharashtra,2034,Male,Forecast,71.33452340570368,75.23351833214026,79.03939723956834
+Main model (regularised baseline),Maharashtra,2035,Male,Forecast,71.4717018133544,75.49705732330827,79.38975087564164
+Main model (regularised baseline),Maharashtra,2036,Male,Forecast,71.46871539294804,75.69329549492451,79.62518444845789
+Main model (regularised baseline),Maharashtra,2037,Male,Forecast,71.5826797803632,75.84635073327146,79.935935044646
+Main model (regularised baseline),Maharashtra,2038,Male,Forecast,71.76607748695601,76.00532816000074,80.18311188268356
+Main model (regularised baseline),Maharashtra,2039,Male,Forecast,71.82144045165296,76.16467917928267,80.51540811503325
+Main model (regularised baseline),Maharashtra,2040,Male,Forecast,71.92089963736032,76.37916672280242,80.6189921968617
+Main model (regularised baseline),Maharashtra,2041,Male,Forecast,72.03030555948341,76.47235552106457,80.95150492243198
+Main model (regularised baseline),Maharashtra,2042,Male,Forecast,72.09157385232497,76.57713622187978,81.1380620612158
+Main model (regularised baseline),Maharashtra,2043,Male,Forecast,72.1660152652369,76.77270288304264,81.21220480392506
+Main model (regularised baseline),Maharashtra,2044,Male,Forecast,72.37777749659921,76.90775153590506,81.56165424192592
+Main model (regularised baseline),Maharashtra,2045,Male,Forecast,72.53199347749928,77.08321042041442,81.7418800596684
+Main model (regularised baseline),Maharashtra,2046,Male,Forecast,72.69608021738757,77.19736063093606,81.97355433088636
+Main model (regularised baseline),Maharashtra,2047,Male,Forecast,72.89521645066121,77.33289342953623,82.0979393852969
+Main model (regularised baseline),Maharashtra,2048,Male,Forecast,73.11108159420792,77.53299549995498,82.43417275913326
+Main model (regularised baseline),Maharashtra,2049,Male,Forecast,73.18612659904835,77.69156900818427,82.38455462996022
+Main model (regularised baseline),Maharashtra,2050,Male,Forecast,73.10971486686614,77.89174572823647,82.48252070025224
+Main model (regularised baseline),Odisha,2024,Female,Forecast,71.11841364072272,72.01847881939942,72.83884435536311
+Main model (regularised baseline),Odisha,2025,Female,Forecast,70.28365955087871,72.30099223894666,74.3939674544974
+Main model (regularised baseline),Odisha,2026,Female,Forecast,70.0700220749535,72.54650902627623,75.16294146862613
+Main model (regularised baseline),Odisha,2027,Female,Forecast,69.6097955532979,72.77599928466901,75.9983338347107
+Main model (regularised baseline),Odisha,2028,Female,Forecast,69.5309325298629,72.93428176403908,76.5324174888188
+Main model (regularised baseline),Odisha,2029,Female,Forecast,69.3407230745125,73.16025367759434,77.16740001563078
+Main model (regularised baseline),Odisha,2030,Female,Forecast,69.33923010646923,73.40044594289346,77.63784625795546
+Main model (regularised baseline),Odisha,2031,Female,Forecast,69.60575516210454,73.53235501983254,77.88866029149361
+Main model (regularised baseline),Odisha,2032,Female,Forecast,69.3608451606498,73.68959054237412,78.21137462252545
+Main model (regularised baseline),Odisha,2033,Female,Forecast,69.39624804373541,73.93838228951282,78.45286490872188
+Main model (regularised baseline),Odisha,2034,Female,Forecast,69.50955871489865,74.12248692406894,78.9578953479257
+Main model (regularised baseline),Odisha,2035,Female,Forecast,69.51504967404696,74.3486437189994,79.12303152228411
+Main model (regularised baseline),Odisha,2036,Female,Forecast,69.65848378534555,74.59379954836777,79.67947752638545
+Main model (regularised baseline),Odisha,2037,Female,Forecast,69.60118544365884,74.76646333921212,79.91467396102118
+Main model (regularised baseline),Odisha,2038,Female,Forecast,69.88736847895929,75.02735707005752,79.98867213592156
+Main model (regularised baseline),Odisha,2039,Female,Forecast,69.98696982720053,75.16227548916,80.30435657347178
+Main model (regularised baseline),Odisha,2040,Female,Forecast,70.22450864739575,75.40784552041526,80.34313348289605
+Main model (regularised baseline),Odisha,2041,Female,Forecast,70.43169340887113,75.52462729879383,80.68366441559752
+Main model (regularised baseline),Odisha,2042,Female,Forecast,70.57228919038404,75.77578703440653,81.0013332555797
+Main model (regularised baseline),Odisha,2043,Female,Forecast,70.85171957502642,75.9265179895312,81.37723584306502
+Main model (regularised baseline),Odisha,2044,Female,Forecast,70.7367244444786,76.12817100645998,81.25853500944609
+Main model (regularised baseline),Odisha,2045,Female,Forecast,70.89509710005471,76.2291252234546,81.53726250747235
+Main model (regularised baseline),Odisha,2046,Female,Forecast,70.93237038006525,76.41568760887694,81.6127758058261
+Main model (regularised baseline),Odisha,2047,Female,Forecast,71.20535336426421,76.67127694235487,82.04061262236883
+Main model (regularised baseline),Odisha,2048,Female,Forecast,71.45615543328796,76.79317748729756,82.22950462010085
+Main model (regularised baseline),Odisha,2049,Female,Forecast,71.7008238515101,77.07759752846732,82.31061285524903
+Main model (regularised baseline),Odisha,2050,Female,Forecast,71.81190730041823,77.19973965743603,82.52225968722651
+Main model (regularised baseline),Odisha,2024,Male,Forecast,68.338996484564,69.13665822917432,69.94965725278449
+Main model (regularised baseline),Odisha,2025,Male,Forecast,67.94534631025914,69.54973206208226,71.12842920453646
+Main model (regularised baseline),Odisha,2026,Male,Forecast,67.69909004298651,69.80738275819274,71.89898887074132
+Main model (regularised baseline),Odisha,2027,Male,Forecast,67.51600825172336,69.97977074597313,72.4252913025573
+Main model (regularised baseline),Odisha,2028,Male,Forecast,67.33008812040697,70.15942836231878,72.9276706786099
+Main model (regularised baseline),Odisha,2029,Male,Forecast,67.3519532885412,70.30578093661794,73.36574726438357
+Main model (regularised baseline),Odisha,2030,Male,Forecast,67.2905120290915,70.4646337007057,73.80971839393672
+Main model (regularised baseline),Odisha,2031,Male,Forecast,67.22342738261385,70.63478478096286,73.98001292920975
+Main model (regularised baseline),Odisha,2032,Male,Forecast,67.12682054097876,70.73720942447676,74.32763794132653
+Main model (regularised baseline),Odisha,2033,Male,Forecast,67.24069606941289,70.91728735596448,74.61903032355528
+Main model (regularised baseline),Odisha,2034,Male,Forecast,67.2213191832801,71.11690528958917,75.00437553309324
+Main model (regularised baseline),Odisha,2035,Male,Forecast,67.19921521500338,71.21277552597945,75.2837773688045
+Main model (regularised baseline),Odisha,2036,Male,Forecast,67.26689977575028,71.35568379944294,75.68229880162285
+Main model (regularised baseline),Odisha,2037,Male,Forecast,67.47980429161976,71.47289725492566,75.70407496274403
+Main model (regularised baseline),Odisha,2038,Male,Forecast,67.68320657360981,71.70773681824784,75.8124178346088
+Main model (regularised baseline),Odisha,2039,Male,Forecast,67.59756627800125,71.81932776641747,76.06379145402376
+Main model (regularised baseline),Odisha,2040,Male,Forecast,67.67460368191537,71.94601797581058,76.32952075437474
+Main model (regularised baseline),Odisha,2041,Male,Forecast,67.6408202205285,72.16772326918598,76.29296324826866
+Main model (regularised baseline),Odisha,2042,Male,Forecast,67.80041515084793,72.32500959543208,76.550806550512
+Main model (regularised baseline),Odisha,2043,Male,Forecast,68.03667081324687,72.42997696859445,76.5620511599625
+Main model (regularised baseline),Odisha,2044,Male,Forecast,68.1552875684,72.53669924121849,77.160720958721015
+Main model (regularised baseline),Odisha,2045,Male,Forecast,68.06608614330443,72.6801769101155,77.25114591544163
+Main model (regularised baseline),Odisha,2046,Male,Forecast,68.13067398938854,72.82043475959881,77.23535763921416
+Main model (regularised baseline),Odisha,2047,Male,Forecast,68.33899073413659,73.03295733582854,77.50655353598783
+Main model (regularised baseline),Odisha,2048,Male,Forecast,68.34460581724241,73.17240494048863,77.60081678897124
+Main model (regularised baseline),Odisha,2049,Male,Forecast,68.57968245522187,73.22757965941516,77.94235017633073
+Main model (regularised baseline),Odisha,2050,Male,Forecast,68.74197664985668,73.32286472061347,77.99514219972352
+Main model (regularised baseline),Punjab,2024,Female,Forecast,74.53967459132336,75.30694861611039,76.13866834971935
+Main model (regularised baseline),Punjab,2025,Female,Forecast,73.62064774069546,75.60229855194999,77.62216505975879
+Main model (regularised baseline),Punjab,2026,Female,Forecast,73.11627010722394,75.90641669529356,78.45084958808701
+Main model (regularised baseline),Punjab,2027,Female,Forecast,73.01035900625982,76.09330080949437,79.14182263500884
+Main model (regularised baseline),Punjab,2028,Female,Forecast,72.93849595804156,76.4088050136742,79.9326376848243
+Main model (regularised baseline),Punjab,2029,Female,Forecast,72.95838943536118,76.59024776193824,80.5514976765475
+Main model (regularised baseline),Punjab,2030,Female,Forecast,72.64140688381309,76.77639205252757,80.84636479895161
+Main model (regularised baseline),Punjab,2031,Female,Forecast,72.5852572533903,77.05538048629643,81.32772588007572
+Main model (regularised baseline),Punjab,2032,Female,Forecast,72.79384852206576,77.26958339202346,81.60272828084722
+Main model (regularised baseline),Punjab,2033,Female,Forecast,72.77574313132592,77.4574238869573,82.08961047212254
+Main model (regularised baseline),Punjab,2034,Female,Forecast,73.05752455124117,77.63157154188306,82.35271222815402
+Main model (regularised baseline),Punjab,2035,Female,Forecast,73.20114082302142,77.84065309973599,82.74829509711921
+Main model (regularised baseline),Punjab,2036,Female,Forecast,73.11642819531815,78.00972832005837,83.19317246630902
+Main model (regularised baseline),Punjab,2037,Female,Forecast,73.1858672274458,78.22646788729767,83.16480319995635
+Main model (regularised baseline),Punjab,2038,Female,Forecast,73.35889570857309,78.32292899095398,83.78498905003947
+Main model (regularised baseline),Punjab,2039,Female,Forecast,73.29374450307873,78.55239939347841,83.79443800530802
+Main model (regularised baseline),Punjab,2040,Female,Forecast,73.4760000227242,78.68888779347397,83.8981634592153
+Main model (regularised baseline),Punjab,2041,Female,Forecast,73.79636164284628,78.84072189842232,84.38595766959322
+Main model (regularised baseline),Punjab,2042,Female,Forecast,73.69772299955957,79.07047241613982,84.41988014865524
+Main model (regularised baseline),Punjab,2043,Female,Forecast,73.979237634905,79.25619079239726,84.64369919726715
+Main model (regularised baseline),Punjab,2044,Female,Forecast,73.62740483130649,79.44753361369354,84.87129910132512
+Main model (regularised baseline),Punjab,2045,Female,Forecast,74.08010445208296,79.53219639421359,85.12759391403395
+Main model (regularised baseline),Punjab,2046,Female,Forecast,73.92571361042027,79.63150052027007,85.32115345339801
+Main model (regularised baseline),Punjab,2047,Female,Forecast,74.02757729001955,79.82026644566717,85.34289027366341
+Main model (regularised baseline),Punjab,2048,Female,Forecast,74.16260009146988,80.03329107409203,85.60585004030267
+Main model (regularised baseline),Punjab,2049,Female,Forecast,74.37375018029525,80.10300790583506,85.84915700139695
+Main model (regularised baseline),Punjab,2050,Female,Forecast,74.49468084216825,80.28400797792463,86.01915220255802
+Main model (regularised baseline),Punjab,2024,Male,Forecast,69.72975902267436,70.53624999727856,71.37811189729605
+Main model (regularised baseline),Punjab,2025,Male,Forecast,69.10911991069946,70.92280747006157,72.52200935742046
+Main model (regularised baseline),Punjab,2026,Male,Forecast,69.02623097565751,71.24484086060554,73.33387085912017
+Main model (regularised baseline),Punjab,2027,Male,Forecast,68.72938756939598,71.45246898186332,73.95927031478632
+Main model (regularised baseline),Punjab,2028,Male,Forecast,68.76747109726637,71.68519792853904,74.54227463369332
+Main model (regularised baseline),Punjab,2029,Male,Forecast,68.54418086510051,71.81372419609635,74.87086990811665
+Main model (regularised baseline),Punjab,2030,Male,Forecast,68.62769222609066,71.91706510962504,75.27871642583239
+Main model (regularised baseline),Punjab,2031,Male,Forecast,68.50184781764453,72.10931794485569,75.41513848820043
+Main model (regularised baseline),Punjab,2032,Male,Forecast,68.59590243068824,72.25112520111061,75.79612458741525
+Main model (regularised baseline),Punjab,2033,Male,Forecast,68.59335299609968,72.30502677625651,76.12950584971804
+Main model (regularised baseline),Punjab,2034,Male,Forecast,68.51868681514591,72.52160746345666,76.3443763183478
+Main model (regularised baseline),Punjab,2035,Male,Forecast,68.69659313937782,72.6393213650197,76.58213544251375
+Main model (regularised baseline),Punjab,2036,Male,Forecast,68.71208450420121,72.7862099441405,76.84598800248091
+Main model (regularised baseline),Punjab,2037,Male,Forecast,68.60853061978706,72.88654098674749,77.0996975248856
+Main model (regularised baseline),Punjab,2038,Male,Forecast,68.4569716031514,72.96525775128079,77.13747320333843
+Main model (regularised baseline),Punjab,2039,Male,Forecast,68.42010074827687,73.10789381302416,77.42922867590778
+Main model (regularised baseline),Punjab,2040,Male,Forecast,68.53970396834616,73.23245727297243,77.39557685875953
+Main model (regularised baseline),Punjab,2041,Male,Forecast,68.67734284154614,73.28979038189205,77.62885062776222
+Main model (regularised baseline),Punjab,2042,Male,Forecast,68.99114868389282,73.44149915010146,77.75527691852808
+Main model (regularised baseline),Punjab,2043,Male,Forecast,69.16535732297709,73.5296721785023,77.85415827927083
+Main model (regularised baseline),Punjab,2044,Male,Forecast,69.01645003297563,73.62857878073517,78.06930748030148
+Main model (regularised baseline),Punjab,2045,Male,Forecast,69.24453118615654,73.73306567852552,78.27895542370311
+Main model (regularised baseline),Punjab,2046,Male,Forecast,69.21850102385866,73.83212060075593,78.61270713096174
+Main model (regularised baseline),Punjab,2047,Male,Forecast,69.29731618517305,73.91935822190437,78.66687891630434
+Main model (regularised baseline),Punjab,2048,Male,Forecast,69.20577011345436,74.024224799666,78.69829197669877
+Main model (regularised baseline),Punjab,2049,Male,Forecast,69.27569352693173,74.08215324183257,79.16445195812057
+Main model (regularised baseline),Punjab,2050,Male,Forecast,69.37812470049225,74.22112388018128,78.96113859301448
+Main model (regularised baseline),Rajasthan,2024,Female,Forecast,75.10213730200977,75.93236617204721,76.74196285641138
+Main model (regularised baseline),Rajasthan,2025,Female,Forecast,74.00695488941561,76.06567455934996,78.17320474532919
+Main model (regularised baseline),Rajasthan,2026,Female,Forecast,73.4830860697785,76.08815035310563,78.74340081450389
+Main model (regularised baseline),Rajasthan,2027,Female,Forecast,72.9649521562706,76.09777184015405,79.38905203703108
+Main model (regularised baseline),Rajasthan,2028,Female,Forecast,72.76374590866237,76.23702346792686,79.9893367145203
+Main model (regularised baseline),Rajasthan,2029,Female,Forecast,72.6525123169687,76.32636126904981,80.24494860529938
+Main model (regularised baseline),Rajasthan,2030,Female,Forecast,72.27012397520762,76.34633748208883,80.61134573099913
+Main model (regularised baseline),Rajasthan,2031,Female,Forecast,72.42687128597399,76.49968858701106,80.86756239776435
+Main model (regularised baseline),Rajasthan,2032,Female,Forecast,72.19066945987024,76.60205627709848,81.21146383908305
+Main model (regularised baseline),Rajasthan,2033,Female,Forecast,71.97537016664441,76.72751198683679,81.4639997567856
+Main model (regularised baseline),Rajasthan,2034,Female,Forecast,72.01572307246991,76.85190733166431,81.54478702108989
+Main model (regularised baseline),Rajasthan,2035,Female,Forecast,72.00583437016783,76.97496915871332,81.9026255893031
+Main model (regularised baseline),Rajasthan,2036,Female,Forecast,72.40976055247405,76.95451388614863,82.17552247136683
+Main model (regularised baseline),Rajasthan,2037,Female,Forecast,72.4310012196296,77.08061935022243,82.7065943375314
+Main model (regularised baseline),Rajasthan,2038,Female,Forecast,72.39419769439108,77.19214545258743,82.86102735060554
+Main model (regularised baseline),Rajasthan,2039,Female,Forecast,72.39289546597237,77.3766053465908,83.055866426135
+Main model (regularised baseline),Rajasthan,2040,Female,Forecast,72.3168318586545,77.60720156978412,83.19475742352064
+Main model (regularised baseline),Rajasthan,2041,Female,Forecast,72.5017280303143,77.66542980859737,83.28662515295132
+Main model (regularised baseline),Rajasthan,2042,Female,Forecast,72.4887612039043,77.71914755647526,83.58014965173996
+Main model (regularised baseline),Rajasthan,2043,Female,Forecast,72.47646179005083,77.86280464272608,83.52340581793752
+Main model (regularised baseline),Rajasthan,2044,Female,Forecast,72.76877118968972,77.93108619281267,83.87074460401494
+Main model (regularised baseline),Rajasthan,2045,Female,Forecast,72.69912748070168,78.08742273037089,83.88200527586997
+Main model (regularised baseline),Rajasthan,2046,Female,Forecast,72.75692585122884,78.30768602737314,83.97073694623563
+Main model (regularised baseline),Rajasthan,2047,Female,Forecast,72.82057556507326,78.34175639895898,84.33896283130953
+Main model (regularised baseline),Rajasthan,2048,Female,Forecast,72.9395580200904,78.5600919587146,84.25786749002006
+Main model (regularised baseline),Rajasthan,2049,Female,Forecast,73.0572632153538,78.68344397271575,84.12861941731872
+Main model (regularised baseline),Rajasthan,2050,Female,Forecast,73.18332974019987,78.81273255697295,84.43136374477436
+Main model (regularised baseline),Rajasthan,2024,Male,Forecast,69.29917867175335,70.07210014910436,70.8777125444264
+Main model (regularised baseline),Rajasthan,2025,Male,Forecast,68.7703683470643,70.41531719481353,72.11058731466467
+Main model (regularised baseline),Rajasthan,2026,Male,Forecast,68.46271254754414,70.63840662937935,72.91628511655371
+Main model (regularised baseline),Rajasthan,2027,Male,Forecast,68.41738021174733,70.78329628659098,73.26748864046796
+Main model (regularised baseline),Rajasthan,2028,Male,Forecast,68.14733366156614,70.93995225937701,73.70461713547293
+Main model (regularised baseline),Rajasthan,2029,Male,Forecast,68.00605601059107,71.09800226772299,74.19065805910279
+Main model (regularised baseline),Rajasthan,2030,Male,Forecast,67.84646364272578,71.19835302004785,74.38205657644309
+Main model (regularised baseline),Rajasthan,2031,Male,Forecast,67.98303264697232,71.32779836788346,74.888593567388
+Main model (regularised baseline),Rajasthan,2032,Male,Forecast,67.92248961630564,71.42944568236194,75.06528548051962
+Main model (regularised baseline),Rajasthan,2033,Male,Forecast,67.86589109381882,71.59362615173858,75.4522681819279
+Main model (regularised baseline),Rajasthan,2034,Male,Forecast,67.97265237180949,71.72534264301753,75.5976924549635
+Main model (regularised baseline),Rajasthan,2035,Male,Forecast,68.09514131857112,71.7909620982621,75.77489586713959
+Main model (regularised baseline),Rajasthan,2036,Male,Forecast,68.34360188602965,71.87407273626283,75.9876101248944
+Main model (regularised baseline),Rajasthan,2037,Male,Forecast,68.16284292586282,72.10165161452167,76.17892651119088
+Main model (regularised baseline),Rajasthan,2038,Male,Forecast,68.22512942495105,72.16765845066743,76.4911763627221
+Main model (regularised baseline),Rajasthan,2039,Male,Forecast,68.26667655944476,72.36217921600692,76.46235207823604
+Main model (regularised baseline),Rajasthan,2040,Male,Forecast,68.27882032713235,72.51628290383904,76.71664444356827
+Main model (regularised baseline),Rajasthan,2041,Male,Forecast,68.47317064926952,72.65429014999069,76.99482208871899
+Main model (regularised baseline),Rajasthan,2042,Male,Forecast,68.52417320202025,72.77796530238209,76.88882171943725
+Main model (regularised baseline),Rajasthan,2043,Male,Forecast,68.5693583492489,72.86066189732784,77.10557271582694
+Main model (regularised baseline),Rajasthan,2044,Male,Forecast,68.64463136586645,73.0221351886036,77.5052949667183
+Main model (regularised baseline),Rajasthan,2045,Male,Forecast,68.80084322831956,73.1320168809923,77.71088255969782
+Main model (regularised baseline),Rajasthan,2046,Male,Forecast,68.80821643592446,73.23999006679037,77.91399460005482
+Main model (regularised baseline),Rajasthan,2047,Male,Forecast,68.98860088330838,73.40844823361661,78.18545481799929
+Main model (regularised baseline),Rajasthan,2048,Male,Forecast,68.97236971759206,73.45719044732465,78.2264258495808
+Main model (regularised baseline),Rajasthan,2049,Male,Forecast,69.2307061940067,73.60658915831033,78.48848361564214
+Main model (regularised baseline),Rajasthan,2050,Male,Forecast,69.14479123743385,73.72632287101015,78.56987655474597
+Main model (regularised baseline),Tamil Nadu,2024,Female,Forecast,76.97218423889248,77.82853159165612,78.64423965628221
+Main model (regularised baseline),Tamil Nadu,2025,Female,Forecast,76.0180267404694,78.02544349314682,80.02681460871305
+Main model (regularised baseline),Tamil Nadu,2026,Female,Forecast,75.5332342820708,78.24048694806152,80.91051993152414
+Main model (regularised baseline),Tamil Nadu,2027,Female,Forecast,75.31768073189448,78.37991921337013,81.4514239248924
+Main model (regularised baseline),Tamil Nadu,2028,Female,Forecast,75.03283833124122,78.56411125472965,81.91770353552829
+Main model (regularised baseline),Tamil Nadu,2029,Female,Forecast,74.92602342258918,78.67863068533337,82.38859547806406
+Main model (regularised baseline),Tamil Nadu,2030,Female,Forecast,74.89952603508337,78.8161997972409,82.72286145852992
+Main model (regularised baseline),Tamil Nadu,2031,Female,Forecast,74.98037286478198,79.04601384744868,83.19255134975457
+Main model (regularised baseline),Tamil Nadu,2032,Female,Forecast,74.71716915747454,79.19838203280061,83.61892599726448
+Main model (regularised baseline),Tamil Nadu,2033,Female,Forecast,74.71220513756812,79.28550854348298,83.73669828451789
+Main model (regularised baseline),Tamil Nadu,2034,Female,Forecast,74.55301299974032,79.36047707304006,84.03045054360592
+Main model (regularised baseline),Tamil Nadu,2035,Female,Forecast,74.4558213570156,79.54307195302306,84.37424480376475
+Main model (regularised baseline),Tamil Nadu,2036,Female,Forecast,74.81190943488814,79.7637915187422,84.58429477326402
+Main model (regularised baseline),Tamil Nadu,2037,Female,Forecast,74.82825020724178,79.81737966301256,85.0627801895179
+Main model (regularised baseline),Tamil Nadu,2038,Female,Forecast,74.79676591334757,79.97097407211896,85.45773874656203
+Main model (regularised baseline),Tamil Nadu,2039,Female,Forecast,74.79627752875926,80.16172798927346,85.50924829796237
+Main model (regularised baseline),Tamil Nadu,2040,Female,Forecast,74.93661947100583,80.27042398042386,85.63528160940626
+Main model (regularised baseline),Tamil Nadu,2041,Female,Forecast,75.07806323963824,80.44938096821699,85.67096246520762
+Main model (regularised baseline),Tamil Nadu,2042,Female,Forecast,75.28897062860881,80.61745434854944,85.88115596506935
+Main model (regularised baseline),Tamil Nadu,2043,Female,Forecast,75.43908250895981,80.77732035192938,86.21639410380955
+Main model (regularised baseline),Tamil Nadu,2044,Female,Forecast,75.36511159608008,80.91250808280566,86.25580726680492
+Main model (regularised baseline),Tamil Nadu,2045,Female,Forecast,75.42612152035821,81.15788077684229,86.44602881456214
+Main model (regularised baseline),Tamil Nadu,2046,Female,Forecast,75.7537514967269,81.31623512398744,86.79198357664899
+Main model (regularised baseline),Tamil Nadu,2047,Female,Forecast,75.63348929643769,81.45860481975342,86.81883480298274
+Main model (regularised baseline),Tamil Nadu,2048,Female,Forecast,75.85464585836066,81.53405523773745,86.93706489716894
+Main model (regularised baseline),Tamil Nadu,2049,Female,Forecast,75.65512739878909,81.7584232388971,87.26086286331088
+Main model (regularised baseline),Tamil Nadu,2050,Female,Forecast,75.7085152015363,81.89289865791781,87.44131219649819
+Main model (regularised baseline),Tamil Nadu,2024,Male,Forecast,73.52724500680375,74.3195631861858,75.07609395326918
+Main model (regularised baseline),Tamil Nadu,2025,Male,Forecast,72.9084325028223,74.61530391100791,76.307265932686
+Main model (regularised baseline),Tamil Nadu,2026,Male,Forecast,72.80214812544149,74.87459841046908,77.06070435299023
+Main model (regularised baseline),Tamil Nadu,2027,Male,Forecast,72.603818751625,75.03882598934496,77.51495080147993
+Main model (regularised baseline),Tamil Nadu,2028,Male,Forecast,72.44803712192329,75.15106338077952,77.90320691481364
+Main model (regularised baseline),Tamil Nadu,2029,Male,Forecast,72.26289509091919,75.26720274223092,78.17625757230138
+Main model (regularised baseline),Tamil Nadu,2030,Male,Forecast,72.34399018109846,75.31068350039818,78.56863524443548
+Main model (regularised baseline),Tamil Nadu,2031,Male,Forecast,72.3017650546867,75.43476175905418,78.77031314371979
+Main model (regularised baseline),Tamil Nadu,2032,Male,Forecast,72.14210065456228,75.57275940541044,79.24955698184303
+Main model (regularised baseline),Tamil Nadu,2033,Male,Forecast,72.03022197891585,75.69435585644109,79.62136540346928
+Main model (regularised baseline),Tamil Nadu,2034,Male,Forecast,71.85293784886315,75.78199122390004,79.75357946172275
+Main model (regularised baseline),Tamil Nadu,2035,Male,Forecast,71.87767485153962,75.90171083311422,80.13399522144947
+Main model (regularised baseline),Tamil Nadu,2036,Male,Forecast,71.9928984637891,76.11137436014471,80.25340135511867
+Main model (regularised baseline),Tamil Nadu,2037,Male,Forecast,71.98923732006267,76.22655929078584,80.68481865859464
+Main model (regularised baseline),Tamil Nadu,2038,Male,Forecast,71.92175936846832,76.36774321759107,80.85119227320999
+Main model (regularised baseline),Tamil Nadu,2039,Male,Forecast,71.96182962915026,76.47357455160736,80.79061782309492
+Main model (regularised baseline),Tamil Nadu,2040,Male,Forecast,72.1389835383033,76.56673616219996,81.01700727900244
+Main model (regularised baseline),Tamil Nadu,2041,Male,Forecast,72.36664951614502,76.71556639361845,81.09764948737613
+Main model (regularised baseline),Tamil Nadu,2042,Male,Forecast,72.4559267112954,76.94395365092817,81.44527357354062
+Main model (regularised baseline),Tamil Nadu,2043,Male,Forecast,72.59621416377789,77.01616667698141,81.56237116381618
+Main model (regularised baseline),Tamil Nadu,2044,Male,Forecast,72.677267513624,77.19216962188624,81.78072384353803
+Main model (regularised baseline),Tamil Nadu,2045,Male,Forecast,72.5759636010821,77.34202321675136,82.00786195277632
+Main model (regularised baseline),Tamil Nadu,2046,Male,Forecast,72.80482341252743,77.474131249724,82.08343648322443
+Main model (regularised baseline),Tamil Nadu,2047,Male,Forecast,73.01815457991549,77.62272671666665,82.37330876455789
+Main model (regularised baseline),Tamil Nadu,2048,Male,Forecast,73.01514450058738,77.81097378522203,82.63116267011154
+Main model (regularised baseline),Tamil Nadu,2049,Male,Forecast,72.99867437584349,77.92045109148313,82.55081979714716
+Main model (regularised baseline),Tamil Nadu,2050,Male,Forecast,73.14467809822312,78.02875640208401,82.61390961431732
+Main model (regularised baseline),Telangana,2024,Female,Forecast,73.64128680269792,74.42353676725489,75.2726907662367
+Main model (regularised baseline),Telangana,2025,Female,Forecast,72.8392652134032,74.72072251491304,76.70022010627709
+Main model (regularised baseline),Telangana,2026,Female,Forecast,72.27501786439922,75.07808145482146,77.55850797943884
+Main model (regularised baseline),Telangana,2027,Female,Forecast,71.88417601743417,75.2517255403484,78.27051649070754
+Main model (regularised baseline),Telangana,2028,Female,Forecast,71.78248560402072,75.50129456326985,78.75159808386807
+Main model (regularised baseline),Telangana,2029,Female,Forecast,72.0164273111081,75.74749135771177,79.25444914111743
+Main model (regularised baseline),Telangana,2030,Female,Forecast,71.97376196860776,75.97993740153935,79.65298817721387
+Main model (regularised baseline),Telangana,2031,Female,Forecast,71.82879265882215,76.23077779361779,80.30574169050983
+Main model (regularised baseline),Telangana,2032,Female,Forecast,71.891368266691,76.49606583616612,80.50639709657136
+Main model (regularised baseline),Telangana,2033,Female,Forecast,72.04901750640609,76.65118525226643,80.98180538454153
+Main model (regularised baseline),Telangana,2034,Female,Forecast,72.23929478852023,76.88250001696218,81.51826461063679
+Main model (regularised baseline),Telangana,2035,Female,Forecast,72.32964392846056,77.09216054865459,81.81695088549453
+Main model (regularised baseline),Telangana,2036,Female,Forecast,72.5539153507267,77.3716933625081,82.20671962534436
+Main model (regularised baseline),Telangana,2037,Female,Forecast,72.54811431284534,77.56775858025094,82.51384653576214
+Main model (regularised baseline),Telangana,2038,Female,Forecast,72.77103411856405,77.7268966527885,82.92589518934795
+Main model (regularised baseline),Telangana,2039,Female,Forecast,72.74551969585075,78.00232398077313,83.34623284173976
+Main model (regularised baseline),Telangana,2040,Female,Forecast,73.08052491134508,78.20122616507851,83.65748754711088
+Main model (regularised baseline),Telangana,2041,Female,Forecast,73.25249346054943,78.41150709951262,83.86312196531932
+Main model (regularised baseline),Telangana,2042,Female,Forecast,73.43860657134324,78.59136486331118,83.94092255425328
+Main model (regularised baseline),Telangana,2043,Female,Forecast,73.53883357498503,78.7630360824655,84.27841214741548
+Main model (regularised baseline),Telangana,2044,Female,Forecast,73.90213812942392,78.88181820263738,84.39125710409836
+Main model (regularised baseline),Telangana,2045,Female,Forecast,74.1123235548652,79.04418838831208,84.43155464020214
+Main model (regularised baseline),Telangana,2046,Female,Forecast,73.95564478975766,79.28527731009763,84.72958634537366
+Main model (regularised baseline),Telangana,2047,Female,Forecast,74.11346747197324,79.49152790346665,84.96155062425115
+Main model (regularised baseline),Telangana,2048,Female,Forecast,74.21672026562487,79.68336736315679,85.14184435084047
+Main model (regularised baseline),Telangana,2049,Female,Forecast,74.67992136202658,79.79362871389255,85.45674970569799
+Main model (regularised baseline),Telangana,2050,Female,Forecast,74.83813505396095,80.01479835695858,85.86211509203221
+Main model (regularised baseline),Telangana,2024,Male,Forecast,68.35702148123876,69.16733919087869,69.9580052715169
+Main model (regularised baseline),Telangana,2025,Male,Forecast,68.02021233409859,69.70596596189395,71.40927606310542
+Main model (regularised baseline),Telangana,2026,Male,Forecast,68.01278716702589,70.18276032052003,72.219462143619
+Main model (regularised baseline),Telangana,2027,Male,Forecast,68.0480315138272,70.46137514905436,72.95129658786972
+Main model (regularised baseline),Telangana,2028,Male,Forecast,68.05315711515743,70.85662195545146,73.59695364893112
+Main model (regularised baseline),Telangana,2029,Male,Forecast,68.04866889470065,71.15417613705894,74.10063751975
+Main model (regularised baseline),Telangana,2030,Male,Forecast,68.11901438869725,71.4871599828689,74.65785119601534
+Main model (regularised baseline),Telangana,2031,Male,Forecast,68.33182654905586,71.80866436945715,75.12156568754637
+Main model (regularised baseline),Telangana,2032,Male,Forecast,68.51012696912599,72.07262086031571,75.59776498710883
+Main model (regularised baseline),Telangana,2033,Male,Forecast,68.655843946195,72.32210847598895,76.03006310912869
+Main model (regularised baseline),Telangana,2034,Male,Forecast,68.77026667449087,72.62454263345234,76.3060928761676
+Main model (regularised baseline),Telangana,2035,Male,Forecast,68.92886508473377,72.89988074251417,76.76725649198914
+Main model (regularised baseline),Telangana,2036,Male,Forecast,69.06310004807824,73.1615696295674,77.04624242382405
+Main model (regularised baseline),Telangana,2037,Male,Forecast,69.31213918220799,73.37427923704543,77.36142098045754
+Main model (regularised baseline),Telangana,2038,Male,Forecast,69.42632570210043,73.60005888664085,77.70527960910792
+Main model (regularised baseline),Telangana,2039,Male,Forecast,69.63832173534222,73.88013769640321,78.16949414168693
+Main model (regularised baseline),Telangana,2040,Male,Forecast,69.65435728213937,74.09639801454121,78.41387896551171
+Main model (regularised baseline),Telangana,2041,Male,Forecast,69.929091971146,74.30467129859902,78.72871570310484
+Main model (regularised baseline),Telangana,2042,Male,Forecast,70.26667206157637,74.483096231752,79.00908315544218
+Main model (regularised baseline),Telangana,2043,Male,Forecast,70.40875589947193,74.64483275804042,79.30367716748668
+Main model (regularised baseline),Telangana,2044,Male,Forecast,70.36347957646402,74.82615894439816,79.32132552636995
+Main model (regularised baseline),Telangana,2045,Male,Forecast,70.47775485442251,75.0874059673873,79.53890111478424
+Main model (regularised baseline),Telangana,2046,Male,Forecast,70.59234570635414,75.32808759274133,79.77200177048915
+Main model (regularised baseline),Telangana,2047,Male,Forecast,70.69991793514652,75.52059116291457,79.93677819995234
+Main model (regularised baseline),Telangana,2048,Male,Forecast,70.94368011967721,75.72247314751786,80.15589470502891
+Main model (regularised baseline),Telangana,2049,Male,Forecast,71.11787501346019,75.92148868734046,80.04860661834411
+Main model (regularised baseline),Telangana,2050,Male,Forecast,71.1519819766273,76.094310965782,80.44471180971712
+Main model (regularised baseline),Uttar Pradesh,2024,Female,Forecast,71.26518895144163,72.08218365079536,72.90587828565536
+Main model (regularised baseline),Uttar Pradesh,2025,Female,Forecast,70.28024071617476,72.27777629452973,74.18662339450077
+Main model (regularised baseline),Uttar Pradesh,2026,Female,Forecast,69.79557189693017,72.44664210869843,75.17811503425858
+Main model (regularised baseline),Uttar Pradesh,2027,Female,Forecast,69.43335438990255,72.6672933975455,75.61122063674736
+Main model (regularised baseline),Uttar Pradesh,2028,Female,Forecast,69.28767940274685,72.79088919696986,76.21585508395377
+Main model (regularised baseline),Uttar Pradesh,2029,Female,Forecast,69.23978075724295,72.98615098921312,76.87163476768944
+Main model (regularised baseline),Uttar Pradesh,2030,Female,Forecast,68.99551287494637,73.19091321849807,77.140940972700335
+Main model (regularised baseline),Uttar Pradesh,2031,Female,Forecast,68.94475757121798,73.24506859467263,77.51324200197931
+Main model (regularised baseline),Uttar Pradesh,2032,Female,Forecast,68.75644661777176,73.50257137989198,77.9383094500632
+Main model (regularised baseline),Uttar Pradesh,2033,Female,Forecast,68.74860435890535,73.64358971609602,78.10246015734634
+Main model (regularised baseline),Uttar Pradesh,2034,Female,Forecast,68.98031362978394,73.77215880366025,78.43887026397164
+Main model (regularised baseline),Uttar Pradesh,2035,Female,Forecast,68.82398673734622,73.93436971403055,78.75892957148984
+Main model (regularised baseline),Uttar Pradesh,2036,Female,Forecast,69.03856364106771,74.1090400825976,79.1734371393057
+Main model (regularised baseline),Uttar Pradesh,2037,Female,Forecast,69.09079961939378,74.28089213111087,79.52180333896443
+Main model (regularised baseline),Uttar Pradesh,2038,Female,Forecast,69.17241008660233,74.41002638476056,79.63055206701554
+Main model (regularised baseline),Uttar Pradesh,2039,Female,Forecast,69.24070605031892,74.61281542301751,79.85484193976737
+Main model (regularised baseline),Uttar Pradesh,2040,Female,Forecast,69.32677914413924,74.75948254584492,79.97445118523085
+Main model (regularised baseline),Uttar Pradesh,2041,Female,Forecast,69.5923878973712,74.90617672333872,80.11182728324795
+Main model (regularised baseline),Uttar Pradesh,2042,Female,Forecast,69.64081362206542,75.11637260779312,80.47160238664438
+Main model (regularised baseline),Uttar Pradesh,2043,Female,Forecast,69.74737167477713,75.39971896505139,80.82068459526324
+Main model (regularised baseline),Uttar Pradesh,2044,Female,Forecast,69.9094713945933,75.53129481659894,81.01588071395075
+Main model (regularised baseline),Uttar Pradesh,2045,Female,Forecast,70.07295187099703,75.73305329656782,81.0143346739319
+Main model (regularised baseline),Uttar Pradesh,2046,Female,Forecast,70.00069912614518,75.88002461873629,81.3512891777479
+Main model (regularised baseline),Uttar Pradesh,2047,Female,Forecast,70.24522511553403,76.04274893175011,81.5179641301149
+Main model (regularised baseline),Uttar Pradesh,2048,Female,Forecast,70.58865574172907,76.16837215548259,82.02353089175921
+Main model (regularised baseline),Uttar Pradesh,2049,Female,Forecast,70.60160426219642,76.34059399158389,82.0417241008792
+Main model (regularised baseline),Uttar Pradesh,2050,Female,Forecast,70.76772878203143,76.52452771075482,82.24197767105251
+Main model (regularised baseline),Uttar Pradesh,2024,Male,Forecast,67.4646162717176,68.28575177103284,69.08384954043999
+Main model (regularised baseline),Uttar Pradesh,2025,Male,Forecast,66.95138902989382,68.65747759053897,70.3094226592555
+Main model (regularised baseline),Uttar Pradesh,2026,Male,Forecast,66.700503620853965,68.93860917849585,71.05778897947509
+Main model (regularised baseline),Uttar Pradesh,2027,Male,Forecast,66.58567848780736,69.11439899265557,71.59961810927112
+Main model (regularised baseline),Uttar Pradesh,2028,Male,Forecast,66.42059202103854,69.26988013337235,72.2688135711375
+Main model (regularised baseline),Uttar Pradesh,2029,Male,Forecast,66.51620608466487,69.48456716110725,72.6026696266708
+Main model (regularised baseline),Uttar Pradesh,2030,Male,Forecast,66.45584607207921,69.60630572959454,72.92805101183194
+Main model (regularised baseline),Uttar Pradesh,2031,Male,Forecast,66.38962374971702,69.8025671417291,73.3587250870344
+Main model (regularised baseline),Uttar Pradesh,2032,Male,Forecast,66.55490849422415,69.9331279642291,73.83720631322711
+Main model (regularised baseline),Uttar Pradesh,2033,Male,Forecast,66.50052294415184,70.17550330399989,73.80040160113248
+Main model (regularised baseline),Uttar Pradesh,2034,Male,Forecast,66.59347494678079,70.32687803359667,74.06895670538128
+Main model (regularised baseline),Uttar Pradesh,2035,Male,Forecast,66.66383063520064,70.53305714002934,74.47126967310197
+Main model (regularised baseline),Uttar Pradesh,2036,Male,Forecast,66.67781761499867,70.69939921485339,74.77994214337696
+Main model (regularised baseline),Uttar Pradesh,2037,Male,Forecast,66.80733843336385,70.69721154311134,75.04262306471563
+Main model (regularised baseline),Uttar Pradesh,2038,Male,Forecast,66.7906614725259,70.91278772075452,75.32546905943045
+Main model (regularised baseline),Uttar Pradesh,2039,Male,Forecast,66.6879884106898,71.07388858949733,75.34964893204994
+Main model (regularised baseline),Uttar Pradesh,2040,Male,Forecast,66.95512738630657,71.16174467821622,75.83014716519786
+Main model (regularised baseline),Uttar Pradesh,2041,Male,Forecast,67.04984345953446,71.25884747213962,76.19351523322483
+Main model (regularised baseline),Uttar Pradesh,2042,Male,Forecast,67.13534540068952,71.40086858194907,76.34018034103289
+Main model (regularised baseline),Uttar Pradesh,2043,Male,Forecast,67.45146793191746,71.59185754965094,76.44702044138185
+Main model (regularised baseline),Uttar Pradesh,2044,Male,Forecast,67.46637444252298,71.76908865942025,76.73156067195048
+Main model (regularised baseline),Uttar Pradesh,2045,Male,Forecast,67.59600548094674,71.99139988757565,76.9799884424161
+Main model (regularised baseline),Uttar Pradesh,2046,Male,Forecast,67.83621396971222,72.17177823284095,76.9258985022382
+Main model (regularised baseline),Uttar Pradesh,2047,Male,Forecast,67.86374238963239,72.35173161819948,77.04552514412704
+Main model (regularised baseline),Uttar Pradesh,2048,Male,Forecast,67.83891134636218,72.454645710312775,77.40063677818891
+Main model (regularised baseline),Uttar Pradesh,2049,Male,Forecast,68.0739966343418,72.56434032827225,77.6252550271251
+Main model (regularised baseline),Uttar Pradesh,2050,Male,Forecast,68.4298443790456,72.64789455062012,77.95270858808033
+Main model (regularised baseline),Uttarakhand,2024,Female,Forecast,75.7888483923892,76.59911615794864,77.3938260748474
+Main model (regularised baseline),Uttarakhand,2025,Female,Forecast,74.84886892775867,76.87933014737752,78.82969275917655
+Main model (regularised baseline),Uttarakhand,2026,Female,Forecast,74.61042566564811,77.14330292747408,79.85544222032594
+Main model (regularised baseline),Uttarakhand,2027,Female,Forecast,74.32509991820197,77.31260021382923,80.45705255581316
+Main model (regularised baseline),Uttarakhand,2028,Female,Forecast,74.0467829497573,77.47360383276381,80.92223259186271
+Main model (regularised baseline),Uttarakhand,2029,Female,Forecast,73.9683311812938,77.71881236508952,81.43181012393997
+Main model (regularised baseline),Uttarakhand,2030,Female,Forecast,73.91428573393021,77.92161697850716,81.80021541067366
+Main model (regularised baseline),Uttarakhand,2031,Female,Forecast,73.97740026944884,78.05587739393474,82.33612640203468
+Main model (regularised baseline),Uttarakhand,2032,Female,Forecast,73.9774114776502,78.27955904652438,82.43279429556686
+Main model (regularised baseline),Uttarakhand,2033,Female,Forecast,73.77318305101772,78.40085536989307,82.69109508888894
+Main model (regularised baseline),Uttarakhand,2034,Female,Forecast,73.77022857157836,78.70030740029426,82.92807632906884
+Main model (regularised baseline),Uttarakhand,2035,Female,Forecast,73.87487715630277,78.71503692491851,83.47704378471431
+Main model (regularised baseline),Uttarakhand,2036,Female,Forecast,74.01489178148024,78.97586880012553,83.61809174628152
+Main model (regularised baseline),Uttarakhand,2037,Female,Forecast,73.9576757647672,79.00081844515557,84.13901928770841
+Main model (regularised baseline),Uttarakhand,2038,Female,Forecast,74.09255493273291,79.20007992152026,84.21834534521754
+Main model (regularised baseline),Uttarakhand,2039,Female,Forecast,74.0023078005755,79.41121316287234,84.52781583471493
+Main model (regularised baseline),Uttarakhand,2040,Female,Forecast,74.22277028015348,79.5863728016775,84.74363463808729
+Main model (regularised baseline),Uttarakhand,2041,Female,Forecast,74.36735843699283,79.63119182303606,84.79088053275902
+Main model (regularised baseline),Uttarakhand,2042,Female,Forecast,74.40464596614956,79.77643339797176,84.88260950074196
+Main model (regularised baseline),Uttarakhand,2043,Female,Forecast,74.38405619845314,79.99740102887552,85.0377091406877
+Main model (regularised baseline),Uttarakhand,2044,Female,Forecast,74.57282956421079,80.00159746402213,85.40035564539781
+Main model (regularised baseline),Uttarakhand,2045,Female,Forecast,74.67443435004664,80.11335930886054,85.65899688157465
+Main model (regularised baseline),Uttarakhand,2046,Female,Forecast,74.73712279719709,80.32600655254627,85.4514107410366
+Main model (regularised baseline),Uttarakhand,2047,Female,Forecast,74.84822918765263,80.4204128069619,85.83256712583753
+Main model (regularised baseline),Uttarakhand,2048,Female,Forecast,74.67858408008179,80.61843642616502,85.89602120089273
+Main model (regularised baseline),Uttarakhand,2049,Female,Forecast,74.53722650889264,80.695213336999,86.20235722841805
+Main model (regularised baseline),Uttarakhand,2050,Female,Forecast,74.73637410318877,80.77071739669785,86.4833228833224
+Main model (regularised baseline),Uttarakhand,2024,Male,Forecast,69.58231831430288,70.33689464825812,71.11354672768961
+Main model (regularised baseline),Uttarakhand,2025,Male,Forecast,69.14782714187034,70.79635017149965,72.62196302036452
+Main model (regularised baseline),Uttarakhand,2026,Male,Forecast,69.05860223234896,71.16145911001973,73.27322230932384
+Main model (regularised baseline),Uttarakhand,2027,Male,Forecast,68.87275821444665,71.36070799789448,73.83047353070381
+Main model (regularised baseline),Uttarakhand,2028,Male,Forecast,68.78143235939041,71.58206461684621,74.3379467110501
+Main model (regularised baseline),Uttarakhand,2029,Male,Forecast,68.8560362429476,71.8316814181633,74.82334584030033
+Main model (regularised baseline),Uttarakhand,2030,Male,Forecast,68.64355564218243,72.04374040303475,75.06433485243372
+Main model (regularised baseline),Uttarakhand,2031,Male,Forecast,68.78708703318262,72.24499036468771,75.46779112734158
+Main model (regularised baseline),Uttarakhand,2032,Male,Forecast,68.84289678587352,72.42536594203504,75.97462558194891
+Main model (regularised baseline),Uttarakhand,2033,Male,Forecast,68.84044611599103,72.56965037419263,76.22984061877986
+Main model (regularised baseline),Uttarakhand,2034,Male,Forecast,68.73568589833944,72.75903193224225,76.40830532195412
+Main model (regularised baseline),Uttarakhand,2035,Male,Forecast,68.96083692036879,72.92118698296707,76.69171685116986
+Main model (regularised baseline),Uttarakhand,2036,Male,Forecast,69.01752817045309,72.9872399192345,77.03904018333233
+Main model (regularised baseline),Uttarakhand,2037,Male,Forecast,69.06994503510171,73.16557236482512,77.13489978190344
+Main model (regularised baseline),Uttarakhand,2038,Male,Forecast,69.23810988222479,73.4133143734127,77.38348518654603
+Main model (regularised baseline),Uttarakhand,2039,Male,Forecast,69.23866225176124,73.57301636559322,77.62378703732453
+Main model (regularised baseline),Uttarakhand,2040,Male,Forecast,69.41653699520677,73.81013386940276,77.82774001317026
+Main model (regularised baseline),Uttarakhand,2041,Male,Forecast,69.60334537457473,73.83555812352849,77.91191880537849
+Main model (regularised baseline),Uttarakhand,2042,Male,Forecast,69.62145923565973,73.9666494277491,78.20375404026116
+Main model (regularised baseline),Uttarakhand,2043,Male,Forecast,69.61857344139847,74.14671589174418,78.44411238274523
+Main model (regularised baseline),Uttarakhand,2044,Male,Forecast,69.88284217373543,74.27548223316505,78.48459791183237
+Main model (regularised baseline),Uttarakhand,2045,Male,Forecast,70.1442696767694,74.43798235836843,78.80145021098792
+Main model (regularised baseline),Uttarakhand,2046,Male,Forecast,70.1910169938044,74.55243369610758,78.98332802729773
+Main model (regularised baseline),Uttarakhand,2047,Male,Forecast,70.27686011579097,74.7632220345142,79.1926709266925
+Main model (regularised baseline),Uttarakhand,2048,Male,Forecast,70.20017721763483,74.8608786400064,79.40436566817452
+Main model (regularised baseline),Uttarakhand,2049,Male,Forecast,70.3842727588633,74.98023233472055,79.57713008914499
+Main model (regularised baseline),Uttarakhand,2050,Male,Forecast,70.41958085478021,75.21960506070437,79.8295419753563
+Main model (regularised baseline),West Bengal,2024,Female,Forecast,74.32010648808641,75.19870577507047,76.02698693818094
+Main model (regularised baseline),West Bengal,2025,Female,Forecast,73.51291873071514,75.55604432835484,77.70951612368845
+Main model (regularised baseline),West Bengal,2026,Female,Forecast,73.09392744906123,75.82467477990774,78.431218248368893
+Main model (regularised baseline),West Bengal,2027,Female,Forecast,72.96602528639642,76.06806893967867,79.16700848727343
+Main model (regularised baseline),West Bengal,2028,Female,Forecast,72.88924300718062,76.32916654621124,79.89704369943274
+Main model (regularised baseline),West Bengal,2029,Female,Forecast,72.68397083310218,76.52351137578268,80.34565617089827
+Main model (regularised baseline),West Bengal,2030,Female,Forecast,72.77001730123087,76.68182035681087,80.84692724856254
+Main model (regularised baseline),West Bengal,2031,Female,Forecast,72.56751999947568,76.9422196559684,81.42227707768203
+Main model (regularised baseline),West Bengal,2032,Female,Forecast,72.78928546154424,77.14808600460185,81.72888240143655
+Main model (regularised baseline),West Bengal,2033,Female,Forecast,72.79868379110093,77.44513856182823,81.90124642862838
+Main model (regularised baseline),West Bengal,2034,Female,Forecast,72.95546450366668,77.70092229357667,82.3715057551569
+Main model (regularised baseline),West Bengal,2035,Female,Forecast,73.07646777658843,77.97734305306693,82.90244407411535
+Main model (regularised baseline),West Bengal,2036,Female,Forecast,73.01283103459164,78.1431362034822,82.95968426808265
+Main model (regularised baseline),West Bengal,2037,Female,Forecast,73.01388874759134,78.33943699277287,83.16813787203648
+Main model (regularised baseline),West Bengal,2038,Female,Forecast,73.22204020322067,78.60637243490375,83.61561784422291
+Main model (regularised baseline),West Bengal,2039,Female,Forecast,73.56456161412441,78.76529059717758,83.85736082594846
+Main model (regularised baseline),West Bengal,2040,Female,Forecast,73.48942820252277,78.9578153504981,84.42970927839484
+Main model (regularised baseline),West Bengal,2041,Female,Forecast,73.8515970607899,79.18996044883895,84.78374283516614
+Main model (regularised baseline),West Bengal,2042,Female,Forecast,74.14899228399918,79.32115315781527,85.07263230802269
+Main model (regularised baseline),West Bengal,2043,Female,Forecast,74.31592898859392,79.57991458685046,85.2961676558304
+Main model (regularised baseline),West Bengal,2044,Female,Forecast,74.47408393614813,79.74868058326207,85.40124316227549
+Main model (regularised baseline),West Bengal,2045,Female,Forecast,74.6265611209051,79.90864855862229,85.7889947386908
+Main model (regularised baseline),West Bengal,2046,Female,Forecast,74.53230966710716,80.07760069914949,86.07344219486065
+Main model (regularised baseline),West Bengal,2047,Female,Forecast,74.64723121442896,80.2252519895637,86.2649980503437
+Main model (regularised baseline),West Bengal,2048,Female,Forecast,75.00535120460405,80.503722864432,86.47559935788209
+Main model (regularised baseline),West Bengal,2049,Female,Forecast,75.01120513524378,80.56995677291243,86.6840383972601
+Main model (regularised baseline),West Bengal,2050,Female,Forecast,75.31352140762823,80.76817469731164,86.88045430810553
+Main model (regularised baseline),West Bengal,2024,Male,Forecast,72.67664848479535,73.48813927022249,74.29109607298
+Main model (regularised baseline),West Bengal,2025,Male,Forecast,72.12990549784104,73.83005864715047,75.53917288107728
+Main model (regularised baseline),West Bengal,2026,Male,Forecast,71.92239677868947,74.06628599321459,76.16268736868471
+Main model (regularised baseline),West Bengal,2027,Male,Forecast,71.69932979059251,74.24886622403274,76.7199048590154
+Main model (regularised baseline),West Bengal,2028,Male,Forecast,71.64015023710749,74.41146012872751,77.0968943951797
+Main model (regularised baseline),West Bengal,2029,Male,Forecast,71.68699646186788,74.59713115973076,77.5926169209783
+Main model (regularised baseline),West Bengal,2030,Male,Forecast,71.58049872743507,74.67994587737334,78.00134415867178
+Main model (regularised baseline),West Bengal,2031,Male,Forecast,71.57985896241759,74.7935005709628,78.30382320759028
+Main model (regularised baseline),West Bengal,2032,Male,Forecast,71.53840241280474,74.94645984923409,78.52191868985705
+Main model (regularised baseline),West Bengal,2033,Male,Forecast,71.46677870695552,75.19164723054823,78.86440749043192
+Main model (regularised baseline),West Bengal,2034,Male,Forecast,71.40887808958512,75.27193916391457,79.12216864968066
+Main model (regularised baseline),West Bengal,2035,Male,Forecast,71.5082293606543,75.44754871069786,79.26094002174476
+Main model (regularised baseline),West Bengal,2036,Male,Forecast,71.6676687541018,75.56051355691082,79.57290665694698
+Main model (regularised baseline),West Bengal,2037,Male,Forecast,71.60086459560478,75.72068754163664,80.05644265132327
+Main model (regularised baseline),West Bengal,2038,Male,Forecast,71.71253002371428,75.87259100036812,80.1405339588363
+Main model (regularised baseline),West Bengal,2039,Male,Forecast,71.73408745726024,76.00908881060568,80.6013552480851
+Main model (regularised baseline),West Bengal,2040,Male,Forecast,71.76433324128298,76.21189287296124,80.83380084784378
+Main model (regularised baseline),West Bengal,2041,Male,Forecast,71.8514927624878,76.36429554575398,81.11616230998251
+Main model (regularised baseline),West Bengal,2042,Male,Forecast,72.03530950344974,76.56794085958227,81.36817471877592
+Main model (regularised baseline),West Bengal,2043,Male,Forecast,72.02060976983131,76.6627807635015,81.3007883593754
+Main model (regularised baseline),West Bengal,2044,Male,Forecast,72.0614340288971,76.85185290720422,81.3927629115023
+Main model (regularised baseline),West Bengal,2045,Male,Forecast,72.1395646662293,77.02382866924349,81.62960917457609
+Main model (regularised baseline),West Bengal,2046,Male,Forecast,72.39234801912238,77.21805683748036,81.93944590113526
+Main model (regularised baseline),West Bengal,2047,Male,Forecast,72.53314641093895,77.31280976356109,82.07522281346388
+Main model (regularised baseline),West Bengal,2048,Male,Forecast,72.68202975728758,77.36552323356814,82.47224336900749
+Main model (regularised baseline),West Bengal,2049,Male,Forecast,72.97463539536818,77.54202141808696,82.57089662715235
+Main model (regularised baseline),West Bengal,2050,Male,Forecast,73.10490318016352,77.68041702844764,82.92254561823691

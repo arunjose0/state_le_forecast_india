@@ -1,0 +1,19 @@
+prior_mode,model_label,sex,year,share_outside_20_110,share_outside_50_100
+2,Main model (regularised baseline),Female,2030,9.782608695652177e-4,0.01119565217391304
+2,Main model (regularised baseline),Female,2040,0.00126811594202898,0.01036231884057971
+2,Main model (regularised baseline),Female,2050,0.00134057971014492,0.01097826086956521
+2,Main model (regularised baseline),Male,2030,6.159420289855072e-4,0.01358695652173913
+2,Main model (regularised baseline),Male,2040,4.710144927536232e-4,0.01007246376811594
+2,Main model (regularised baseline),Male,2050,6.521739130434783e-4,0.00898550724637681
+3,Tighter-prior sensitivity,Female,2030,0,6.159420289855072e-4
+3,Tighter-prior sensitivity,Female,2040,0,3.2608695652173916e-4
+3,Tighter-prior sensitivity,Female,2050,0,3.6231884057971015e-4
+3,Tighter-prior sensitivity,Male,2030,0,0.00184782608695652
+3,Tighter-prior sensitivity,Male,2040,0,0.00119565217391304
+3,Tighter-prior sensitivity,Male,2050,0,6.521739130434783e-4
+4,Wide-prior sensitivity,Female,2030,0.01268115942028985,0.07079710144927537
+4,Wide-prior sensitivity,Female,2040,0.01376811594202898,0.06923913043478261
+4,Wide-prior sensitivity,Female,2050,0.01369565217391304,0.07115942028985507
+4,Wide-prior sensitivity,Male,2030,0.00985507246376811,0.0758695652173913
+4,Wide-prior sensitivity,Male,2040,0.01003623188405797,0.07297101449275362
+4,Wide-prior sensitivity,Male,2050,0.00945652173913043,0.06869565217391305

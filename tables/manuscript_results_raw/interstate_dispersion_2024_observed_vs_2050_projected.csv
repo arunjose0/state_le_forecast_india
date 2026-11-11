@@ -1,0 +1,5 @@
+sex,comparison_period,n_states,min_state,min_e0,max_state,max_e0,interstate_range,change_in_range_vs_2024,percent_change_in_range_vs_2024
+Female,2024 observed,22,Chhattisgarh,67.6765217958545,Kerala,79.90119621171608,12.224674415861585,0,0
+Male,2024 observed,22,Chhattisgarh,63.36466319634253,Jammu & Kashmir,76.08011658165788,12.715453385315342,0,0
+Female,2050 projected posterior medians,23,Uttar Pradesh,76.5789954656943,Kerala,84.03503782156852,7.456042355874217,-4.768632059987368,-39.00825410777436
+Male,2050 projected posterior medians,23,Chhattisgarh,71.20131771668763,Kerala,78.74791070983684,7.546592993149218,-5.168860392166124,-40.65022485266212

@@ -1,0 +1,943 @@
+model_label,state,year,sex,segment,q025,median,q975
+Tighter-prior sensitivity,Andhra Pradesh,1971,Female,Historical fit,50.95112643040908,50.95112643040908,50.95112643040908
+Tighter-prior sensitivity,Andhra Pradesh,1976,Female,Historical fit,49.066130496030084,49.990360534464315,50.91566385473847
+Tighter-prior sensitivity,Andhra Pradesh,1986,Female,Historical fit,58.88359581633519,59.80811032198186,60.803777959055246
+Tighter-prior sensitivity,Andhra Pradesh,1996,Female,Historical fit,63.09348061686093,64.03226814951819,64.95134714638903
+Tighter-prior sensitivity,Andhra Pradesh,2001,Female,Historical fit,66.93451014622599,67.86537279578887,68.74637388072934
+Tighter-prior sensitivity,Andhra Pradesh,2006,Female,Historical fit,69.59080465535747,70.5404775330847,71.42914948183676
+Tighter-prior sensitivity,Andhra Pradesh,2009,Female,Historical fit,69.70088447105405,70.61315254119822,71.53376579686349
+Tighter-prior sensitivity,Andhra Pradesh,2011,Female,Historical fit,70.11906529578955,70.9502936620159,71.75405078846475
+Tighter-prior sensitivity,Andhra Pradesh,2012,Female,Historical fit,71.51208398592428,72.35752127245723,73.22133039901406
+Tighter-prior sensitivity,Andhra Pradesh,2013,Female,Historical fit,70.95932825679702,71.74964854810469,72.62762048159604
+Tighter-prior sensitivity,Andhra Pradesh,2014,Female,Historical fit,69.6896031787569,70.57429139336325,71.42540409538292
+Tighter-prior sensitivity,Andhra Pradesh,2015,Female,Historical fit,69.60324189393643,70.44241457722622,71.31481522649727
+Tighter-prior sensitivity,Andhra Pradesh,2016,Female,Historical fit,70.04141143473196,70.95403876945547,71.75427568813716
+Tighter-prior sensitivity,Andhra Pradesh,2017,Female,Historical fit,69.50698404877282,70.34866455674427,71.22365902647543
+Tighter-prior sensitivity,Andhra Pradesh,2018,Female,Historical fit,70.62737940951433,71.5149498553301,72.34436792044197
+Tighter-prior sensitivity,Andhra Pradesh,2019,Female,Historical fit,71.3960052724234,72.19194951158978,72.99315570144974
+Tighter-prior sensitivity,Andhra Pradesh,2020,Female,Historical fit,71.53695151264927,72.41054505241215,73.31078989277651
+Tighter-prior sensitivity,Andhra Pradesh,2021,Female,Historical fit,71.15665765281204,72.03109355119983,72.89080750255822
+Tighter-prior sensitivity,Andhra Pradesh,2022,Female,Historical fit,71.49944206777424,72.33038924355321,73.25977858588375
+Tighter-prior sensitivity,Andhra Pradesh,2023,Female,Historical fit,73.86080166828836,74.6843725691052,75.522247968293
+Tighter-prior sensitivity,Andhra Pradesh,2024,Female,Historical fit,74.54939781782409,75.40194745897912,76.27844874720596
+Tighter-prior sensitivity,Andhra Pradesh,1971,Male,Historical fit,48.36667597366772,48.36667597366772,48.36667597366772
+Tighter-prior sensitivity,Andhra Pradesh,1976,Male,Historical fit,47.93928597662884,48.831686154293465,49.711478019112256
+Tighter-prior sensitivity,Andhra Pradesh,1986,Male,Historical fit,56.501578766895804,57.42815789523448,58.280001101182705
+Tighter-prior sensitivity,Andhra Pradesh,1996,Male,Historical fit,61.17753822023869,62.07200391836855,62.98520662945629
+Tighter-prior sensitivity,Andhra Pradesh,2001,Male,Historical fit,61.39088700143296,62.33219174830993,63.22365372839947
+Tighter-prior sensitivity,Andhra Pradesh,2006,Male,Historical fit,62.14059909794253,62.997545549986626,63.901723710826275
+Tighter-prior sensitivity,Andhra Pradesh,2009,Male,Historical fit,64.33780583573375,65.2184383752729,66.02826660488722
+Tighter-prior sensitivity,Andhra Pradesh,2011,Male,Historical fit,64.30740959377287,65.15778230021927,66.02339208181715
+Tighter-prior sensitivity,Andhra Pradesh,2012,Male,Historical fit,65.39934526354294,66.21817223111795,66.98148298934709
+Tighter-prior sensitivity,Andhra Pradesh,2013,Male,Historical fit,65.99340999093235,66.80016815332385,67.59331893154757
+Tighter-prior sensitivity,Andhra Pradesh,2014,Male,Historical fit,66.476545387079085,67.28392667036823,68.06903050452031
+Tighter-prior sensitivity,Andhra Pradesh,2015,Male,Historical fit,66.9440572795195,67.73658864992419,68.52462015706553
+Tighter-prior sensitivity,Andhra Pradesh,2016,Male,Historical fit,67.65421589172338,68.42788214977983,69.25374768911517
+Tighter-prior sensitivity,Andhra Pradesh,2017,Male,Historical fit,66.76318065666221,67.62491715488024,68.48387712176428
+Tighter-prior sensitivity,Andhra Pradesh,2018,Male,Historical fit,67.76537414861153,68.54719138216822,69.34490366564275
+Tighter-prior sensitivity,Andhra Pradesh,2019,Male,Historical fit,68.59475647598515,69.3732554530396,70.17992023404734
+Tighter-prior sensitivity,Andhra Pradesh,2020,Male,Historical fit,68.64437346410645,69.40741870725157,70.18873769212351
+Tighter-prior sensitivity,Andhra Pradesh,2021,Male,Historical fit,65.93175254282313,66.79374390782168,67.5814328929591
+Tighter-prior sensitivity,Andhra Pradesh,2022,Male,Historical fit,66.56026233048708,67.39321933994395,68.23732858407779
+Tighter-prior sensitivity,Andhra Pradesh,2023,Male,Historical fit,68.8573245086183,69.69105771217343,70.46991719499249
+Tighter-prior sensitivity,Andhra Pradesh,2024,Male,Historical fit,69.71167091832737,70.50278178565847,71.28428579722859
+Tighter-prior sensitivity,Assam,1971,Female,Historical fit,46.66156944774774,46.66156944774774,46.66156944774774
+Tighter-prior sensitivity,Assam,1976,Female,Historical fit,45.639219373484245,46.57619640870073,47.45941046450751
+Tighter-prior sensitivity,Assam,1981,Female,Historical fit,49.615730053692424,50.486858121875116,51.38788198101986
+Tighter-prior sensitivity,Assam,1986,Female,Historical fit,50.12428740782356,50.99378019984697,51.9718217914986
+Tighter-prior sensitivity,Assam,1991,Female,Historical fit,52.678194605923444,53.63550341793755,54.59177957625562
+Tighter-prior sensitivity,Assam,1996,Female,Historical fit,57.97463282449895,58.83582803528104,59.7180055521245
+Tighter-prior sensitivity,Assam,2001,Female,Historical fit,58.957834019376065,59.82924967064153,60.7299475648128
+Tighter-prior sensitivity,Assam,2006,Female,Historical fit,61.498886499118186,62.37186699943862,63.31287168623847
+Tighter-prior sensitivity,Assam,2009,Female,Historical fit,64.12596967238638,64.98448011273814,65.92702267559883
+Tighter-prior sensitivity,Assam,2011,Female,Historical fit,64.27082044681673,65.15010832528456,66.03616520989875
+Tighter-prior sensitivity,Assam,2012,Female,Historical fit,65.27156056354035,66.10111242373588,66.96361250551874
+Tighter-prior sensitivity,Assam,2013,Female,Historical fit,64.36446852802983,65.19478214109343,66.04878334996747
+Tighter-prior sensitivity,Assam,2014,Female,Historical fit,65.56510791209809,66.4148996491744,67.24877045730223
+Tighter-prior sensitivity,Assam,2015,Female,Historical fit,66.26328978093024,67.06267576525772,67.87571238393299
+Tighter-prior sensitivity,Assam,2016,Female,Historical fit,67.22284930854579,67.9921893557143,68.86969825021937
+Tighter-prior sensitivity,Assam,2017,Female,Historical fit,67.55356596318171,68.35496210597319,69.15283815519487
+Tighter-prior sensitivity,Assam,2018,Female,Historical fit,67.50023153795526,68.36158114223386,69.20494803652504
+Tighter-prior sensitivity,Assam,2019,Female,Historical fit,67.67771865778784,68.50319056669255,69.360712325322325
+Tighter-prior sensitivity,Assam,2020,Female,Historical fit,67.77622670008893,68.63219982050494,69.4710256811512
+Tighter-prior sensitivity,Assam,2021,Female,Historical fit,70.5858474460567,71.50381650829718,72.38519482963758
+Tighter-prior sensitivity,Assam,2022,Female,Historical fit,70.6225012446738,71.4972984936821,72.41443447593232
+Tighter-prior sensitivity,Assam,2023,Female,Historical fit,71.68028003036378,72.49947231367196,73.32621377630113
+Tighter-prior sensitivity,Assam,2024,Female,Historical fit,71.65005628620014,72.44804970541315,73.29054739072517
+Tighter-prior sensitivity,Assam,1971,Male,Historical fit,47.130285021040734,47.130285021040734,47.130285021040734
+Tighter-prior sensitivity,Assam,1976,Male,Historical fit,46.216359481919,47.085961994181204,47.92053082610942
+Tighter-prior sensitivity,Assam,1981,Male,Historical fit,50.542290072545505,51.44895573707026,52.31967274192321
+Tighter-prior sensitivity,Assam,1986,Male,Historical fit,50.80898905994989,51.70344440193671,52.588121793286604
+Tighter-prior sensitivity,Assam,1991,Male,Historical fit,52.63599214660395,53.54836349840764,54.43480289063725
+Tighter-prior sensitivity,Assam,1996,Male,Historical fit,57.28159049584432,58.17564678537179,59.059755966337846
+Tighter-prior sensitivity,Assam,2001,Male,Historical fit,56.62465618416325,57.514405247826886,58.386410646439685
+Tighter-prior sensitivity,Assam,2006,Male,Historical fit,59.36834110963238,60.32530186033375,61.246788210836215
+Tighter-prior sensitivity,Assam,2009,Male,Historical fit,61.09484429721447,61.960598358481995,62.82183322277807
+Tighter-prior sensitivity,Assam,2011,Male,Historical fit,61.16714864324293,61.96781832888651,62.7663650841005
+Tighter-prior sensitivity,Assam,2012,Male,Historical fit,61.26712072392361,62.060643052256516,62.87235903316436
+Tighter-prior sensitivity,Assam,2013,Male,Historical fit,61.700182404655244,62.53009441914683,63.28222081864163
+Tighter-prior sensitivity,Assam,2014,Male,Historical fit,63.19177516176673,63.97276810385865,64.77299074905066
+Tighter-prior sensitivity,Assam,2015,Male,Historical fit,64.03701356942521,64.80311135224619,65.57812617563684
+Tighter-prior sensitivity,Assam,2016,Male,Historical fit,64.92975380397519,65.72847655706582,66.52822520422875
+Tighter-prior sensitivity,Assam,2017,Male,Historical fit,65.52454470205572,66.345045861305465,67.14684721643566
+Tighter-prior sensitivity,Assam,2018,Male,Historical fit,65.98555965144482,66.78027702843394,67.56265007042835
+Tighter-prior sensitivity,Assam,2019,Male,Historical fit,66.32517219868251,67.10849814707353,67.87935554818222
+Tighter-prior sensitivity,Assam,2020,Male,Historical fit,66.29639017370538,67.13061488098711,67.93124410140686
+Tighter-prior sensitivity,Assam,2021,Male,Historical fit,64.55239909534879,65.3691856103867,66.19259133987508
+Tighter-prior sensitivity,Assam,2022,Male,Historical fit,65.30148213506853,66.0925493155899,66.90340685407858
+Tighter-prior sensitivity,Assam,2023,Male,Historical fit,67.02046936037839,67.81306875499628,68.59828978568368
+Tighter-prior sensitivity,Assam,2024,Male,Historical fit,67.54304780761542,68.33318786331509,69.14003490567397
+Tighter-prior sensitivity,Bihar,1981,Female,Historical fit,49.91664129157436,49.91664129157436,49.91664129157436
+Tighter-prior sensitivity,Bihar,1986,Female,Historical fit,49.06460060836369,49.960968022125265,50.89385802094748
+Tighter-prior sensitivity,Bihar,1991,Female,Historical fit,58.54332108286171,59.459047207143215,60.36282114997242
+Tighter-prior sensitivity,Bihar,1996,Female,Historical fit,57.185433903174555,58.10947234206316,59.017119034635414
+Tighter-prior sensitivity,Bihar,2001,Female,Historical fit,64.2363612224628,65.19726692948143,66.03680326218159
+Tighter-prior sensitivity,Bihar,2006,Female,Historical fit,64.18851874269959,65.04781311224643,65.93924861758218
+Tighter-prior sensitivity,Bihar,2011,Female,Historical fit,67.05526737723952,67.96389888785853,68.84011705867087
+Tighter-prior sensitivity,Bihar,2012,Female,Historical fit,67.29683713659556,68.15012727556137,68.98636721829355
+Tighter-prior sensitivity,Bihar,2013,Female,Historical fit,67.2073026607946,68.01721405156283,68.86973215156176
+Tighter-prior sensitivity,Bihar,2014,Female,Historical fit,67.77534653825354,68.65833140081028,69.43937131643763
+Tighter-prior sensitivity,Bihar,2015,Female,Historical fit,66.78659156027004,67.62106699570134,68.46761097971286
+Tighter-prior sensitivity,Bihar,2016,Female,Historical fit,67.59843724829832,68.45777385623838,69.26221694414296
+Tighter-prior sensitivity,Bihar,2017,Female,Historical fit,68.03687447746515,68.88727257869306,69.72337407186984
+Tighter-prior sensitivity,Bihar,2018,Female,Historical fit,67.85242949679528,68.65784124519294,69.50116677449367
+Tighter-prior sensitivity,Bihar,2019,Female,Historical fit,68.3839596157343,69.20426053025845,70.05693630697604
+Tighter-prior sensitivity,Bihar,2020,Female,Historical fit,68.5711089373168,69.43251425625553,70.26758575628807
+Tighter-prior sensitivity,Bihar,2021,Female,Historical fit,67.80826674376002,68.66301829556787,69.53689614139397
+Tighter-prior sensitivity,Bihar,2022,Female,Historical fit,68.61318904788013,69.50134346689316,70.29569318541395
+Tighter-prior sensitivity,Bihar,2023,Female,Historical fit,69.79724858779336,70.6463629087218,71.51150148277642
+Tighter-prior sensitivity,Bihar,2024,Female,Historical fit,70.06615060799798,70.91182359752736,71.71802222755066
+Tighter-prior sensitivity,Bihar,1981,Male,Historical fit,53.524405463351805,53.524405463351805,53.524405463351805
+Tighter-prior sensitivity,Bihar,1986,Male,Historical fit,52.33325682335228,53.249125314196256,54.1795049490104
+Tighter-prior sensitivity,Bihar,1991,Male,Historical fit,59.44406153518103,60.31145990531178,61.22500651418724
+Tighter-prior sensitivity,Bihar,1996,Male,Historical fit,58.565107666849016,59.46665486119802,60.39178170054705
+Tighter-prior sensitivity,Bihar,2001,Male,Historical fit,63.59009218044809,64.48251113146148,65.39049952880437
+Tighter-prior sensitivity,Bihar,2006,Male,Historical fit,64.70133443539879,65.55244007235034,66.44137014275269
+Tighter-prior sensitivity,Bihar,2011,Male,Historical fit,66.16256291586004,67.09376214955458,68.0401563869646
+Tighter-prior sensitivity,Bihar,2012,Male,Historical fit,66.78201933647406,67.55989024296842,68.34183511213818
+Tighter-prior sensitivity,Bihar,2013,Male,Historical fit,66.90328373568481,67.65199448638904,68.48264674612146
+Tighter-prior sensitivity,Bihar,2014,Male,Historical fit,67.60566207374279,68.43607247778112,69.18195216107074
+Tighter-prior sensitivity,Bihar,2015,Male,Historical fit,67.95332622777268,68.72709681386971,69.51835973646666
+Tighter-prior sensitivity,Bihar,2016,Male,Historical fit,68.38531605515917,69.1832474165879,70.00333521885581
+Tighter-prior sensitivity,Bihar,2017,Male,Historical fit,68.39155999299942,69.13868044225481,69.95416587627112
+Tighter-prior sensitivity,Bihar,2018,Male,Historical fit,68.43797513206482,69.24029344587399,70.0369563258897
+Tighter-prior sensitivity,Bihar,2019,Male,Historical fit,68.89261499989368,69.70136419911948,70.5197053903469
+Tighter-prior sensitivity,Bihar,2020,Male,Historical fit,68.73730834095267,69.51300473685956,70.3612821866179
+Tighter-prior sensitivity,Bihar,2021,Male,Historical fit,65.96575410197471,66.81657930181137,67.62361295490143
+Tighter-prior sensitivity,Bihar,2022,Male,Historical fit,66.61135722655074,67.40943463062126,68.21108574189037
+Tighter-prior sensitivity,Bihar,2023,Male,Historical fit,68.7766943829601,69.55273759785149,70.31901231536811
+Tighter-prior sensitivity,Bihar,2024,Male,Historical fit,69.34346799075054,70.0806801187488,70.9176364525699
+Tighter-prior sensitivity,Chhattisgarh,2004,Female,Historical fit,68.02353204526922,68.02353204526922,68.02353204526922
+Tighter-prior sensitivity,Chhattisgarh,2006,Female,Historical fit,64.74664820569804,65.64721789260139,66.45075862966871
+Tighter-prior sensitivity,Chhattisgarh,2011,Female,Historical fit,65.68817934352725,66.57756333047426,67.50077149371872
+Tighter-prior sensitivity,Chhattisgarh,2012,Female,Historical fit,66.49479845271235,67.36821076753799,68.21151648314117
+Tighter-prior sensitivity,Chhattisgarh,2013,Female,Historical fit,65.49995937300602,66.31993308493588,67.17903876324647
+Tighter-prior sensitivity,Chhattisgarh,2014,Female,Historical fit,66.00099849522611,66.85377104669163,67.65566536110936
+Tighter-prior sensitivity,Chhattisgarh,2015,Female,Historical fit,66.22202622889179,67.08619334621511,67.92367394663242
+Tighter-prior sensitivity,Chhattisgarh,2016,Female,Historical fit,66.15515785282531,67.01547325288858,67.9109200764998
+Tighter-prior sensitivity,Chhattisgarh,2017,Female,Historical fit,66.27512602880861,67.0758607742251,67.91383375158283
+Tighter-prior sensitivity,Chhattisgarh,2018,Female,Historical fit,65.14644967864233,66.03478183066989,66.86496124291463
+Tighter-prior sensitivity,Chhattisgarh,2019,Female,Historical fit,66.59305712127,67.44523879664752,68.30926854017443
+Tighter-prior sensitivity,Chhattisgarh,2020,Female,Historical fit,65.57573009772409,66.4065360008579,67.25317578378744
+Tighter-prior sensitivity,Chhattisgarh,2021,Female,Historical fit,64.26658357361546,65.07113082254429,65.88168004416582
+Tighter-prior sensitivity,Chhattisgarh,2022,Female,Historical fit,66.31514675284512,67.14451746106586,67.96649243529257
+Tighter-prior sensitivity,Chhattisgarh,2023,Female,Historical fit,67.02468562124939,67.8706298388496,68.68854786079638
+Tighter-prior sensitivity,Chhattisgarh,2024,Female,Historical fit,66.96687035723383,67.83222202675378,68.71477050405252
+Tighter-prior sensitivity,Chhattisgarh,2004,Male,Historical fit,62.992921494962225,62.992921494962225,62.992921494962225
+Tighter-prior sensitivity,Chhattisgarh,2006,Male,Historical fit,61.12668636067099,61.98123641239725,62.7773604627407
+Tighter-prior sensitivity,Chhattisgarh,2011,Male,Historical fit,62.51848727515745,63.390961287050175,64.2623514472952
+Tighter-prior sensitivity,Chhattisgarh,2012,Male,Historical fit,61.610816519822976,62.4519753615846,63.25893060455472
+Tighter-prior sensitivity,Chhattisgarh,2013,Male,Historical fit,62.159952342507275,62.94269990881974,63.74058625109748
+Tighter-prior sensitivity,Chhattisgarh,2014,Male,Historical fit,62.86111694926004,63.65384120831759,64.46844517130138
+Tighter-prior sensitivity,Chhattisgarh,2015,Male,Historical fit,63.12978202543204,63.94467352727177,64.78729893667871
+Tighter-prior sensitivity,Chhattisgarh,2016,Male,Historical fit,63.10735695911907,63.91552422778641,64.68787245856889
+Tighter-prior sensitivity,Chhattisgarh,2017,Male,Historical fit,62.621428088303375,63.415617537414974,64.2270354758632
+Tighter-prior sensitivity,Chhattisgarh,2018,Male,Historical fit,62.17247095328237,62.9479886748866,63.76745340259103
+Tighter-prior sensitivity,Chhattisgarh,2019,Male,Historical fit,62.782808774320074,63.59561759236445,64.38392954131079
+Tighter-prior sensitivity,Chhattisgarh,2020,Male,Historical fit,62.30242813034987,63.03789512210521,63.82350310850494
+Tighter-prior sensitivity,Chhattisgarh,2021,Male,Historical fit,60.03104900352951,60.78890660345989,61.58932996347402
+Tighter-prior sensitivity,Chhattisgarh,2022,Male,Historical fit,60.307231858067425,61.102440810370126,61.9898826079218
+Tighter-prior sensitivity,Chhattisgarh,2023,Male,Historical fit,62.131574655161614,62.887678317358706,63.689966808636235
+Tighter-prior sensitivity,Chhattisgarh,2024,Male,Historical fit,62.59715872834941,63.366560032409424,64.17705056282921
+Tighter-prior sensitivity,Delhi,2004,Female,Historical fit,73.79622039788495,73.79622039788495,73.79622039788495
+Tighter-prior sensitivity,Delhi,2006,Female,Historical fit,71.54670684315796,72.43296136453924,73.31829828223408
+Tighter-prior sensitivity,Delhi,2011,Female,Historical fit,72.96485159707524,73.87134196420389,74.80599841753828
+Tighter-prior sensitivity,Delhi,2012,Female,Historical fit,74.04651881704623,74.86594254219243,75.67845491903311
+Tighter-prior sensitivity,Delhi,2013,Female,Historical fit,73.60485387996647,74.39514255701371,75.2023400783154
+Tighter-prior sensitivity,Delhi,2014,Female,Historical fit,75.77563443579896,76.67199910547382,77.48792253293101
+Tighter-prior sensitivity,Delhi,2015,Female,Historical fit,76.40548442485117,77.2148370923228,78.01538047520926
+Tighter-prior sensitivity,Delhi,2016,Female,Historical fit,75.7056873044518,76.5569806298011,77.42630353977063
+Tighter-prior sensitivity,Delhi,2017,Female,Historical fit,77.10640237919364,77.96571822569608,78.76106003344606
+Tighter-prior sensitivity,Delhi,2018,Female,Historical fit,77.72750148124341,78.52737526450245,79.33039565831018
+Tighter-prior sensitivity,Delhi,2019,Female,Historical fit,78.43603015151056,79.2737597063028,80.07173703354293
+Tighter-prior sensitivity,Delhi,2020,Female,Historical fit,78.02108831703882,78.86326137338153,79.71625954093193
+Tighter-prior sensitivity,Delhi,2021,Female,Historical fit,74.74381527590124,75.56897859864237,76.38423761726997
+Tighter-prior sensitivity,Delhi,2022,Female,Historical fit,76.71081482497357,77.5245442263712,78.387040323108
+Tighter-prior sensitivity,Delhi,2023,Female,Historical fit,76.11623276642833,77.01701517880404,77.86406092265436
+Tighter-prior sensitivity,Delhi,2024,Female,Historical fit,76.37528725112419,77.25861687677335,78.07076588179262
+Tighter-prior sensitivity,Delhi,2004,Male,Historical fit,69.1324446545988,69.1324446545988,69.1324446545988
+Tighter-prior sensitivity,Delhi,2006,Male,Historical fit,68.14244573699817,68.92423237228068,69.78185089301252
+Tighter-prior sensitivity,Delhi,2011,Male,Historical fit,71.17900515625004,72.13183186688144,73.04212572759704
+Tighter-prior sensitivity,Delhi,2012,Male,Historical fit,70.80140900887858,71.61933467018372,72.4807680468819
+Tighter-prior sensitivity,Delhi,2013,Male,Historical fit,71.21564283710387,72.0407761112867,72.8567363333883
+Tighter-prior sensitivity,Delhi,2014,Male,Historical fit,72.55707735371905,73.38113817445429,74.1986266918355
+Tighter-prior sensitivity,Delhi,2015,Male,Historical fit,72.9615565282971,73.77926234859493,74.54843729504711
+Tighter-prior sensitivity,Delhi,2016,Male,Historical fit,71.45183983339322,72.23007945854968,73.06071918644001
+Tighter-prior sensitivity,Delhi,2017,Male,Historical fit,71.85984370658133,72.70355535430042,73.52597048050404
+Tighter-prior sensitivity,Delhi,2018,Male,Historical fit,72.62725080089695,73.34405190929753,74.16333713394462
+Tighter-prior sensitivity,Delhi,2019,Male,Historical fit,72.9993748643933,73.78075449338552,74.57218342399653
+Tighter-prior sensitivity,Delhi,2020,Male,Historical fit,72.06960632335165,72.839238285026,73.6474600067252
+Tighter-prior sensitivity,Delhi,2021,Male,Historical fit,68.29440708895223,69.09135761179758,69.94082695773949
+Tighter-prior sensitivity,Delhi,2022,Male,Historical fit,70.42127428917885,71.19481987569199,71.99339095346562
+Tighter-prior sensitivity,Delhi,2023,Male,Historical fit,72.09706575284629,72.89905630527491,73.70890969970888
+Tighter-prior sensitivity,Delhi,2024,Male,Historical fit,72.72421657856496,73.53601169797042,74.35467232736413
+Tighter-prior sensitivity,Goa,1991,Female,Historical fit,71.33853347783285,71.33853347783285,71.33853347783285
+Tighter-prior sensitivity,Goa,1992,Female,Historical fit,70.61077237808126,71.42785132345014,72.2529639474781
+Tighter-prior sensitivity,Goa,1993,Female,Historical fit,71.58687819889576,72.4376372074496,73.28996632540134
+Tighter-prior sensitivity,Goa,1994,Female,Historical fit,69.47343726064062,70.32968015582152,71.22397828496662
+Tighter-prior sensitivity,Goa,1995,Female,Historical fit,69.16182133281715,69.97756295067165,70.86094497892792
+Tighter-prior sensitivity,Goa,1996,Female,Historical fit,71.1579344509073,72.00321562889238,72.82577991046867
+Tighter-prior sensitivity,Goa,1997,Female,Historical fit,71.35247803480131,72.26924133741525,73.12447289661183
+Tighter-prior sensitivity,Goa,1998,Female,Historical fit,72.34146616181836,73.1512744628539,73.97436112400459
+Tighter-prior sensitivity,Goa,1999,Female,Historical fit,72.94162444241734,73.72789537906532,74.53074239220852
+Tighter-prior sensitivity,Goa,2000,Female,Historical fit,73.70436332245471,74.49332645248035,75.33025894997891
+Tighter-prior sensitivity,Goa,2001,Female,Historical fit,73.20662510802106,74.04356092964031,74.92574889821886
+Tighter-prior sensitivity,Goa,2002,Female,Historical fit,73.00144071946414,73.87983678577112,74.72740852412022
+Tighter-prior sensitivity,Goa,2003,Female,Historical fit,73.91547792604914,74.77084784256289,75.63401270891939
+Tighter-prior sensitivity,Goa,2004,Female,Historical fit,73.96341970258194,74.7961504864002,75.60667149370518
+Tighter-prior sensitivity,Goa,2005,Female,Historical fit,72.81149807150237,73.64104139594234,74.4704464731451
+Tighter-prior sensitivity,Goa,2006,Female,Historical fit,73.11233170392258,73.96585032822966,74.78154156715502
+Tighter-prior sensitivity,Goa,2007,Female,Historical fit,74.35455356943973,75.23684449982022,76.0639107313423
+Tighter-prior sensitivity,Goa,2008,Female,Historical fit,75.77381592398469,76.6366676057075,77.5045617769462
+Tighter-prior sensitivity,Goa,2009,Female,Historical fit,76.65209335486978,77.49625524147197,78.38841534145912
+Tighter-prior sensitivity,Goa,2010,Female,Historical fit,76.67604877911245,77.50669413519933,78.39328293506374
+Tighter-prior sensitivity,Goa,2011,Female,Historical fit,76.48593716078362,77.31449628668273,78.17345764958856
+Tighter-prior sensitivity,Goa,2012,Female,Historical fit,76.7295170674862,77.56592428426526,78.41492699421046
+Tighter-prior sensitivity,Goa,1991,Male,Historical fit,63.42579186840128,63.42579186840128,63.42579186840128
+Tighter-prior sensitivity,Goa,1992,Male,Historical fit,63.323707361038686,64.11106985618046,64.87187576031931
+Tighter-prior sensitivity,Goa,1993,Male,Historical fit,64.34276603469178,65.18404522650451,65.97577355695505
+Tighter-prior sensitivity,Goa,1994,Male,Historical fit,64.67498844459612,65.50274005753815,66.25494089556285
+Tighter-prior sensitivity,Goa,1995,Male,Historical fit,64.65311296676305,65.46671090975087,66.27477296859074
+Tighter-prior sensitivity,Goa,1996,Male,Historical fit,63.94619669605261,64.78410908195231,65.54642954727319
+Tighter-prior sensitivity,Goa,1997,Male,Historical fit,63.329264083484695,64.09573946640057,64.93062680862676
+Tighter-prior sensitivity,Goa,1998,Male,Historical fit,63.90066953535938,64.66705837425238,65.49872666628143
+Tighter-prior sensitivity,Goa,1999,Male,Historical fit,64.30904009204559,65.07501606075503,65.85851734862864
+Tighter-prior sensitivity,Goa,2000,Male,Historical fit,65.56489672048465,66.36839406044245,67.1290349953849
+Tighter-prior sensitivity,Goa,2001,Male,Historical fit,65.26277865470445,66.08100987450743,66.82377765797463
+Tighter-prior sensitivity,Goa,2002,Male,Historical fit,65.5351083374583,66.32666263597501,67.11323771603931
+Tighter-prior sensitivity,Goa,2003,Male,Historical fit,65.95282548511369,66.7633735926322,67.56134454011635
+Tighter-prior sensitivity,Goa,2004,Male,Historical fit,66.42930731390466,67.22340936005676,68.00410623353888
+Tighter-prior sensitivity,Goa,2005,Male,Historical fit,66.20218858166855,66.89565938881222,67.65013830286229
+Tighter-prior sensitivity,Goa,2006,Male,Historical fit,66.3926382479696,67.17610181818489,67.98535882588209
+Tighter-prior sensitivity,Goa,2007,Male,Historical fit,67.2832129412172,68.06492462779235,68.81719037177092
+Tighter-prior sensitivity,Goa,2008,Male,Historical fit,67.93546805829531,68.7179240116923,69.46704315510559
+Tighter-prior sensitivity,Goa,2009,Male,Historical fit,69.00132371430581,69.8171338365166,70.62131784792504
+Tighter-prior sensitivity,Goa,2010,Male,Historical fit,69.41415723743931,70.23587897013974,71.02238106168994
+Tighter-prior sensitivity,Goa,2011,Male,Historical fit,69.77402615254597,70.56442895050142,71.36480698627736
+Tighter-prior sensitivity,Goa,2012,Male,Historical fit,69.87260797617662,70.70365789369716,71.45677916407182
+Tighter-prior sensitivity,Gujarat,1971,Female,Historical fit,45.92561258317842,45.92561258317842,45.92561258317842
+Tighter-prior sensitivity,Gujarat,1976,Female,Historical fit,48.07656046303923,49.00872333665143,49.94446463794204
+Tighter-prior sensitivity,Gujarat,1981,Female,Historical fit,54.49148374362441,55.40136381607418,56.33656780001332
+Tighter-prior sensitivity,Gujarat,1986,Female,Historical fit,56.62493308713635,57.563504019107924,58.46746439145891
+Tighter-prior sensitivity,Gujarat,1991,Female,Historical fit,62.69169392359477,63.60348389430091,64.5680617089213
+Tighter-prior sensitivity,Gujarat,1996,Female,Historical fit,65.15027869688419,66.07637819402197,67.03994516084302
+Tighter-prior sensitivity,Gujarat,2001,Female,Historical fit,66.93436748975114,67.90607717595655,68.8161850966183
+Tighter-prior sensitivity,Gujarat,2006,Female,Historical fit,67.82280592688612,68.78585267210859,69.71781422575157
+Tighter-prior sensitivity,Gujarat,2009,Female,Historical fit,69.59409626639984,70.48604145805845,71.35131444239647
+Tighter-prior sensitivity,Gujarat,2011,Female,Historical fit,70.26757112026846,71.08669657645797,71.98160455867787
+Tighter-prior sensitivity,Gujarat,2012,Female,Historical fit,70.78292395856258,71.62584010086142,72.4835672652001
+Tighter-prior sensitivity,Gujarat,2013,Female,Historical fit,71.18559259124434,72.01983625315353,72.89986619140129
+Tighter-prior sensitivity,Gujarat,2014,Female,Historical fit,71.80288020522062,72.65511757978277,73.50291844487307
+Tighter-prior sensitivity,Gujarat,2015,Female,Historical fit,71.80549086683057,72.58555542944262,73.43435195447651
+Tighter-prior sensitivity,Gujarat,2016,Female,Historical fit,72.0931078976101,72.92562589647788,73.72517789491862
+Tighter-prior sensitivity,Gujarat,2017,Female,Historical fit,71.6742949314407,72.51033173502847,73.43905564961595
+Tighter-prior sensitivity,Gujarat,2018,Female,Historical fit,72.9375340288048,73.831967303368,74.65520908090504
+Tighter-prior sensitivity,Gujarat,2019,Female,Historical fit,73.30600582323923,74.2079612299697,75.02664435071962
+Tighter-prior sensitivity,Gujarat,2020,Female,Historical fit,73.71866035622894,74.5777293981686,75.41536289437983
+Tighter-prior sensitivity,Gujarat,2021,Female,Historical fit,69.85284259117586,70.68254591315267,71.58591837675887
+Tighter-prior sensitivity,Gujarat,2022,Female,Historical fit,72.58503964318608,73.41594949679546,74.23258387015784
+Tighter-prior sensitivity,Gujarat,2023,Female,Historical fit,74.5901930695606,75.42854317030915,76.27500058142832
+Tighter-prior sensitivity,Gujarat,2024,Female,Historical fit,75.11297498716601,75.96216724489328,76.80342006444687
+Tighter-prior sensitivity,Gujarat,1971,Male,Historical fit,46.74363334113801,46.74363334113801,46.74363334113801
+Tighter-prior sensitivity,Gujarat,1976,Male,Historical fit,46.98675845849081,47.87143025386397,48.76586545567457
+Tighter-prior sensitivity,Gujarat,1981,Male,Historical fit,52.1998474143662,53.098494549057435,53.99387045276315
+Tighter-prior sensitivity,Gujarat,1986,Male,Historical fit,54.33394244075239,55.25569451554669,56.144566226994755
+Tighter-prior sensitivity,Gujarat,1991,Male,Historical fit,58.58661920802348,59.504771954479835,60.42512944984341
+Tighter-prior sensitivity,Gujarat,1996,Male,Historical fit,61.907933056795464,62.82486952576629,63.73325297010149
+Tighter-prior sensitivity,Gujarat,2001,Male,Historical fit,62.53305613001743,63.41452037769898,64.24841568083112
+Tighter-prior sensitivity,Gujarat,2006,Male,Historical fit,63.44942218467456,64.31877106145987,65.20650166524584
+Tighter-prior sensitivity,Gujarat,2009,Male,Historical fit,64.99127271086495,65.89383917091854,66.79889255453598
+Tighter-prior sensitivity,Gujarat,2011,Male,Historical fit,65.21561852664485,66.04886422135073,66.98530549029428
+Tighter-prior sensitivity,Gujarat,2012,Male,Historical fit,65.69785240875147,66.46564387297565,67.27166186847936
+Tighter-prior sensitivity,Gujarat,2013,Male,Historical fit,66.16800687867945,66.91527603462262,67.71994590022916
+Tighter-prior sensitivity,Gujarat,2014,Male,Historical fit,67.0304505711712,67.81390422173025,68.58848323393882
+Tighter-prior sensitivity,Gujarat,2015,Male,Historical fit,67.19509701527134,67.97564549145966,68.73857254467444
+Tighter-prior sensitivity,Gujarat,2016,Male,Historical fit,67.52758368707954,68.33065127754759,69.12310536234304
+Tighter-prior sensitivity,Gujarat,2017,Male,Historical fit,67.15137198446077,67.91336974659112,68.73511869630461
+Tighter-prior sensitivity,Gujarat,2018,Male,Historical fit,67.44864470690777,68.21603815894895,68.9847701293444
+Tighter-prior sensitivity,Gujarat,2019,Male,Historical fit,67.97196083227753,68.78555216061308,69.56000500161439
+Tighter-prior sensitivity,Gujarat,2020,Male,Historical fit,67.9724208104467,68.82714620922869,69.62324499213703
+Tighter-prior sensitivity,Gujarat,2021,Male,Historical fit,63.96824229323547,64.75236831488995,65.60577860333335
+Tighter-prior sensitivity,Gujarat,2022,Male,Historical fit,65.95003050118203,66.74991703141268,67.56731984347176
+Tighter-prior sensitivity,Gujarat,2023,Male,Historical fit,68.22314690275756,69.05126907369942,69.90106776689383
+Tighter-prior sensitivity,Gujarat,2024,Male,Historical fit,69.1481535278132,69.93872492802643,70.72901519776262
+Tighter-prior sensitivity,Haryana,1971,Female,Historical fit,59.12756203757166,59.12756203757166,59.12756203757166
+Tighter-prior sensitivity,Haryana,1976,Female,Historical fit,49.69817711624414,50.58039647433212,51.55331675494598
+Tighter-prior sensitivity,Haryana,1986,Female,Historical fit,60.82474129552348,61.73139658170293,62.6458159008391
+Tighter-prior sensitivity,Haryana,1991,Female,Historical fit,63.584412657981545,64.52933451249324,65.41221492094456
+Tighter-prior sensitivity,Haryana,1996,Female,Historical fit,64.61545222414058,65.55453040515727,66.49125935513125
+Tighter-prior sensitivity,Haryana,2001,Female,Historical fit,68.02523919517853,68.92065754859794,69.87942088148165
+Tighter-prior sensitivity,Haryana,2006,Female,Historical fit,71.6326249238584,72.53193736164783,73.45717738287829
+Tighter-prior sensitivity,Haryana,2009,Female,Historical fit,70.22658813715546,71.12525076928341,72.05848195060601
+Tighter-prior sensitivity,Haryana,2011,Female,Historical fit,70.29005873304138,71.13077948836553,72.00266038451805
+Tighter-prior sensitivity,Haryana,2012,Female,Historical fit,70.53575808175262,71.32942893208381,72.16321435359848
+Tighter-prior sensitivity,Haryana,2013,Female,Historical fit,70.8369986943716,71.6969102755451,72.53158264306276
+Tighter-prior sensitivity,Haryana,2014,Female,Historical fit,70.97109714487094,71.77625416121661,72.63498738539292
+Tighter-prior sensitivity,Haryana,2015,Female,Historical fit,71.13597034959498,71.89325553470387,72.84522066977485
+Tighter-prior sensitivity,Haryana,2016,Female,Historical fit,71.71207854239186,72.5475323387899,73.42536695956933
+Tighter-prior sensitivity,Haryana,2017,Female,Historical fit,71.86400837354265,72.74185829013875,73.61003981834115
+Tighter-prior sensitivity,Haryana,2018,Female,Historical fit,72.2890197071872,73.12493779460877,73.97106864189539
+Tighter-prior sensitivity,Haryana,2019,Female,Historical fit,72.28378605777368,73.18045454327745,74.02902531976494
+Tighter-prior sensitivity,Haryana,2020,Female,Historical fit,71.85713341020579,72.67810343542601,73.48359700788976
+Tighter-prior sensitivity,Haryana,2021,Female,Historical fit,68.86593755668439,69.66324567210654,70.59649563904154
+Tighter-prior sensitivity,Haryana,2022,Female,Historical fit,70.94308091489258,71.81137336176059,72.67675454745776
+Tighter-prior sensitivity,Haryana,2023,Female,Historical fit,72.46301493658214,73.32363508819614,74.19872779344728
+Tighter-prior sensitivity,Haryana,2024,Female,Historical fit,72.74448476958848,73.60688664471648,74.45576882142872
+Tighter-prior sensitivity,Haryana,1971,Male,Historical fit,60.04398023867897,60.04398023867897,60.04398023867897
+Tighter-prior sensitivity,Haryana,1976,Male,Historical fit,53.50183764886779,54.37872071193968,55.333463433540686
+Tighter-prior sensitivity,Haryana,1986,Male,Historical fit,61.25495365466815,62.12930634184198,63.00021887943147
+Tighter-prior sensitivity,Haryana,1991,Male,Historical fit,61.95576610119703,62.87945631015786,63.699965380127246
+Tighter-prior sensitivity,Haryana,1996,Male,Historical fit,64.11444165733903,65.0587629863148,65.91170163223202
+Tighter-prior sensitivity,Haryana,2001,Male,Historical fit,64.06625297696134,64.96601024852433,65.90457562579242
+Tighter-prior sensitivity,Haryana,2006,Male,Historical fit,65.08729231587313,65.9388289751619,66.85970944467256
+Tighter-prior sensitivity,Haryana,2009,Male,Historical fit,65.02073647633603,65.81107472960454,66.69969492692978
+Tighter-prior sensitivity,Haryana,2011,Male,Historical fit,65.32686252235749,66.13770544634825,67.01565911433663
+Tighter-prior sensitivity,Haryana,2012,Male,Historical fit,65.54319033987112,66.33462508429122,67.16322157138475
+Tighter-prior sensitivity,Haryana,2013,Male,Historical fit,65.88258840850062,66.66517204614175,67.44918579208445
+Tighter-prior sensitivity,Haryana,2014,Male,Historical fit,66.5135923465542,67.26617908522206,68.06104401245913
+Tighter-prior sensitivity,Haryana,2015,Male,Historical fit,66.61555004747942,67.38965349348996,68.18423588716723
+Tighter-prior sensitivity,Haryana,2016,Male,Historical fit,67.21900025664907,68.02242203660307,68.85076448896432
+Tighter-prior sensitivity,Haryana,2017,Male,Historical fit,67.14964562195985,67.94085786889173,68.73747821721338
+Tighter-prior sensitivity,Haryana,2018,Male,Historical fit,66.35958076123441,67.22356092042364,67.98365205219395
+Tighter-prior sensitivity,Haryana,2019,Male,Historical fit,66.2977525308456,67.07457066563515,67.86619885728298
+Tighter-prior sensitivity,Haryana,2020,Male,Historical fit,65.60953940094166,66.43751859227802,67.20165261107026
+Tighter-prior sensitivity,Haryana,2021,Male,Historical fit,62.93055749920722,63.73964650191533,64.56211866634479
+Tighter-prior sensitivity,Haryana,2022,Male,Historical fit,64.40219385917348,65.21186705733672,66.00234703977836
+Tighter-prior sensitivity,Haryana,2023,Male,Historical fit,66.12117419587958,66.95392834373712,67.72909507394485
+Tighter-prior sensitivity,Haryana,2024,Male,Historical fit,66.84084691920808,67.64429418058185,68.45757802355709
+Tighter-prior sensitivity,Himachal Pradesh,1991,Female,Historical fit,65.03864446437379,65.03864446437379,65.03864446437379
+Tighter-prior sensitivity,Himachal Pradesh,1992,Female,Historical fit,64.53531246964032,65.3502818007812,66.15789172972782
+Tighter-prior sensitivity,Himachal Pradesh,1993,Female,Historical fit,64.94006423028273,65.76110472464116,66.59566672925475
+Tighter-prior sensitivity,Himachal Pradesh,1994,Female,Historical fit,62.22277704060104,63.052332904378545,63.95358477805351
+Tighter-prior sensitivity,Himachal Pradesh,1996,Female,Historical fit,65.75587166623498,66.69172409097564,67.54307325212432
+Tighter-prior sensitivity,Himachal Pradesh,1997,Female,Historical fit,67.42273953998988,68.20029269431518,69.04712222582401
+Tighter-prior sensitivity,Himachal Pradesh,1998,Female,Historical fit,68.62017128579497,69.47667094331604,70.30217386352595
+Tighter-prior sensitivity,Himachal Pradesh,1999,Female,Historical fit,70.13300778254033,70.98276559760866,71.83143093488839
+Tighter-prior sensitivity,Himachal Pradesh,2000,Female,Historical fit,71.41351138131652,72.2913202250082,73.1207657066964
+Tighter-prior sensitivity,Himachal Pradesh,2002,Female,Historical fit,72.45514770190533,73.41136403731309,74.28151790645182
+Tighter-prior sensitivity,Himachal Pradesh,2003,Female,Historical fit,73.13749040464546,73.95830950397693,74.79634928580401
+Tighter-prior sensitivity,Himachal Pradesh,2004,Female,Historical fit,73.47751950900448,74.24262105796444,75.08063846859075
+Tighter-prior sensitivity,Himachal Pradesh,2005,Female,Historical fit,73.57914838712165,74.440944563074,75.22189357787624
+Tighter-prior sensitivity,Himachal Pradesh,2006,Female,Historical fit,73.74408072013222,74.53140710624078,75.37500127005632
+Tighter-prior sensitivity,Himachal Pradesh,2007,Female,Historical fit,73.91040507095813,74.76959020289915,75.66785246860645
+Tighter-prior sensitivity,Himachal Pradesh,2008,Female,Historical fit,73.63167521461095,74.46150043316509,75.30802104514068
+Tighter-prior sensitivity,Himachal Pradesh,2009,Female,Historical fit,73.64500538620297,74.53827437381473,75.34081939019022
+Tighter-prior sensitivity,Himachal Pradesh,2010,Female,Historical fit,74.17797420633671,75.02353413400269,75.90339958217938
+Tighter-prior sensitivity,Himachal Pradesh,2011,Female,Historical fit,73.72367967656982,74.59023836909077,75.4657101987176
+Tighter-prior sensitivity,Himachal Pradesh,2012,Female,Historical fit,74.73855003182749,75.57196371737393,76.40557191828748
+Tighter-prior sensitivity,Himachal Pradesh,2013,Female,Historical fit,74.21598175649424,75.00565917348487,75.864982000497207
+Tighter-prior sensitivity,Himachal Pradesh,2014,Female,Historical fit,75.73875508564797,76.59415035641202,77.42247747537539
+Tighter-prior sensitivity,Himachal Pradesh,2015,Female,Historical fit,75.93404718722113,76.78334873897842,77.633812486996
+Tighter-prior sensitivity,Himachal Pradesh,2016,Female,Historical fit,75.16141904245396,76.00392823139313,76.82213173749281
+Tighter-prior sensitivity,Himachal Pradesh,2017,Female,Historical fit,75.84258382217983,76.64679600537197,77.46587474557474
+Tighter-prior sensitivity,Himachal Pradesh,2018,Female,Historical fit,75.37260592801468,76.24366192268599,77.09770406972083
+Tighter-prior sensitivity,Himachal Pradesh,2019,Female,Historical fit,75.26233647319069,76.0523804419864,76.90904263725488
+Tighter-prior sensitivity,Himachal Pradesh,2020,Female,Historical fit,75.76593727263099,76.6339344129026,77.44707539796855
+Tighter-prior sensitivity,Himachal Pradesh,2021,Female,Historical fit,73.31767387611661,74.19380172863049,75.0498168437311
+Tighter-prior sensitivity,Himachal Pradesh,2022,Female,Historical fit,76.3550006794075,77.21741921569715,78.07843401291318
+Tighter-prior sensitivity,Himachal Pradesh,2023,Female,Historical fit,78.41415831286977,79.30036459284527,80.17275828818515
+Tighter-prior sensitivity,Himachal Pradesh,2024,Female,Historical fit,78.51262802703594,79.33489563294609,80.16830181281642
+Tighter-prior sensitivity,Himachal Pradesh,1991,Male,Historical fit,62.86116834074685,62.86116834074685,62.86116834074685
+Tighter-prior sensitivity,Himachal Pradesh,1992,Male,Historical fit,62.02798718890023,62.766904331931045,63.524537362815025
+Tighter-prior sensitivity,Himachal Pradesh,1993,Male,Historical fit,61.45221355489841,62.22973512451599,63.03903537529459
+Tighter-prior sensitivity,Himachal Pradesh,1994,Male,Historical fit,59.404440077642235,60.25696376571652,61.053027410327715
+Tighter-prior sensitivity,Himachal Pradesh,1996,Male,Historical fit,63.06266682522704,63.891765581501204,64.75120898264274
+Tighter-prior sensitivity,Himachal Pradesh,1997,Male,Historical fit,64.32405578718931,65.10694089707104,65.88379492919879
+Tighter-prior sensitivity,Himachal Pradesh,1998,Male,Historical fit,65.14892391486156,65.95778801998482,66.73994823113604
+Tighter-prior sensitivity,Himachal Pradesh,1999,Male,Historical fit,66.2229670095258,67.05838210039289,67.8238142168751
+Tighter-prior sensitivity,Himachal Pradesh,2000,Male,Historical fit,67.13377009084192,67.93193406224366,68.72315813107308
+Tighter-prior sensitivity,Himachal Pradesh,2002,Male,Historical fit,66.85145250530307,67.71199960682833,68.61533573210396
+Tighter-prior sensitivity,Himachal Pradesh,2003,Male,Historical fit,66.85889965894472,67.6513665640115,68.4966051803808
+Tighter-prior sensitivity,Himachal Pradesh,2004,Male,Historical fit,67.51627711879611,68.37798510755718,69.16950314835658
+Tighter-prior sensitivity,Himachal Pradesh,2005,Male,Historical fit,67.65541330128568,68.46673663797858,69.24143956062565
+Tighter-prior sensitivity,Himachal Pradesh,2006,Male,Historical fit,67.62539388159564,68.33770185332723,69.11490184533
+Tighter-prior sensitivity,Himachal Pradesh,2007,Male,Historical fit,67.20883308888881,67.99819701610988,68.8314355319772
+Tighter-prior sensitivity,Himachal Pradesh,2008,Male,Historical fit,67.09472216820429,67.90320316017912,68.73194007724652
+Tighter-prior sensitivity,Himachal Pradesh,2009,Male,Historical fit,67.60457819332419,68.43528499337283,69.19583332158749
+Tighter-prior sensitivity,Himachal Pradesh,2010,Male,Historical fit,68.46182245269634,69.22165266973687,69.9737075288443
+Tighter-prior sensitivity,Himachal Pradesh,2011,Male,Historical fit,68.70436198901753,69.45837370050066,70.2927497164069
+Tighter-prior sensitivity,Himachal Pradesh,2012,Male,Historical fit,68.46715372502327,69.23924782274935,70.04638888606844
+Tighter-prior sensitivity,Himachal Pradesh,2013,Male,Historical fit,69.5890161937308,70.426668232406,71.19150077080786
+Tighter-prior sensitivity,Himachal Pradesh,2014,Male,Historical fit,68.60555013953243,69.42189803687103,70.2931013684131
+Tighter-prior sensitivity,Himachal Pradesh,2015,Male,Historical fit,68.10098116495799,68.87121381077745,69.72112366405976
+Tighter-prior sensitivity,Himachal Pradesh,2016,Male,Historical fit,69.30527143997342,70.15154440201607,70.92753539817434
+Tighter-prior sensitivity,Himachal Pradesh,2017,Male,Historical fit,69.89599740485953,70.70720524495998,71.53610670112121
+Tighter-prior sensitivity,Himachal Pradesh,2018,Male,Historical fit,69.1596646040436,69.97670201107226,70.7782414424629
+Tighter-prior sensitivity,Himachal Pradesh,2019,Male,Historical fit,69.00093285720286,69.84653442060556,70.6586025571529
+Tighter-prior sensitivity,Himachal Pradesh,2020,Male,Historical fit,68.87637664881856,69.67746671348071,70.46601129200101
+Tighter-prior sensitivity,Himachal Pradesh,2021,Male,Historical fit,67.08451757022873,67.95331027944619,68.74759277592803
+Tighter-prior sensitivity,Himachal Pradesh,2022,Male,Historical fit,70.09521662634248,70.9048227820362,71.70642206436858
+Tighter-prior sensitivity,Himachal Pradesh,2023,Male,Historical fit,72.14082163415978,72.90828846315993,73.7670726886119
+Tighter-prior sensitivity,Himachal Pradesh,2024,Male,Historical fit,72.04609658705336,72.85328605548892,73.668831718451
+Tighter-prior sensitivity,Jammu & Kashmir,2004,Female,Historical fit,73.41310157365669,73.41310157365669,73.41310157365669
+Tighter-prior sensitivity,Jammu & Kashmir,2006,Female,Historical fit,72.853436246688,73.7577408828057,74.6377640522088
+Tighter-prior sensitivity,Jammu & Kashmir,2011,Female,Historical fit,72.52134664720644,73.41020221963242,74.3626435543322
+Tighter-prior sensitivity,Jammu & Kashmir,2012,Female,Historical fit,73.48615816342782,74.35012472057247,75.18999622383105
+Tighter-prior sensitivity,Jammu & Kashmir,2013,Female,Historical fit,76.38482489320155,77.25331137804892,78.14735632019597
+Tighter-prior sensitivity,Jammu & Kashmir,2014,Female,Historical fit,77.63438464809168,78.4203667843109,79.29831292041514
+Tighter-prior sensitivity,Jammu & Kashmir,2015,Female,Historical fit,77.80422514256328,78.64451155657538,79.49005806631963
+Tighter-prior sensitivity,Jammu & Kashmir,2016,Female,Historical fit,78.39277200255601,79.2551650694816,80.0688773930618
+Tighter-prior sensitivity,Jammu & Kashmir,2017,Female,Historical fit,77.81771265577729,78.64989962453865,79.49104868182111
+Tighter-prior sensitivity,Jammu & Kashmir,2018,Female,Historical fit,77.8310530231932,78.65232774014049,79.43953305219198
+Tighter-prior sensitivity,Jammu & Kashmir,2020,Female,Historical fit,79.94059312107247,80.87270445479474,81.770340190338
+Tighter-prior sensitivity,Jammu & Kashmir,2021,Female,Historical fit,76.10725213143617,76.92494710974569,77.84674280352944
+Tighter-prior sensitivity,Jammu & Kashmir,2022,Female,Historical fit,75.92479701526824,76.75040843251571,77.54724421402616
+Tighter-prior sensitivity,Jammu & Kashmir,2023,Female,Historical fit,76.74626069492616,77.57555197268866,78.48759913206834
+Tighter-prior sensitivity,Jammu & Kashmir,2024,Female,Historical fit,77.24702231128293,78.07443226376607,78.8851632123626
+Tighter-prior sensitivity,Jammu & Kashmir,2004,Male,Historical fit,71.63886229998366,71.63886229998366,71.63886229998366
+Tighter-prior sensitivity,Jammu & Kashmir,2006,Male,Historical fit,69.09654238721467,69.90813611759162,70.798386766077
+Tighter-prior sensitivity,Jammu & Kashmir,2011,Male,Historical fit,69.82788124446327,70.71051861458274,71.602933297564
+Tighter-prior sensitivity,Jammu & Kashmir,2012,Male,Historical fit,70.0297067593067,70.85654196866028,71.68633609690846
+Tighter-prior sensitivity,Jammu & Kashmir,2013,Male,Historical fit,70.96380914358821,71.76874295039894,72.59877377319465
+Tighter-prior sensitivity,Jammu & Kashmir,2014,Male,Historical fit,71.44614831060494,72.19717474279977,72.98313333340008
+Tighter-prior sensitivity,Jammu & Kashmir,2015,Male,Historical fit,72.29285795277339,73.08897699571364,73.83898747121751
+Tighter-prior sensitivity,Jammu & Kashmir,2016,Male,Historical fit,72.87743588460216,73.68588603152095,74.44541612483916
+Tighter-prior sensitivity,Jammu & Kashmir,2017,Male,Historical fit,73.2940627035654,74.15166264700545,74.95010363281723
+Tighter-prior sensitivity,Jammu & Kashmir,2018,Male,Historical fit,73.34598674507197,74.1021004452434,74.88405418005655
+Tighter-prior sensitivity,Jammu & Kashmir,2020,Male,Historical fit,73.52248381089923,74.33023477756345,75.14200818216983
+Tighter-prior sensitivity,Jammu & Kashmir,2021,Male,Historical fit,72.94784717702959,73.7972503577065,74.63140778573357
+Tighter-prior sensitivity,Jammu & Kashmir,2022,Male,Historical fit,72.48004913703645,73.31394845256767,74.0942102052567
+Tighter-prior sensitivity,Jammu & Kashmir,2023,Male,Historical fit,74.38821374301065,75.1606689031668,75.9679113766933
+Tighter-prior sensitivity,Jammu & Kashmir,2024,Male,Historical fit,75.15233313343724,75.9501095621167,76.7697430972185
+Tighter-prior sensitivity,Jharkhand,2004,Female,Historical fit,62.93725609269838,62.93725609269838,62.93725609269838
+Tighter-prior sensitivity,Jharkhand,2006,Female,Historical fit,61.91934908049926,62.75958951301574,63.63305038951971
+Tighter-prior sensitivity,Jharkhand,2011,Female,Historical fit,65.63104916631461,66.52789653723124,67.41257405236414
+Tighter-prior sensitivity,Jharkhand,2012,Female,Historical fit,65.97795731296324,66.75468418790707,67.61904065623898
+Tighter-prior sensitivity,Jharkhand,2013,Female,Historical fit,66.27332142132013,67.12034729546568,67.95781370532008
+Tighter-prior sensitivity,Jharkhand,2014,Female,Historical fit,67.25892018599086,68.1036582009068,68.89343427114517
+Tighter-prior sensitivity,Jharkhand,2015,Female,Historical fit,67.54314599853893,68.37538209968528,69.24929114333274
+Tighter-prior sensitivity,Jharkhand,2016,Female,Historical fit,67.84946277779122,68.67027056188977,69.49182591928952
+Tighter-prior sensitivity,Jharkhand,2017,Female,Historical fit,67.69694869319322,68.55009309831715,69.41636733578513
+Tighter-prior sensitivity,Jharkhand,2018,Female,Historical fit,67.49079330582062,68.30376048949162,69.18099285433428
+Tighter-prior sensitivity,Jharkhand,2019,Female,Historical fit,68.02001626825063,68.82722122925479,69.68897394057254
+Tighter-prior sensitivity,Jharkhand,2020,Female,Historical fit,68.25786577416035,69.12878679726522,69.92361876884367
+Tighter-prior sensitivity,Jharkhand,2021,Female,Historical fit,68.89945369335327,69.78070197311959,70.60987861115137
+Tighter-prior sensitivity,Jharkhand,2022,Female,Historical fit,70.83110333363895,71.73693819940442,72.6008219791114
+Tighter-prior sensitivity,Jharkhand,2023,Female,Historical fit,69.71648936727749,70.6329969688819,71.51504642011857
+Tighter-prior sensitivity,Jharkhand,2024,Female,Historical fit,69.88457119870112,70.78277180365986,71.65164663558095
+Tighter-prior sensitivity,Jharkhand,2004,Male,Historical fit,62.37574606207074,62.37574606207074,62.37574606207074
+Tighter-prior sensitivity,Jharkhand,2006,Male,Historical fit,63.10510110108319,63.93563143913285,64.78583814159246
+Tighter-prior sensitivity,Jharkhand,2011,Male,Historical fit,64.72986074390234,65.62878658376107,66.49627818994365
+Tighter-prior sensitivity,Jharkhand,2012,Male,Historical fit,65.2743793440074,66.04630483777416,66.81354043434098
+Tighter-prior sensitivity,Jharkhand,2013,Male,Historical fit,65.07620020582138,65.88397928331906,66.65626663558287
+Tighter-prior sensitivity,Jharkhand,2014,Male,Historical fit,66.91605536353426,67.71740099573437,68.52122023583921
+Tighter-prior sensitivity,Jharkhand,2015,Male,Historical fit,67.49175975512624,68.23845517254699,69.00883271708992
+Tighter-prior sensitivity,Jharkhand,2016,Male,Historical fit,68.67792720673378,69.52738838623137,70.30641146277468
+Tighter-prior sensitivity,Jharkhand,2017,Male,Historical fit,69.07445052491825,69.87857005590064,70.69730376316873
+Tighter-prior sensitivity,Jharkhand,2018,Male,Historical fit,69.09718314859876,69.8294500965888,70.59774394720665
+Tighter-prior sensitivity,Jharkhand,2019,Male,Historical fit,69.03344387212255,69.80436688504318,70.61879471594577
+Tighter-prior sensitivity,Jharkhand,2020,Male,Historical fit,68.76851425207829,69.57858226564255,70.33755457781353
+Tighter-prior sensitivity,Jharkhand,2021,Male,Historical fit,65.83837414563082,66.65379911052032,67.4907721029666
+Tighter-prior sensitivity,Jharkhand,2022,Male,Historical fit,67.14331578735664,67.93462423913635,68.76615277597556
+Tighter-prior sensitivity,Jharkhand,2023,Male,Historical fit,67.45710370944352,68.26840646016859,69.0542959118644
+Tighter-prior sensitivity,Jharkhand,2024,Male,Historical fit,67.61087829602153,68.44809325784769,69.22553231627401
+Tighter-prior sensitivity,Karnataka,1971,Female,Historical fit,55.55172524328785,55.55172524328785,55.55172524328785
+Tighter-prior sensitivity,Karnataka,1976,Female,Historical fit,54.41647808715957,55.345670350970636,56.37158331565205
+Tighter-prior sensitivity,Karnataka,1981,Female,Historical fit,59.7699660244434,60.72548413754834,61.61776290425
+Tighter-prior sensitivity,Karnataka,1986,Female,Historical fit,61.34800093445692,62.24833918617118,63.151456743099544
+Tighter-prior sensitivity,Karnataka,1991,Female,Historical fit,61.520563119243704,62.43339765373487,63.33449574289025
+Tighter-prior sensitivity,Karnataka,1996,Female,Historical fit,65.23656947735064,66.19357186299194,67.09142056134269
+Tighter-prior sensitivity,Karnataka,2001,Female,Historical fit,68.24050904172032,69.14176384381051,69.98925272239346
+Tighter-prior sensitivity,Karnataka,2006,Female,Historical fit,69.53072035148469,70.43322063129217,71.37164315523637
+Tighter-prior sensitivity,Karnataka,2009,Female,Historical fit,70.05732356091468,70.95864024440206,71.8441358870044
+Tighter-prior sensitivity,Karnataka,2011,Female,Historical fit,70.95522216961037,71.80334688057488,72.74335545930096
+Tighter-prior sensitivity,Karnataka,2012,Female,Historical fit,70.45633903312408,71.2812721708074,72.18676190487486
+Tighter-prior sensitivity,Karnataka,2013,Female,Historical fit,70.48547446731355,71.324780713499,72.17936823699972
+Tighter-prior sensitivity,Karnataka,2014,Female,Historical fit,70.37602595852866,71.24383742039544,72.10568925282307
+Tighter-prior sensitivity,Karnataka,2015,Female,Historical fit,69.96063951222543,70.79088426581441,71.69724220836423
+Tighter-prior sensitivity,Karnataka,2016,Female,Historical fit,69.8106270536388,70.61705413685357,71.4710135935024
+Tighter-prior sensitivity,Karnataka,2017,Female,Historical fit,70.2614452022277,71.09074971716635,71.93450291270254
+Tighter-prior sensitivity,Karnataka,2018,Female,Historical fit,70.56004166116682,71.3810813070137,72.24280632876133
+Tighter-prior sensitivity,Karnataka,2019,Female,Historical fit,71.33808074910336,72.18188484351967,72.99903225758386
+Tighter-prior sensitivity,Karnataka,2020,Female,Historical fit,71.82742297496576,72.67191621291508,73.52281854518233
+Tighter-prior sensitivity,Karnataka,2021,Female,Historical fit,69.73306427399399,70.55651655810527,71.39836235928763
+Tighter-prior sensitivity,Karnataka,2022,Female,Historical fit,71.31898051644706,72.20261043457833,73.08504980230387
+Tighter-prior sensitivity,Karnataka,2023,Female,Historical fit,73.09885306861531,73.95654680923326,74.77698730572469
+Tighter-prior sensitivity,Karnataka,2024,Female,Historical fit,73.258288259454,74.06775563980788,74.96853851725592
+Tighter-prior sensitivity,Karnataka,1971,Male,Historical fit,52.69809486852763,52.69809486852763,52.69809486852763
+Tighter-prior sensitivity,Karnataka,1976,Male,Historical fit,54.29156518410353,55.25778438666386,56.05882311592525
+Tighter-prior sensitivity,Karnataka,1981,Male,Historical fit,58.84496453909144,59.82974762857423,60.67753912899279
+Tighter-prior sensitivity,Karnataka,1986,Male,Historical fit,59.503966208835585,60.41989313461646,61.31534729035172
+Tighter-prior sensitivity,Karnataka,1991,Male,Historical fit,58.86090561967274,59.710010233332355,60.54658775388529
+Tighter-prior sensitivity,Karnataka,1996,Male,Historical fit,62.393787178900304,63.350986715678026,64.2645073769069
+Tighter-prior sensitivity,Karnataka,2001,Male,Historical fit,62.601534882286245,63.45567732865261,64.35979001043897
+Tighter-prior sensitivity,Karnataka,2006,Male,Historical fit,63.90121933644283,64.78517890225822,65.73252114647171
+Tighter-prior sensitivity,Karnataka,2009,Male,Historical fit,65.37406630622766,66.22338141046973,67.13223021998867
+Tighter-prior sensitivity,Karnataka,2011,Male,Historical fit,65.09478373138236,65.96217975310535,66.82034010641138
+Tighter-prior sensitivity,Karnataka,2012,Male,Historical fit,65.48811575614228,66.2860910411722,67.05872498267031
+Tighter-prior sensitivity,Karnataka,2013,Male,Historical fit,66.21468575942079,67.02415474874678,67.78209430134508
+Tighter-prior sensitivity,Karnataka,2014,Male,Historical fit,67.03765006559584,67.8949458400217,68.6762450900532
+Tighter-prior sensitivity,Karnataka,2015,Male,Historical fit,67.17297730307718,67.96980350349034,68.80016952220775
+Tighter-prior sensitivity,Karnataka,2016,Male,Historical fit,66.92375753886684,67.68964540128553,68.46698059829671
+Tighter-prior sensitivity,Karnataka,2017,Male,Historical fit,66.87582002757273,67.66868873562217,68.476943847167007
+Tighter-prior sensitivity,Karnataka,2018,Male,Historical fit,67.22002319271832,68.07017682082108,68.94284227515215
+Tighter-prior sensitivity,Karnataka,2019,Male,Historical fit,67.31739138774996,68.14760215856401,68.96734143593845
+Tighter-prior sensitivity,Karnataka,2020,Male,Historical fit,67.1409157193014,67.89860370087843,68.70341248678166
+Tighter-prior sensitivity,Karnataka,2021,Male,Historical fit,64.73546634887995,65.51957351267255,66.31355328657345
+Tighter-prior sensitivity,Karnataka,2022,Male,Historical fit,66.6129823218353,67.39597202135423,68.11591013505145
+Tighter-prior sensitivity,Karnataka,2023,Male,Historical fit,68.7628236591217,69.55484303161234,70.35853397153844
+Tighter-prior sensitivity,Karnataka,2024,Male,Historical fit,68.89426568999933,69.64572585250356,70.42546782089136
+Tighter-prior sensitivity,Kerala,1971,Female,Historical fit,61.41485345330871,61.41485345330871,61.41485345330871
+Tighter-prior sensitivity,Kerala,1976,Female,Historical fit,63.837928808140475,64.75834425419896,65.64383252812551
+Tighter-prior sensitivity,Kerala,1981,Female,Historical fit,69.68976069529225,70.5693757109438,71.45952476502393
+Tighter-prior sensitivity,Kerala,1986,Female,Historical fit,72.08776115636337,73.05702826191731,74.04092857697574
+Tighter-prior sensitivity,Kerala,1991,Female,Historical fit,73.73807840762052,74.60112213373881,75.56954874867456
+Tighter-prior sensitivity,Kerala,1996,Female,Historical fit,74.89414394137665,75.79867556890525,76.6969544989848
+Tighter-prior sensitivity,Kerala,2001,Female,Historical fit,75.78131802644383,76.73435809258822,77.69206682879229
+Tighter-prior sensitivity,Kerala,2006,Female,Historical fit,76.60855408992808,77.52162946254451,78.41938880602571
+Tighter-prior sensitivity,Kerala,2009,Female,Historical fit,76.84853071990943,77.80535055468091,78.64857913524946
+Tighter-prior sensitivity,Kerala,2011,Female,Historical fit,77.05691065304896,77.95371828028091,78.8714900209134
+Tighter-prior sensitivity,Kerala,2012,Female,Historical fit,77.44701380999206,78.2979792889293,79.19766027270873
+Tighter-prior sensitivity,Kerala,2013,Female,Historical fit,77.41043435080624,78.2525237835463,79.115115930971
+Tighter-prior sensitivity,Kerala,2014,Female,Historical fit,77.18605909115134,78.03429095754092,78.87542458869437
+Tighter-prior sensitivity,Kerala,2015,Female,Historical fit,77.3516351171961,78.20226987065837,79.00186737006544
+Tighter-prior sensitivity,Kerala,2016,Female,Historical fit,76.28202032943105,77.14871384429551,77.97051407780258
+Tighter-prior sensitivity,Kerala,2017,Female,Historical fit,77.20837556232603,78.06184258837197,78.91704870341249
+Tighter-prior sensitivity,Kerala,2018,Female,Historical fit,77.23407835087673,78.04373974953842,78.86651668799144
+Tighter-prior sensitivity,Kerala,2019,Female,Historical fit,77.0650928642848,77.86168618155682,78.6651146458527
+Tighter-prior sensitivity,Kerala,2020,Female,Historical fit,77.11306815401764,77.94902219515882,78.81540319421266
+Tighter-prior sensitivity,Kerala,2021,Female,Historical fit,75.57727987623014,76.37058661693312,77.21891689072396
+Tighter-prior sensitivity,Kerala,2022,Female,Historical fit,77.29736592947216,78.18358143026799,79.0080353549236
+Tighter-prior sensitivity,Kerala,2023,Female,Historical fit,79.11999580779703,79.95403164501454,80.799396009329
+Tighter-prior sensitivity,Kerala,2024,Female,Historical fit,79.07824863846702,79.92857010580163,80.81221278326622
+Tighter-prior sensitivity,Kerala,1971,Male,Historical fit,59.60772245066056,59.60772245066056,59.60772245066056
+Tighter-prior sensitivity,Kerala,1976,Male,Historical fit,60.606655765061944,61.450460823343235,62.302043501007475
+Tighter-prior sensitivity,Kerala,1981,Male,Historical fit,63.70426208266764,64.55651550683163,65.50641111899208
+Tighter-prior sensitivity,Kerala,1986,Male,Historical fit,66.80954492215412,67.7186707461531,68.63941179312175
+Tighter-prior sensitivity,Kerala,1991,Male,Historical fit,67.84943918087775,68.76277914174474,69.6888474447126
+Tighter-prior sensitivity,Kerala,1996,Male,Historical fit,68.60232981194562,69.52591750683423,70.35528725408096
+Tighter-prior sensitivity,Kerala,2001,Male,Historical fit,68.88595039717879,69.83657668478835,70.7468116981795
+Tighter-prior sensitivity,Kerala,2006,Male,Historical fit,70.81552987584513,71.7256672933174,72.60549363389187
+Tighter-prior sensitivity,Kerala,2009,Male,Historical fit,71.01187990209937,71.87758935397379,72.78650022353538
+Tighter-prior sensitivity,Kerala,2011,Male,Historical fit,70.74528985759449,71.56340304722866,72.36998973702302
+Tighter-prior sensitivity,Kerala,2012,Male,Historical fit,70.8838628143651,71.69487951928464,72.46763697151167
+Tighter-prior sensitivity,Kerala,2013,Male,Historical fit,71.35459314748199,72.14701634183041,72.94886361840534
+Tighter-prior sensitivity,Kerala,2014,Male,Historical fit,71.77811651942038,72.56606132135133,73.3806220321085
+Tighter-prior sensitivity,Kerala,2015,Male,Historical fit,71.84197670755024,72.61214997382794,73.33061940757138
+Tighter-prior sensitivity,Kerala,2016,Male,Historical fit,71.09221254674542,71.87277161672972,72.68102696398932
+Tighter-prior sensitivity,Kerala,2017,Male,Historical fit,71.72639544784212,72.57618589320094,73.33486931843701
+Tighter-prior sensitivity,Kerala,2018,Male,Historical fit,71.76218257826172,72.50915441257939,73.31966765735777
+Tighter-prior sensitivity,Kerala,2019,Male,Historical fit,70.9733105558392,71.789028219015,72.62434219719722
+Tighter-prior sensitivity,Kerala,2020,Male,Historical fit,70.45428288515382,71.21870774621433,71.97436707772704
+Tighter-prior sensitivity,Kerala,2021,Male,Historical fit,69.15771482756442,69.99104621030494,70.79743229024976
+Tighter-prior sensitivity,Kerala,2022,Male,Historical fit,71.2528894767076,72.0214032890478,72.80592716183524
+Tighter-prior sensitivity,Kerala,2023,Male,Historical fit,72.90223559464148,73.68290723498036,74.49783403195006
+Tighter-prior sensitivity,Kerala,2024,Male,Historical fit,73.25547611365445,74.03432040253651,74.82022337725365
+Tighter-prior sensitivity,Madhya Pradesh,1971,Female,Historical fit,49.06091747051475,49.06091747051475,49.06091747051475
+Tighter-prior sensitivity,Madhya Pradesh,1976,Female,Historical fit,49.30480722307308,50.27516016329706,51.157012195764246
+Tighter-prior sensitivity,Madhya Pradesh,1986,Female,Historical fit,50.72500588775347,51.66893708456615,52.602789697482095
+Tighter-prior sensitivity,Madhya Pradesh,1991,Female,Historical fit,53.79340980523343,54.700300322461075,55.64755831034735
+Tighter-prior sensitivity,Madhya Pradesh,1996,Female,Historical fit,56.68935889297031,57.59808613717469,58.51707612943925
+Tighter-prior sensitivity,Madhya Pradesh,2011,Female,Historical fit,64.65337934315727,65.61280015661036,66.53353946540224
+Tighter-prior sensitivity,Madhya Pradesh,2012,Female,Historical fit,64.89100206592279,65.79589602183478,66.63979413850055
+Tighter-prior sensitivity,Madhya Pradesh,2013,Female,Historical fit,65.55165672671174,66.36195057885648,67.19413603406248
+Tighter-prior sensitivity,Madhya Pradesh,2014,Female,Historical fit,65.76128831960928,66.60166793082503,67.4051711453536
+Tighter-prior sensitivity,Madhya Pradesh,2015,Female,Historical fit,66.20041921174271,67.0780679305555,67.87955837563301
+Tighter-prior sensitivity,Madhya Pradesh,2016,Female,Historical fit,67.48195138607707,68.34249649613844,69.15692287705264
+Tighter-prior sensitivity,Madhya Pradesh,2017,Female,Historical fit,67.97551520076122,68.82610074455863,69.68494528163151
+Tighter-prior sensitivity,Madhya Pradesh,2018,Female,Historical fit,68.15275551416218,69.00124634700703,69.90492744836257
+Tighter-prior sensitivity,Madhya Pradesh,2019,Female,Historical fit,68.37888064237175,69.22318255649847,70.06631852265575
+Tighter-prior sensitivity,Madhya Pradesh,2020,Female,Historical fit,68.72576676226103,69.55916538209281,70.42118925125428
+Tighter-prior sensitivity,Madhya Pradesh,2021,Female,Historical fit,67.04148631157952,67.89401865381743,68.77006257316246
+Tighter-prior sensitivity,Madhya Pradesh,2022,Female,Historical fit,69.53065046165277,70.3980758658854,71.19431648196803
+Tighter-prior sensitivity,Madhya Pradesh,2023,Female,Historical fit,71.39421590881786,72.20901388237976,73.0450871618205
+Tighter-prior sensitivity,Madhya Pradesh,2024,Female,Historical fit,71.64711515112677,72.47911100379915,73.3269260596478
+Tighter-prior sensitivity,Madhya Pradesh,1971,Male,Historical fit,50.2408089135435,50.2408089135435,50.2408089135435
+Tighter-prior sensitivity,Madhya Pradesh,1976,Male,Historical fit,45.836463661352624,46.73998254930908,47.73428846194349
+Tighter-prior sensitivity,Madhya Pradesh,1986,Male,Historical fit,50.9796363382746,51.915412490499826,52.77735241389012
+Tighter-prior sensitivity,Madhya Pradesh,1991,Male,Historical fit,53.871609264435314,54.64814637706607,55.58222138709039
+Tighter-prior sensitivity,Madhya Pradesh,1996,Male,Historical fit,55.81902465906107,56.675376495442734,57.48881727479955
+Tighter-prior sensitivity,Madhya Pradesh,2011,Male,Historical fit,61.25140507440926,62.211137063610124,63.11111567384161
+Tighter-prior sensitivity,Madhya Pradesh,2012,Male,Historical fit,61.53433040488396,62.317653090379736,63.12842184922542
+Tighter-prior sensitivity,Madhya Pradesh,2013,Male,Historical fit,61.782032146826424,62.526736569258105,63.31091358721342
+Tighter-prior sensitivity,Madhya Pradesh,2014,Male,Historical fit,62.46968664152253,63.20721549323879,64.0321559381997
+Tighter-prior sensitivity,Madhya Pradesh,2015,Male,Historical fit,62.85915677752185,63.59498655548559,64.43583858216299
+Tighter-prior sensitivity,Madhya Pradesh,2016,Male,Historical fit,63.463517542388374,64.27910158106896,65.0781938126015
+Tighter-prior sensitivity,Madhya Pradesh,2017,Male,Historical fit,64.01312896127834,64.81306991703175,65.60788701470753
+Tighter-prior sensitivity,Madhya Pradesh,2018,Male,Historical fit,64.37391896121757,65.13601135867394,65.89141993662484
+Tighter-prior sensitivity,Madhya Pradesh,2019,Male,Historical fit,64.59765796402121,65.33970749731469,66.11935513367607
+Tighter-prior sensitivity,Madhya Pradesh,2020,Male,Historical fit,64.50454047730294,65.30956674688298,66.10379774842016
+Tighter-prior sensitivity,Madhya Pradesh,2021,Male,Historical fit,62.30954275553716,63.07389564292251,63.83619742764789
+Tighter-prior sensitivity,Madhya Pradesh,2022,Male,Historical fit,64.05987332346798,64.84804766999376,65.65182200941143
+Tighter-prior sensitivity,Madhya Pradesh,2023,Male,Historical fit,65.69857033435711,66.50812549611146,67.29753495211882
+Tighter-prior sensitivity,Madhya Pradesh,2024,Male,Historical fit,66.20212484312361,66.97718997199294,67.78563661059623
+Tighter-prior sensitivity,Maharashtra,1971,Female,Historical fit,53.72707778571223,53.72707778571223,53.72707778571223
+Tighter-prior sensitivity,Maharashtra,1976,Female,Historical fit,56.17787996926787,57.105362034735684,57.98602676231765
+Tighter-prior sensitivity,Maharashtra,1981,Female,Historical fit,59.534024303836595,60.463829543883165,61.36671233974836
+Tighter-prior sensitivity,Maharashtra,1991,Female,Historical fit,63.95892149473835,64.95554097544877,65.8797484382079
+Tighter-prior sensitivity,Maharashtra,1996,Female,Historical fit,66.92780379736858,67.92147691287813,68.85152562485456
+Tighter-prior sensitivity,Maharashtra,2001,Female,Historical fit,67.90102379127887,68.76232887977645,69.63788626682485
+Tighter-prior sensitivity,Maharashtra,2006,Female,Historical fit,71.36029537091467,72.26807337320136,73.18645854884609
+Tighter-prior sensitivity,Maharashtra,2009,Female,Historical fit,72.45203719310496,73.401963314771,74.29628269712104
+Tighter-prior sensitivity,Maharashtra,2011,Female,Historical fit,72.99258526076123,73.89876727859473,74.77941638766512
+Tighter-prior sensitivity,Maharashtra,2012,Female,Historical fit,72.96618408356144,73.79495789250413,74.61126314988067
+Tighter-prior sensitivity,Maharashtra,2013,Female,Historical fit,73.4844513225693,74.32738055039849,75.21435233673637
+Tighter-prior sensitivity,Maharashtra,2014,Female,Historical fit,73.56203349267155,74.40475632658149,75.27591599388744
+Tighter-prior sensitivity,Maharashtra,2015,Female,Historical fit,73.12974556465613,73.9604412933032,74.88777642360189
+Tighter-prior sensitivity,Maharashtra,2016,Female,Historical fit,73.0331608162074,73.86884222721599,74.70319712794337
+Tighter-prior sensitivity,Maharashtra,2017,Female,Historical fit,73.12979898997979,73.95827744667478,74.8014764873811
+Tighter-prior sensitivity,Maharashtra,2018,Female,Historical fit,73.842985926277,74.6780243823737,75.53552909712201
+Tighter-prior sensitivity,Maharashtra,2019,Female,Historical fit,74.31523150223859,75.14825063558408,75.9884517091763
+Tighter-prior sensitivity,Maharashtra,2020,Female,Historical fit,74.28358318628742,75.1659550329102,76.00292747339338
+Tighter-prior sensitivity,Maharashtra,2021,Female,Historical fit,72.8903506843383,73.80964297274315,74.60049853610722
+Tighter-prior sensitivity,Maharashtra,2022,Female,Historical fit,73.74621772093535,74.62115177662602,75.48692950044669
+Tighter-prior sensitivity,Maharashtra,2023,Female,Historical fit,75.56361807306101,76.37847607246593,77.20955881571881
+Tighter-prior sensitivity,Maharashtra,2024,Female,Historical fit,75.87629872911084,76.70790591244482,77.60482128538028
+Tighter-prior sensitivity,Maharashtra,1971,Male,Historical fit,53.07133884006325,53.07133884006325,53.07133884006325
+Tighter-prior sensitivity,Maharashtra,1976,Male,Historical fit,54.167630318793705,55.08050292737482,55.9798600005759
+Tighter-prior sensitivity,Maharashtra,1981,Male,Historical fit,57.97704982985345,58.87090996145477,59.71769331644386
+Tighter-prior sensitivity,Maharashtra,1991,Male,Historical fit,61.37362418346454,62.26919753383048,63.16016251879276
+Tighter-prior sensitivity,Maharashtra,1996,Male,Historical fit,63.94886706602527,64.88736511795308,65.78955676579477
+Tighter-prior sensitivity,Maharashtra,2001,Male,Historical fit,64.97741563797094,65.85731603701001,66.75098165233648
+Tighter-prior sensitivity,Maharashtra,2006,Male,Historical fit,67.32345946192528,68.21469757982253,69.09915575084085
+Tighter-prior sensitivity,Maharashtra,2009,Male,Historical fit,68.51588678052109,69.37295465373208,70.22665390363977
+Tighter-prior sensitivity,Maharashtra,2011,Male,Historical fit,68.49493168320369,69.39654575159402,70.21297680339899
+Tighter-prior sensitivity,Maharashtra,2012,Male,Historical fit,69.12615194320146,69.98316866386203,70.80104767338017
+Tighter-prior sensitivity,Maharashtra,2013,Male,Historical fit,69.53644524455609,70.32362132221121,71.10388553386349
+Tighter-prior sensitivity,Maharashtra,2014,Male,Historical fit,69.86813384679773,70.59000385442056,71.37673076913198
+Tighter-prior sensitivity,Maharashtra,2015,Male,Historical fit,70.38058154166292,71.19215559246544,71.95920734548204
+Tighter-prior sensitivity,Maharashtra,2016,Male,Historical fit,70.46741778630731,71.24436465757678,72.02613664741146
+Tighter-prior sensitivity,Maharashtra,2017,Male,Historical fit,70.82744175581834,71.62883739428744,72.45301173166305
+Tighter-prior sensitivity,Maharashtra,2018,Male,Historical fit,70.77179137337149,71.61002578461071,72.39588068837054
+Tighter-prior sensitivity,Maharashtra,2019,Male,Historical fit,70.91789497454079,71.72485142686466,72.49329805514897
+Tighter-prior sensitivity,Maharashtra,2020,Male,Historical fit,70.5362737173294,71.31248910888996,72.15704480057462
+Tighter-prior sensitivity,Maharashtra,2021,Male,Historical fit,67.45862478379485,68.25008910900846,69.06553705978172
+Tighter-prior sensitivity,Maharashtra,2022,Male,Historical fit,69.15636156397726,69.96129939507206,70.78275180127191
+Tighter-prior sensitivity,Maharashtra,2023,Male,Historical fit,71.08310148696975,71.8781438067235,72.7151795255061
+Tighter-prior sensitivity,Maharashtra,2024,Male,Historical fit,71.74069992857277,72.59564265338813,73.34661873349609
+Tighter-prior sensitivity,Odisha,1971,Female,Historical fit,46.611135649921984,46.611135649921984,46.611135649921984
+Tighter-prior sensitivity,Odisha,1976,Female,Historical fit,45.645940484528836,46.54553437590314,47.41817168169404
+Tighter-prior sensitivity,Odisha,1981,Female,Historical fit,51.34409858365288,52.272496984989985,53.184063263202646
+Tighter-prior sensitivity,Odisha,1986,Female,Historical fit,50.82436771150649,51.703532968225105,52.71648111813509
+Tighter-prior sensitivity,Odisha,1991,Female,Historical fit,53.12646725970687,54.09383951222807,54.995590254719914
+Tighter-prior sensitivity,Odisha,1996,Female,Historical fit,57.80415518680189,58.78545430597279,59.6434150487806
+Tighter-prior sensitivity,Odisha,2001,Female,Historical fit,60.40440598858468,61.371471691976645,62.231527677280624
+Tighter-prior sensitivity,Odisha,2006,Female,Historical fit,62.86989840999947,63.763231296025225,64.6581992952471
+Tighter-prior sensitivity,Odisha,2009,Female,Historical fit,65.02340477691348,65.90440212150897,66.80137389849186
+Tighter-prior sensitivity,Odisha,2011,Female,Historical fit,65.30087016060901,66.1409319224137,67.00963658588769
+Tighter-prior sensitivity,Odisha,2012,Female,Historical fit,65.64604125626387,66.51932623459922,67.34042848138861
+Tighter-prior sensitivity,Odisha,2013,Female,Historical fit,65.81170724363065,66.64017656206846,67.49309640824737
+Tighter-prior sensitivity,Odisha,2014,Female,Historical fit,68.08183680761141,68.87041006867454,69.69023915363704
+Tighter-prior sensitivity,Odisha,2015,Female,Historical fit,68.60915382287287,69.44705754073303,70.32151707306767
+Tighter-prior sensitivity,Odisha,2016,Female,Historical fit,68.73667852387703,69.54247789408899,70.35145539241327
+Tighter-prior sensitivity,Odisha,2017,Female,Historical fit,69.11235988681759,69.96155554935946,70.81047117367372
+Tighter-prior sensitivity,Odisha,2018,Female,Historical fit,69.77452272743984,70.69160021740234,71.57332051887892
+Tighter-prior sensitivity,Odisha,2019,Female,Historical fit,70.5409282852471,71.42429794699946,72.24675498136864
+Tighter-prior sensitivity,Odisha,2020,Female,Historical fit,70.47885442200733,71.36233813156761,72.22494572648117
+Tighter-prior sensitivity,Odisha,2021,Female,Historical fit,69.17457705669887,69.98141463523702,70.86190299090615
+Tighter-prior sensitivity,Odisha,2022,Female,Historical fit,70.25046539331831,71.07649428867268,71.88588132076089
+Tighter-prior sensitivity,Odisha,2023,Female,Historical fit,71.2208771776592,72.05212676157849,72.86624612259843
+Tighter-prior sensitivity,Odisha,2024,Female,Historical fit,71.13456633806287,72.02028982539755,72.87778222256676
+Tighter-prior sensitivity,Odisha,1971,Male,Historical fit,48.46105342671475,48.46105342671475,48.46105342671475
+Tighter-prior sensitivity,Odisha,1976,Male,Historical fit,46.832086199710794,47.74977126576875,48.62602045466685
+Tighter-prior sensitivity,Odisha,1981,Male,Historical fit,51.69657161173232,52.58856124455558,53.53375428205224
+Tighter-prior sensitivity,Odisha,1986,Male,Historical fit,51.685204820505604,52.577148326936026,53.4402102608298
+Tighter-prior sensitivity,Odisha,1991,Male,Historical fit,52.09596082779186,53.02196214317564,53.92959381175369
+Tighter-prior sensitivity,Odisha,1996,Male,Historical fit,55.95141028506647,56.86992080860284,57.72815568834287
+Tighter-prior sensitivity,Odisha,2001,Male,Historical fit,57.79629161449752,58.688138200564325,59.5799845133154
+Tighter-prior sensitivity,Odisha,2006,Male,Historical fit,60.46305474920088,61.31243124999699,62.2195009737069
+Tighter-prior sensitivity,Odisha,2009,Male,Historical fit,62.762370907432974,63.61843294713299,64.49319875366601
+Tighter-prior sensitivity,Odisha,2011,Male,Historical fit,63.51609851521149,64.37387473653868,65.21890721372122
+Tighter-prior sensitivity,Odisha,2012,Male,Historical fit,63.269440131717005,64.06982827929761,64.88459083414564
+Tighter-prior sensitivity,Odisha,2013,Male,Historical fit,63.66264787768755,64.50794476681133,65.29170319686193
+Tighter-prior sensitivity,Odisha,2014,Male,Historical fit,65.15783595547362,65.94130765000165,66.7366404648004
+Tighter-prior sensitivity,Odisha,2015,Male,Historical fit,65.4033879149955,66.2156645402862,66.99611184332021
+Tighter-prior sensitivity,Odisha,2016,Male,Historical fit,66.02136197491203,66.78172608023584,67.59790519158348
+Tighter-prior sensitivity,Odisha,2017,Male,Historical fit,66.66991967525443,67.43737332719238,68.23672607532518
+Tighter-prior sensitivity,Odisha,2018,Male,Historical fit,67.46480158583668,68.25761673083427,69.07094464597066
+Tighter-prior sensitivity,Odisha,2019,Male,Historical fit,67.8137234576675,68.6085091150326,69.39103530059568
+Tighter-prior sensitivity,Odisha,2020,Male,Historical fit,67.92922122457578,68.71350111371733,69.51450719693989
+Tighter-prior sensitivity,Odisha,2021,Male,Historical fit,65.90906752494118,66.67462151372976,67.49786356962451
+Tighter-prior sensitivity,Odisha,2022,Male,Historical fit,67.73482369750893,68.56178645756536,69.37177920425873
+Tighter-prior sensitivity,Odisha,2023,Male,Historical fit,68.74208965956713,69.4735919737103,70.24626042641441
+Tighter-prior sensitivity,Odisha,2024,Male,Historical fit,68.37614904071164,69.14885093097885,69.96849421815301
+Tighter-prior sensitivity,Punjab,1971,Female,Historical fit,56.57690075568382,56.57690075568382,56.57690075568382
+Tighter-prior sensitivity,Punjab,1976,Female,Historical fit,57.23872601926793,58.17275143711082,59.05926866172819
+Tighter-prior sensitivity,Punjab,1981,Female,Historical fit,61.95852278950504,62.894341784791294,63.787553314142116
+Tighter-prior sensitivity,Punjab,1986,Female,Historical fit,63.991312381701206,64.91933000314432,65.86050979059125
+Tighter-prior sensitivity,Punjab,1991,Female,Historical fit,67.87645195083954,68.82547721460102,69.73386993066192
+Tighter-prior sensitivity,Punjab,1996,Female,Historical fit,69.48636150983701,70.38331779104922,71.33564781325786
+Tighter-prior sensitivity,Punjab,2001,Female,Historical fit,71.22569378645777,72.2101485982398,73.08966491525771
+Tighter-prior sensitivity,Punjab,2006,Female,Historical fit,72.16296869816475,73.04236134037257,73.99463815277369
+Tighter-prior sensitivity,Punjab,2009,Female,Historical fit,72.49945417195109,73.41571846214188,74.27262198085802
+Tighter-prior sensitivity,Punjab,2011,Female,Historical fit,72.86602009623667,73.76159238179076,74.68446983975198
+Tighter-prior sensitivity,Punjab,2012,Female,Historical fit,73.03867937887725,73.90602744091959,74.73261359960617
+Tighter-prior sensitivity,Punjab,2013,Female,Historical fit,73.52045199008838,74.3711460492716,75.2087414102979
+Tighter-prior sensitivity,Punjab,2014,Female,Historical fit,73.80675303101248,74.63614667581199,75.48975158409384
+Tighter-prior sensitivity,Punjab,2015,Female,Historical fit,74.15761111700094,74.97055024362692,75.872872802251507
+Tighter-prior sensitivity,Punjab,2016,Female,Historical fit,75.28261158032589,76.11405792864363,76.9510866475209
+Tighter-prior sensitivity,Punjab,2017,Female,Historical fit,73.06482730874507,73.91157752659836,74.78700750538978
+Tighter-prior sensitivity,Punjab,2018,Female,Historical fit,73.59829546311744,74.45175243580536,75.30985766844759
+Tighter-prior sensitivity,Punjab,2019,Female,Historical fit,73.42778677431922,74.28991189677453,75.14115394108744
+Tighter-prior sensitivity,Punjab,2020,Female,Historical fit,72.52570595730556,73.35967315104193,74.196846723055
+Tighter-prior sensitivity,Punjab,2021,Female,Historical fit,70.61639057706357,71.46078172483335,72.37034773102468
+Tighter-prior sensitivity,Punjab,2022,Female,Historical fit,71.68107553562704,72.54466853696576,73.37210404594967
+Tighter-prior sensitivity,Punjab,2023,Female,Historical fit,74.11167034337343,74.96626235147602,75.85071882631269
+Tighter-prior sensitivity,Punjab,2024,Female,Historical fit,74.52740515676982,75.30710566246995,76.17724326341525
+Tighter-prior sensitivity,Punjab,1971,Male,Historical fit,60.72264668909984,60.72264668909984,60.72264668909984
+Tighter-prior sensitivity,Punjab,1976,Male,Historical fit,60.043962793634776,60.93454945080227,61.81069043059212
+Tighter-prior sensitivity,Punjab,1981,Male,Historical fit,60.233316299835316,61.14461305554093,62.064290219991754
+Tighter-prior sensitivity,Punjab,1986,Male,Historical fit,62.28663511572011,63.12903414278179,64.05118959962064
+Tighter-prior sensitivity,Punjab,1991,Male,Historical fit,62.5997981555545,63.50412198107152,64.45242429516297
+Tighter-prior sensitivity,Punjab,1996,Male,Historical fit,64.61305839715797,65.43769134012197,66.32505148126103
+Tighter-prior sensitivity,Punjab,2001,Male,Historical fit,66.69608687005538,67.63923552272638,68.51342834775856
+Tighter-prior sensitivity,Punjab,2006,Male,Historical fit,67.7304637302424,68.6713537964102,69.53245444464346
+Tighter-prior sensitivity,Punjab,2009,Male,Historical fit,68.29743416603912,69.10117957717523,69.96178477244725
+Tighter-prior sensitivity,Punjab,2011,Male,Historical fit,67.85820735990701,68.72598527394041,69.5397431390133
+Tighter-prior sensitivity,Punjab,2012,Male,Historical fit,68.10970333078096,68.92182988685425,69.79104771440724
+Tighter-prior sensitivity,Punjab,2013,Male,Historical fit,69.46467731404405,70.26488951278415,71.03924196744134
+Tighter-prior sensitivity,Punjab,2014,Male,Historical fit,69.99052751138083,70.85280060429346,71.679559507427
+Tighter-prior sensitivity,Punjab,2015,Male,Historical fit,70.63981163335453,71.47244599550804,72.24921537067931
+Tighter-prior sensitivity,Punjab,2016,Male,Historical fit,71.35419035278501,72.12171589653653,72.92145216777703
+Tighter-prior sensitivity,Punjab,2017,Male,Historical fit,69.13593962371213,69.9243853914734,70.74195687890443
+Tighter-prior sensitivity,Punjab,2018,Male,Historical fit,69.19126519879305,69.97652399940847,70.80809487615834
+Tighter-prior sensitivity,Punjab,2019,Male,Historical fit,69.32568743250128,70.15465609290652,70.92880162415842
+Tighter-prior sensitivity,Punjab,2020,Male,Historical fit,68.24909863913528,69.03373243924224,69.92157319652196
+Tighter-prior sensitivity,Punjab,2021,Male,Historical fit,65.76888041104915,66.56301192768345,67.38438558479939
+Tighter-prior sensitivity,Punjab,2022,Male,Historical fit,66.70037917674279,67.51394895340208,68.34176579128734
+Tighter-prior sensitivity,Punjab,2023,Male,Historical fit,68.79314167209607,69.58026879424783,70.39743129104112
+Tighter-prior sensitivity,Punjab,2024,Male,Historical fit,69.70302616284444,70.54787143723445,71.38235419809976
+Tighter-prior sensitivity,Rajasthan,1971,Female,Historical fit,49.2,49.2,49.2
+Tighter-prior sensitivity,Rajasthan,1976,Female,Historical fit,48.319030175077174,49.213611504466556,50.06632434992428
+Tighter-prior sensitivity,Rajasthan,1981,Female,Historical fit,49.639577370647046,50.590990559095076,51.45970696160997
+Tighter-prior sensitivity,Rajasthan,1986,Female,Historical fit,55.76904593024288,56.75571949268604,57.67533719169674
+Tighter-prior sensitivity,Rajasthan,1991,Female,Historical fit,58.35268589243095,59.30287669001741,60.19419595166974
+Tighter-prior sensitivity,Rajasthan,1996,Female,Historical fit,60.64766082902173,61.618868192559816,62.459100533146
+Tighter-prior sensitivity,Rajasthan,2001,Female,Historical fit,66.8551795468482,67.80833841343816,68.68392906216516
+Tighter-prior sensitivity,Rajasthan,2006,Female,Historical fit,68.96005618096518,69.92633560618725,70.81980410621492
+Tighter-prior sensitivity,Rajasthan,2009,Female,Historical fit,69.07098379094745,70.07161087685236,71.03708212900057
+Tighter-prior sensitivity,Rajasthan,2011,Female,Historical fit,69.3396613687292,70.1514265115868,71.0758014543969
+Tighter-prior sensitivity,Rajasthan,2012,Female,Historical fit,69.3463135295307,70.19023581405708,71.01029002468316
+Tighter-prior sensitivity,Rajasthan,2013,Female,Historical fit,69.47759001133929,70.3205328890727,71.12215462718724
+Tighter-prior sensitivity,Rajasthan,2014,Female,Historical fit,69.67920681095836,70.50097944039577,71.32952318198328
+Tighter-prior sensitivity,Rajasthan,2015,Female,Historical fit,69.76400245708278,70.6139670604023,71.4578665404593
+Tighter-prior sensitivity,Rajasthan,2016,Female,Historical fit,70.42792260162092,71.30186450791945,72.14068194499673
+Tighter-prior sensitivity,Rajasthan,2017,Female,Historical fit,70.97039664605225,71.73735091160782,72.57979548542482
+Tighter-prior sensitivity,Rajasthan,2018,Female,Historical fit,70.91227420213036,71.70784833155703,72.5505214623455
+Tighter-prior sensitivity,Rajasthan,2019,Female,Historical fit,71.32990355081135,72.08118346955283,72.99397207283488
+Tighter-prior sensitivity,Rajasthan,2020,Female,Historical fit,71.76606001377894,72.6102098871753,73.43736777160525
+Tighter-prior sensitivity,Rajasthan,2021,Female,Historical fit,71.41234978294062,72.26961421824453,73.16697118913423
+Tighter-prior sensitivity,Rajasthan,2022,Female,Historical fit,73.15242440909307,74.10109628196946,74.92911941727824
+Tighter-prior sensitivity,Rajasthan,2023,Female,Historical fit,74.87378948734263,75.74315798211339,76.59919229984803
+Tighter-prior sensitivity,Rajasthan,2024,Female,Historical fit,75.0732524944239,75.93276384788615,76.7534675950658
+Tighter-prior sensitivity,Rajasthan,1971,Male,Historical fit,49.2,49.2,49.2
+Tighter-prior sensitivity,Rajasthan,1976,Male,Historical fit,48.05779719351981,48.973840116093555,49.94437085253219
+Tighter-prior sensitivity,Rajasthan,1981,Male,Historical fit,49.018592093407484,49.92431309078346,50.81065491315419
+Tighter-prior sensitivity,Rajasthan,1986,Male,Historical fit,53.45478795902468,54.3357227924788,55.15015059727137
+Tighter-prior sensitivity,Rajasthan,1991,Male,Historical fit,56.393214309498006,57.24366434609355,58.157512757281346
+Tighter-prior sensitivity,Rajasthan,1996,Male,Historical fit,58.54230607149212,59.51163105444459,60.40344964739547
+Tighter-prior sensitivity,Rajasthan,2001,Male,Historical fit,61.923388402998626,62.786049311974494,63.6823127340405
+Tighter-prior sensitivity,Rajasthan,2006,Male,Historical fit,63.94872899577157,64.8843064034272,65.7508303957541
+Tighter-prior sensitivity,Rajasthan,2009,Male,Historical fit,64.5028233580155,65.38090187362523,66.23758335292288
+Tighter-prior sensitivity,Rajasthan,2011,Male,Historical fit,64.58214222817944,65.39029051660575,66.2425006648722
+Tighter-prior sensitivity,Rajasthan,2012,Male,Historical fit,64.60946406351763,65.40621630814854,66.15569712062636
+Tighter-prior sensitivity,Rajasthan,2013,Male,Historical fit,64.96778618262864,65.70289439892156,66.47487218249194
+Tighter-prior sensitivity,Rajasthan,2014,Male,Historical fit,64.96111372021352,65.75436178957611,66.52351320544517
+Tighter-prior sensitivity,Rajasthan,2015,Male,Historical fit,65.14225435533548,65.98850411351117,66.78809028063787
+Tighter-prior sensitivity,Rajasthan,2016,Male,Historical fit,65.60630170708374,66.40728775486646,67.22858175009928
+Tighter-prior sensitivity,Rajasthan,2017,Male,Historical fit,65.81875167742406,66.57466802293814,67.37607731779916
+Tighter-prior sensitivity,Rajasthan,2018,Male,Historical fit,65.97601305202753,66.75879150980371,67.47833327040611
+Tighter-prior sensitivity,Rajasthan,2019,Male,Historical fit,66.29315454700141,67.09055280865547,67.9447944054693
+Tighter-prior sensitivity,Rajasthan,2020,Male,Historical fit,66.33042323416197,67.08166305897919,67.88252701825888
+Tighter-prior sensitivity,Rajasthan,2021,Male,Historical fit,65.21518138816029,66.04785641023136,66.818275189209
+Tighter-prior sensitivity,Rajasthan,2022,Male,Historical fit,66.54644117726201,67.35009424307466,68.13259000351962
+Tighter-prior sensitivity,Rajasthan,2023,Male,Historical fit,68.47191025139865,69.28920686679447,70.05705061197675
+Tighter-prior sensitivity,Rajasthan,2024,Male,Historical fit,69.27762888875058,70.06752327485863,70.86395791975666
+Tighter-prior sensitivity,Tamil Nadu,1971,Female,Historical fit,51.39046883376432,51.39046883376432,51.39046883376432
+Tighter-prior sensitivity,Tamil Nadu,1976,Female,Historical fit,49.181550160911456,50.075346441355364,51.01684413742155
+Tighter-prior sensitivity,Tamil Nadu,1981,Female,Historical fit,54.07049514504936,55.03893306990258,55.9318999523528
+Tighter-prior sensitivity,Tamil Nadu,1986,Female,Historical fit,58.40227038357577,59.33815775262072,60.240666887278756
+Tighter-prior sensitivity,Tamil Nadu,1991,Female,Historical fit,62.61962185521027,63.62619569268017,64.52456822449528
+Tighter-prior sensitivity,Tamil Nadu,1996,Female,Historical fit,64.99610618454713,65.93683913305287,66.8459039221094
+Tighter-prior sensitivity,Tamil Nadu,2001,Female,Historical fit,68.15778855818606,69.1069287072921,70.05387098656234
+Tighter-prior sensitivity,Tamil Nadu,2006,Female,Historical fit,70.64038382016918,71.5619826201436,72.42867846131804
+Tighter-prior sensitivity,Tamil Nadu,2009,Female,Historical fit,71.41875649337992,72.32022184439145,73.17339600847566
+Tighter-prior sensitivity,Tamil Nadu,2011,Female,Historical fit,72.01054905273809,72.8770799279604,73.7550001135607
+Tighter-prior sensitivity,Tamil Nadu,2012,Female,Historical fit,72.11174356064848,72.90859079932925,73.7800061659307
+Tighter-prior sensitivity,Tamil Nadu,2013,Female,Historical fit,72.46271933141688,73.28396964535787,74.11332765701194
+Tighter-prior sensitivity,Tamil Nadu,2014,Female,Historical fit,72.75072529642796,73.57549195832723,74.4279696492122
+Tighter-prior sensitivity,Tamil Nadu,2015,Female,Historical fit,72.84753160412666,73.63411620778125,74.46026232853983
+Tighter-prior sensitivity,Tamil Nadu,2016,Female,Historical fit,73.60187817917299,74.44042164830185,75.24625959272853
+Tighter-prior sensitivity,Tamil Nadu,2017,Female,Historical fit,73.48875540065457,74.31632878658094,75.16484598191826
+Tighter-prior sensitivity,Tamil Nadu,2018,Female,Historical fit,74.46153245612409,75.31832875274549,76.176271503367
+Tighter-prior sensitivity,Tamil Nadu,2019,Female,Historical fit,75.79893028650648,76.62048137529534,77.52577548800984
+Tighter-prior sensitivity,Tamil Nadu,2020,Female,Historical fit,76.13795701735741,77.01341908588239,77.85577536536967
+Tighter-prior sensitivity,Tamil Nadu,2021,Female,Historical fit,73.78014908422517,74.64800750547798,75.538517818805
+Tighter-prior sensitivity,Tamil Nadu,2022,Female,Historical fit,74.7718869014021,75.61046676551419,76.43534623825391
+Tighter-prior sensitivity,Tamil Nadu,2023,Female,Historical fit,76.39523519733429,77.27327163208098,78.10165347653711
+Tighter-prior sensitivity,Tamil Nadu,2024,Female,Historical fit,76.9694514326105,77.82362988446556,78.6596923483194
+Tighter-prior sensitivity,Tamil Nadu,1971,Male,Historical fit,50.015743211513254,50.015743211513254,50.015743211513254
+Tighter-prior sensitivity,Tamil Nadu,1976,Male,Historical fit,48.71140719598381,49.59921910835854,50.516033640515474
+Tighter-prior sensitivity,Tamil Nadu,1981,Male,Historical fit,53.52038642634858,54.43838834084625,55.358475036969246
+Tighter-prior sensitivity,Tamil Nadu,1986,Male,Historical fit,57.83882968074029,58.76730628318826,59.64184987513108
+Tighter-prior sensitivity,Tamil Nadu,1991,Male,Historical fit,59.41251247839304,60.29465982218864,61.19545103255501
+Tighter-prior sensitivity,Tamil Nadu,1996,Male,Historical fit,62.848604709640206,63.74428528825184,64.6211811096
+Tighter-prior sensitivity,Tamil Nadu,2001,Male,Historical fit,64.54257904868152,65.4609750756735,66.36517741606397
+Tighter-prior sensitivity,Tamil Nadu,2006,Male,Historical fit,66.05820164621103,66.93281061339741,67.83390406335562
+Tighter-prior sensitivity,Tamil Nadu,2009,Male,Historical fit,67.24005719946759,68.12159196828466,69.03793991342314
+Tighter-prior sensitivity,Tamil Nadu,2011,Male,Historical fit,67.61921470507576,68.47117999446236,69.28817888696287
+Tighter-prior sensitivity,Tamil Nadu,2012,Male,Historical fit,67.59595717964847,68.39345349412838,69.19510161464676
+Tighter-prior sensitivity,Tamil Nadu,2013,Male,Historical fit,68.01156903796293,68.8033217477482,69.58957789846916
+Tighter-prior sensitivity,Tamil Nadu,2014,Male,Historical fit,68.9029546813492,69.71060990529102,70.50570348058483
+Tighter-prior sensitivity,Tamil Nadu,2015,Male,Historical fit,69.05313166830965,69.83381329156568,70.65666508643189
+Tighter-prior sensitivity,Tamil Nadu,2016,Male,Historical fit,69.57800084324293,70.37589244046191,71.20286352372625
+Tighter-prior sensitivity,Tamil Nadu,2017,Male,Historical fit,69.56308839204928,70.36693665614341,71.16422832260301
+Tighter-prior sensitivity,Tamil Nadu,2018,Male,Historical fit,70.2628466896261,71.0950945716605,71.85832155949255
+Tighter-prior sensitivity,Tamil Nadu,2019,Male,Historical fit,71.12383452034331,71.95692000011613,72.77273116758512
+Tighter-prior sensitivity,Tamil Nadu,2020,Male,Historical fit,71.5080930074703,72.30023508155537,73.12899113092315
+Tighter-prior sensitivity,Tamil Nadu,2021,Male,Historical fit,68.69308177916761,69.51369136317572,70.32568285524208
+Tighter-prior sensitivity,Tamil Nadu,2022,Male,Historical fit,70.67829649701818,71.507351581395,72.32558401267164
+Tighter-prior sensitivity,Tamil Nadu,2023,Male,Historical fit,72.95482797311692,73.86482777791457,74.67552512489273
+Tighter-prior sensitivity,Tamil Nadu,2024,Male,Historical fit,73.4962718837655,74.31242564431085,75.05514881923354
+Tighter-prior sensitivity,Telangana,2014,Female,Historical fit,69.90341215342906,69.90341215342906,69.90341215342906
+Tighter-prior sensitivity,Telangana,2015,Female,Historical fit,69.31488187701991,70.12929357372612,70.97095785088118
+Tighter-prior sensitivity,Telangana,2016,Female,Historical fit,70.321355736537555,71.16655998486345,71.93195745493706
+Tighter-prior sensitivity,Telangana,2017,Female,Historical fit,69.34562982445905,70.19513938581929,71.02604038379573
+Tighter-prior sensitivity,Telangana,2018,Female,Historical fit,69.76813758258635,70.60116605434072,71.43171235750593
+Tighter-prior sensitivity,Telangana,2019,Female,Historical fit,70.51478544102649,71.3621064397985,72.19806671219362
+Tighter-prior sensitivity,Telangana,2020,Female,Historical fit,70.80481421048987,71.65591987657302,72.54352475450172
+Tighter-prior sensitivity,Telangana,2021,Female,Historical fit,72.45762763424597,73.32602955154528,74.14745811320718
+Tighter-prior sensitivity,Telangana,2022,Female,Historical fit,72.78161835305686,73.61435055763339,74.4820787515154
+Tighter-prior sensitivity,Telangana,2023,Female,Historical fit,73.60524389146985,74.41745883803338,75.28603380925426
+Tighter-prior sensitivity,Telangana,2024,Female,Historical fit,73.62864691082865,74.42301994968665,75.28669283470047
+Tighter-prior sensitivity,Telangana,2014,Male,Historical fit,67.99624546848396,67.99624546848396,67.99624546848396
+Tighter-prior sensitivity,Telangana,2015,Male,Historical fit,67.31857290684545,68.04294349264657,68.77263360663882
+Tighter-prior sensitivity,Telangana,2016,Male,Historical fit,67.63885999033667,68.44671982361379,69.21883613292613
+Tighter-prior sensitivity,Telangana,2017,Male,Historical fit,66.95500855922984,67.73989605846548,68.54598741994279
+Tighter-prior sensitivity,Telangana,2018,Male,Historical fit,67.13217766806639,67.91409615864063,68.70313011718758
+Tighter-prior sensitivity,Telangana,2019,Male,Historical fit,67.57263668619885,68.37318783444782,69.19038198309849
+Tighter-prior sensitivity,Telangana,2020,Male,Historical fit,67.68302928654408,68.46444383966846,69.30412885461686
+Tighter-prior sensitivity,Telangana,2021,Male,Historical fit,66.94913597156774,67.7391606710775,68.56765358923955
+Tighter-prior sensitivity,Telangana,2022,Male,Historical fit,67.10757808146573,67.94334364957828,68.80429702967517
+Tighter-prior sensitivity,Telangana,2023,Male,Historical fit,68.60562493273046,69.36081658750956,70.12590452348378
+Tighter-prior sensitivity,Telangana,2024,Male,Historical fit,68.37140478404234,69.16571112480614,69.95335789700195
+Tighter-prior sensitivity,Uttar Pradesh,1971,Female,Historical fit,40.025605215308296,40.025605215308296,40.025605215308296
+Tighter-prior sensitivity,Uttar Pradesh,1976,Female,Historical fit,37.60304201784972,38.512771561816734,39.400777868342146
+Tighter-prior sensitivity,Uttar Pradesh,1981,Female,Historical fit,46.20314472812301,47.09797316716596,48.07176568560753
+Tighter-prior sensitivity,Uttar Pradesh,1986,Female,Historical fit,48.56794198882936,49.49831293338863,50.382924190918416
+Tighter-prior sensitivity,Uttar Pradesh,1991,Female,Historical fit,55.04371143564724,55.97231009289017,56.88237823407503
+Tighter-prior sensitivity,Uttar Pradesh,1996,Female,Historical fit,57.81224130013027,58.742513998787416,59.654608871947666
+Tighter-prior sensitivity,Uttar Pradesh,2001,Female,Historical fit,60.148131451157525,61.06397575184328,61.99457849307472
+Tighter-prior sensitivity,Uttar Pradesh,2006,Female,Historical fit,62.761894348438396,63.61161831759823,64.51826412692834
+Tighter-prior sensitivity,Uttar Pradesh,2009,Female,Historical fit,64.21599274638689,65.10885894340558,66.06343993203421
+Tighter-prior sensitivity,Uttar Pradesh,2011,Female,Historical fit,65.04133867274919,65.93799362764224,66.86917104582561
+Tighter-prior sensitivity,Uttar Pradesh,2012,Female,Historical fit,65.4418708391312,66.26210833227567,67.08180889015651
+Tighter-prior sensitivity,Uttar Pradesh,2013,Female,Historical fit,64.9891972126833,65.84789075978755,66.6530854965092
+Tighter-prior sensitivity,Uttar Pradesh,2014,Female,Historical fit,65.15687150174125,65.93972366853407,66.78215606620533
+Tighter-prior sensitivity,Uttar Pradesh,2015,Female,Historical fit,65.00930157411368,65.87078080214374,66.73000594457329
+Tighter-prior sensitivity,Uttar Pradesh,2016,Female,Historical fit,65.715009873778655,66.5296495042476,67.36079394494428
+Tighter-prior sensitivity,Uttar Pradesh,2017,Female,Historical fit,65.89652502727385,66.70272754887344,67.58739024666266
+Tighter-prior sensitivity,Uttar Pradesh,2018,Female,Historical fit,66.17405839243435,67.00528264929414,67.85062219362486
+Tighter-prior sensitivity,Uttar Pradesh,2019,Female,Historical fit,66.59737203139217,67.43976780261451,68.28401435785935
+Tighter-prior sensitivity,Uttar Pradesh,2020,Female,Historical fit,66.77182422150673,67.59530243594367,68.45400602000066
+Tighter-prior sensitivity,Uttar Pradesh,2021,Female,Historical fit,68.09070736221214,69.00438385532398,69.86704740289163
+Tighter-prior sensitivity,Uttar Pradesh,2022,Female,Historical fit,69.40295182485119,70.25165600780866,71.08893216780741
+Tighter-prior sensitivity,Uttar Pradesh,2023,Female,Historical fit,70.56021552316857,71.37090177419662,72.19224844413739
+Tighter-prior sensitivity,Uttar Pradesh,2024,Female,Historical fit,71.28452280765663,72.07575399972325,72.89119952567853
+Tighter-prior sensitivity,Uttar Pradesh,1971,Male,Historical fit,45.2269362436115,45.2269362436115,45.2269362436115
+Tighter-prior sensitivity,Uttar Pradesh,1976,Male,Historical fit,44.3721370524811,45.29185767957563,46.1903739774178
+Tighter-prior sensitivity,Uttar Pradesh,1981,Male,Historical fit,48.753880450854616,49.64192767185085,50.484703916660635
+Tighter-prior sensitivity,Uttar Pradesh,1986,Male,Historical fit,49.85379914699795,50.770285146409066,51.68287002238147
+Tighter-prior sensitivity,Uttar Pradesh,1991,Male,Historical fit,56.042035150775796,57.022545811012876,57.85061456079807
+Tighter-prior sensitivity,Uttar Pradesh,1996,Male,Historical fit,58.61549676823104,59.49532082496941,60.39246837147348
+Tighter-prior sensitivity,Uttar Pradesh,2001,Male,Historical fit,59.83378351009821,60.65917621947916,61.56748916049902
+Tighter-prior sensitivity,Uttar Pradesh,2006,Male,Historical fit,61.028240114384964,61.926098641732295,62.814753066593525
+Tighter-prior sensitivity,Uttar Pradesh,2009,Male,Historical fit,61.72804025122922,62.59943260424624,63.46327101296005
+Tighter-prior sensitivity,Uttar Pradesh,2011,Male,Historical fit,61.73116626014415,62.536862953231235,63.387604917185044
+Tighter-prior sensitivity,Uttar Pradesh,2012,Male,Historical fit,61.99761107138348,62.745034024647225,63.57741290539519
+Tighter-prior sensitivity,Uttar Pradesh,2013,Male,Historical fit,62.10478299889218,62.871252059807546,63.665889082790045
+Tighter-prior sensitivity,Uttar Pradesh,2014,Male,Historical fit,63.35278801947231,64.13255644376665,64.89845955346829
+Tighter-prior sensitivity,Uttar Pradesh,2015,Male,Historical fit,63.72178837733509,64.53470544494598,65.34617758189427
+Tighter-prior sensitivity,Uttar Pradesh,2016,Male,Historical fit,64.09923486571478,64.91107830006035,65.76410552047972
+Tighter-prior sensitivity,Uttar Pradesh,2017,Male,Historical fit,64.30256253317087,65.1138874873458,65.92505473673778
+Tighter-prior sensitivity,Uttar Pradesh,2018,Male,Historical fit,64.5487294171666,65.35428271436561,66.17237876435424
+Tighter-prior sensitivity,Uttar Pradesh,2019,Male,Historical fit,64.7948234725715,65.63555445161532,66.42108001848861
+Tighter-prior sensitivity,Uttar Pradesh,2020,Male,Historical fit,64.70400418449391,65.53066550100962,66.3274022309904
+Tighter-prior sensitivity,Uttar Pradesh,2021,Male,Historical fit,63.93622481966419,64.69913259524164,65.51931748117477
+Tighter-prior sensitivity,Uttar Pradesh,2022,Male,Historical fit,65.40374906491941,66.12220511456337,66.99210785602014
+Tighter-prior sensitivity,Uttar Pradesh,2023,Male,Historical fit,66.78962031334314,67.60356868875165,68.39974860963306
+Tighter-prior sensitivity,Uttar Pradesh,2024,Male,Historical fit,67.43632538061289,68.30063664122653,69.09071721428836
+Tighter-prior sensitivity,Uttarakhand,2014,Female,Historical fit,75.62475944963583,75.62475944963583,75.62475944963583
+Tighter-prior sensitivity,Uttarakhand,2015,Female,Historical fit,72.89210112746136,73.70239662004121,74.5483564899742
+Tighter-prior sensitivity,Uttarakhand,2016,Female,Historical fit,72.47869060335887,73.28744395420009,74.16533308664961
+Tighter-prior sensitivity,Uttarakhand,2017,Female,Historical fit,72.1167905539215,72.93923972852195,73.7809461516116
+Tighter-prior sensitivity,Uttarakhand,2018,Female,Historical fit,72.90008830931568,73.75236137999224,74.59175024058374
+Tighter-prior sensitivity,Uttarakhand,2019,Female,Historical fit,72.88469244486157,73.74524561893313,74.57050676299997
+Tighter-prior sensitivity,Uttarakhand,2020,Female,Historical fit,72.42456070337674,73.2973059838883,74.16253898226626
+Tighter-prior sensitivity,Uttarakhand,2021,Female,Historical fit,72.42889298673782,73.28588385858524,74.08535677996778
+Tighter-prior sensitivity,Uttarakhand,2022,Female,Historical fit,73.87709037581645,74.68644836611536,75.49697856261398
+Tighter-prior sensitivity,Uttarakhand,2023,Female,Historical fit,75.5770930970348,76.37976273268515,77.22214461609633
+Tighter-prior sensitivity,Uttarakhand,2024,Female,Historical fit,75.78181163917642,76.5989699805749,77.41897789328956
+Tighter-prior sensitivity,Uttarakhand,2014,Male,Historical fit,69.11049021363779,69.11049021363779,69.11049021363779
+Tighter-prior sensitivity,Uttarakhand,2015,Male,Historical fit,67.13996667311551,67.88910180981361,68.61009393013143
+Tighter-prior sensitivity,Uttarakhand,2016,Male,Historical fit,66.04592358844192,66.8254783364397,67.67341001044025
+Tighter-prior sensitivity,Uttarakhand,2017,Male,Historical fit,65.74540606421658,66.55348904847071,67.30430916122523
+Tighter-prior sensitivity,Uttarakhand,2018,Male,Historical fit,66.94427729481879,67.72764808045409,68.52140634427765
+Tighter-prior sensitivity,Uttarakhand,2019,Male,Historical fit,66.90238166872304,67.7050204494056,68.5348342879186
+Tighter-prior sensitivity,Uttarakhand,2020,Male,Historical fit,66.77596551585773,67.55576068346474,68.37227653037237
+Tighter-prior sensitivity,Uttarakhand,2021,Male,Historical fit,65.44257127803449,66.25915787433534,67.06778828072603
+Tighter-prior sensitivity,Uttarakhand,2022,Male,Historical fit,67.16500221158445,68.00381039703541,68.77489810749981
+Tighter-prior sensitivity,Uttarakhand,2023,Male,Historical fit,68.65968613322606,69.48568606857171,70.29646555134211
+Tighter-prior sensitivity,Uttarakhand,2024,Male,Historical fit,69.56575850739749,70.34505175564323,71.13101842796154
+Tighter-prior sensitivity,West Bengal,1981,Female,Historical fit,55.9970671076597,55.9970671076597,55.9970671076597
+Tighter-prior sensitivity,West Bengal,1986,Female,Historical fit,59.450052792366755,60.350383173044584,61.260426048546144
+Tighter-prior sensitivity,West Bengal,1991,Female,Historical fit,61.47750482068698,62.40955902412679,63.32360483156975
+Tighter-prior sensitivity,West Bengal,1996,Female,Historical fit,63.40889845523766,64.26714069209771,65.1939657836906
+Tighter-prior sensitivity,West Bengal,2001,Female,Historical fit,67.4521096190989,68.36986579647822,69.27641206330657
+Tighter-prior sensitivity,West Bengal,2006,Female,Historical fit,70.34168382534558,71.26229204267607,72.16284110193351
+Tighter-prior sensitivity,West Bengal,2009,Female,Historical fit,70.78933830078778,71.65836179992803,72.53940593415219
+Tighter-prior sensitivity,West Bengal,2011,Female,Historical fit,70.99437202243247,71.83991268242643,72.67092003997917
+Tighter-prior sensitivity,West Bengal,2012,Female,Historical fit,70.60447122202177,71.44347035113125,72.29785463814734
+Tighter-prior sensitivity,West Bengal,2013,Female,Historical fit,70.57870775424047,71.42451539194788,72.354268785752
+Tighter-prior sensitivity,West Bengal,2014,Female,Historical fit,71.24846576504807,72.11153489044261,72.97921951967035
+Tighter-prior sensitivity,West Bengal,2015,Female,Historical fit,71.79218833505324,72.6446561788159,73.46740027945464
+Tighter-prior sensitivity,West Bengal,2016,Female,Historical fit,72.10794258507134,72.9147576297993,73.77304888724726
+Tighter-prior sensitivity,West Bengal,2017,Female,Historical fit,71.8330435571111,72.6635113614319,73.49453419070382
+Tighter-prior sensitivity,West Bengal,2018,Female,Historical fit,72.67207459514638,73.50593641449532,74.29321190482852
+Tighter-prior sensitivity,West Bengal,2019,Female,Historical fit,73.7956391270752,74.64484122878916,75.48233533647122
+Tighter-prior sensitivity,West Bengal,2020,Female,Historical fit,73.62808485754265,74.51066555488018,75.37507577843712
+Tighter-prior sensitivity,West Bengal,2021,Female,Historical fit,71.91136936554884,72.80112092600632,73.61149893221805
+Tighter-prior sensitivity,West Bengal,2022,Female,Historical fit,73.1083919031626,73.90013027217529,74.78193309626903
+Tighter-prior sensitivity,West Bengal,2023,Female,Historical fit,74.35918629099008,75.27856173078203,76.13493394056567
+Tighter-prior sensitivity,West Bengal,2024,Female,Historical fit,74.32996420614266,75.20973266264045,76.02335783206473
+Tighter-prior sensitivity,West Bengal,1981,Male,Historical fit,54.29230997945578,54.29230997945578,54.29230997945578
+Tighter-prior sensitivity,West Bengal,1986,Male,Historical fit,57.4443374082063,58.31541588685617,59.24627464795065
+Tighter-prior sensitivity,West Bengal,1991,Male,Historical fit,60.16317903833502,61.09518866221059,61.95941535483706
+Tighter-prior sensitivity,West Bengal,1996,Male,Historical fit,61.00487172918618,61.87445733230129,62.77119250009351
+Tighter-prior sensitivity,West Bengal,2001,Male,Historical fit,64.44064027524865,65.34702120154921,66.20532512856106
+Tighter-prior sensitivity,West Bengal,2006,Male,Historical fit,66.6003998994544,67.50099390723182,68.3960997422245
+Tighter-prior sensitivity,West Bengal,2009,Male,Historical fit,67.50485145419299,68.3905952051339,69.24483616969056
+Tighter-prior sensitivity,West Bengal,2011,Male,Historical fit,67.92490578003154,68.78443016073672,69.59765096954021
+Tighter-prior sensitivity,West Bengal,2012,Male,Historical fit,67.70843000824885,68.50668242759934,69.27012635729864
+Tighter-prior sensitivity,West Bengal,2013,Male,Historical fit,67.98478214438867,68.78186036653902,69.57300826128909
+Tighter-prior sensitivity,West Bengal,2014,Male,Historical fit,69.02342810187909,69.81586709352626,70.61817662258822
+Tighter-prior sensitivity,West Bengal,2015,Male,Historical fit,69.82841953211455,70.5944058111866,71.4275245466904
+Tighter-prior sensitivity,West Bengal,2016,Male,Historical fit,70.23764464912217,71.01462693724186,71.86120125134543
+Tighter-prior sensitivity,West Bengal,2017,Male,Historical fit,70.19791226591622,71.04431308751793,71.8263549034047
+Tighter-prior sensitivity,West Bengal,2018,Male,Historical fit,70.17390750967306,70.9420659519464,71.776379320398
+Tighter-prior sensitivity,West Bengal,2019,Male,Historical fit,70.61637103331229,71.42496628851077,72.2239694125227
+Tighter-prior sensitivity,West Bengal,2020,Male,Historical fit,69.98686774474726,70.80999350178269,71.60927998974293
+Tighter-prior sensitivity,West Bengal,2021,Male,Historical fit,68.19598366602679,69.05374143381292,69.82577313185668
+Tighter-prior sensitivity,West Bengal,2022,Male,Historical fit,69.5356650155665,70.38730698419435,71.21360717274911
+Tighter-prior sensitivity,West Bengal,2023,Male,Historical fit,72.12226656506135,72.9333067700833,73.66971870273088
+Tighter-prior sensitivity,West Bengal,2024,Male,Historical fit,72.62267288012042,73.46463170818694,74.26609211980255

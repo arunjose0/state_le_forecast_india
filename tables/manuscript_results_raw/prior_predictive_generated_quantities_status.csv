@@ -1,0 +1,19 @@
+prior_setting,prior_mode,variable,n_values,n_nonfinite,status
+Main prior,2,latent_forecast_f,717600,0,PASS
+Main prior,2,latent_forecast_m,717600,0,PASS
+Main prior,2,e0_forecast_f,717600,0,PASS
+Main prior,2,e0_forecast_m,717600,0,PASS
+Main prior,2,y_rep_f,565200,0,PASS
+Main prior,2,y_rep_m,565200,0,PASS
+Tighter prior,3,latent_forecast_f,717600,0,PASS
+Tighter prior,3,latent_forecast_m,717600,0,PASS
+Tighter prior,3,e0_forecast_f,717600,0,PASS
+Tighter prior,3,e0_forecast_m,717600,0,PASS
+Tighter prior,3,y_rep_f,565200,0,PASS
+Tighter prior,3,y_rep_m,565200,0,PASS
+Wide prior,4,latent_forecast_f,717600,0,PASS
+Wide prior,4,latent_forecast_m,717600,0,PASS
+Wide prior,4,e0_forecast_f,717600,0,PASS
+Wide prior,4,e0_forecast_m,717600,0,PASS
+Wide prior,4,y_rep_f,565200,0,PASS
+Wide prior,4,y_rep_m,565200,0,PASS

@@ -1,0 +1,4 @@
+prior_setting,prior_mode,sampler_status,failed_checks,divergences,max_treedepth_hit,min_bfmi,low_bfmi_chains,max_rhat,min_n_eff,nonfinite_rhat,nonfinite_n_eff,check_zero_divergences,check_no_treedepth_hits,check_bfmi,check_rhat,check_ess,check_finite_rhat,check_finite_ess
+Main prior,2,PASS,None,0,0,0.8355532236713337,0,1.0028577550060125,969.0074962696827,0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Tighter prior,3,PASS,None,0,0,1.0091522337775456,0,1.003874945993845,1076.8241434942906,0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Wide prior,4,PASS,None,0,0,0.9640786248904262,0,1.0020090822192076,764.7982151252969,0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE

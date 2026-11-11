@@ -1,0 +1,19 @@
+model,variable,n_values,n_nonfinite,status
+Main model (regularised baseline),latent_forecast_f,2392000,0,PASS
+Main model (regularised baseline),latent_forecast_m,2392000,0,PASS
+Main model (regularised baseline),e0_forecast_f,2392000,0,PASS
+Main model (regularised baseline),e0_forecast_m,2392000,0,PASS
+Main model (regularised baseline),y_rep_f,1884000,0,PASS
+Main model (regularised baseline),y_rep_m,1884000,0,PASS
+Tighter-prior sensitivity,latent_forecast_f,2392000,0,PASS
+Tighter-prior sensitivity,latent_forecast_m,2392000,0,PASS
+Tighter-prior sensitivity,e0_forecast_f,2392000,0,PASS
+Tighter-prior sensitivity,e0_forecast_m,2392000,0,PASS
+Tighter-prior sensitivity,y_rep_f,1884000,0,PASS
+Tighter-prior sensitivity,y_rep_m,1884000,0,PASS
+Wide-prior sensitivity,latent_forecast_f,2392000,0,PASS
+Wide-prior sensitivity,latent_forecast_m,2392000,0,PASS
+Wide-prior sensitivity,e0_forecast_f,2392000,0,PASS
+Wide-prior sensitivity,e0_forecast_m,2392000,0,PASS
+Wide-prior sensitivity,y_rep_f,1884000,0,PASS
+Wide-prior sensitivity,y_rep_m,1884000,0,PASS

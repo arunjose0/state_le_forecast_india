@@ -1,0 +1,943 @@
+model_label,state,year,sex,segment,q025,median,q975
+Main model (regularised baseline),Andhra Pradesh,1971,Female,Historical fit,50.95112643040908,50.95112643040908,50.95112643040908
+Main model (regularised baseline),Andhra Pradesh,1976,Female,Historical fit,49.06823916140838,49.9793637329788,50.89209202140145
+Main model (regularised baseline),Andhra Pradesh,1986,Female,Historical fit,58.90385506249969,59.81411477206936,60.78221747017446
+Main model (regularised baseline),Andhra Pradesh,1996,Female,Historical fit,63.101922493523205,64.04815046849578,64.96695438348783
+Main model (regularised baseline),Andhra Pradesh,2001,Female,Historical fit,66.93733846152156,67.8837013476847,68.75596356574155
+Main model (regularised baseline),Andhra Pradesh,2006,Female,Historical fit,69.62797169369064,70.5547521017517,71.41105643757389
+Main model (regularised baseline),Andhra Pradesh,2009,Female,Historical fit,69.72493440645327,70.59655447051425,71.49660540225341
+Main model (regularised baseline),Andhra Pradesh,2011,Female,Historical fit,70.13437240232155,70.95293469825495,71.75911106107783
+Main model (regularised baseline),Andhra Pradesh,2012,Female,Historical fit,71.52406796363313,72.37578908765809,73.25440439330548
+Main model (regularised baseline),Andhra Pradesh,2013,Female,Historical fit,70.95195136187766,71.73431720731784,72.60773379862636
+Main model (regularised baseline),Andhra Pradesh,2014,Female,Historical fit,69.66108997762717,70.54876527056459,71.40700121532736
+Main model (regularised baseline),Andhra Pradesh,2015,Female,Historical fit,69.60556276042921,70.42531745839364,71.2604624172078
+Main model (regularised baseline),Andhra Pradesh,2016,Female,Historical fit,70.052018804915,70.95444581938636,71.78559794274588
+Main model (regularised baseline),Andhra Pradesh,2017,Female,Historical fit,69.51322920909307,70.35589985966226,71.23398873443118
+Main model (regularised baseline),Andhra Pradesh,2018,Female,Historical fit,70.68824816645929,71.52470319568275,72.3385793605446
+Main model (regularised baseline),Andhra Pradesh,2019,Female,Historical fit,71.40599302156947,72.1974283538668,73.01655726084584
+Main model (regularised baseline),Andhra Pradesh,2020,Female,Historical fit,71.536154981731,72.4112774276598,73.31739022532298
+Main model (regularised baseline),Andhra Pradesh,2021,Female,Historical fit,71.20748892698202,72.05825624771303,72.87442007522031
+Main model (regularised baseline),Andhra Pradesh,2022,Female,Historical fit,71.52045178200342,72.33808605886813,73.23407292932248
+Main model (regularised baseline),Andhra Pradesh,2023,Female,Historical fit,73.86877449048481,74.7044482455589,75.51840520073392
+Main model (regularised baseline),Andhra Pradesh,2024,Female,Historical fit,74.58380171063315,75.41485956051983,76.28076672601793
+Main model (regularised baseline),Andhra Pradesh,1971,Male,Historical fit,48.36667597366772,48.36667597366772,48.36667597366772
+Main model (regularised baseline),Andhra Pradesh,1976,Male,Historical fit,47.95762106529412,48.842591158603895,49.706186666766676
+Main model (regularised baseline),Andhra Pradesh,1986,Male,Historical fit,56.522837366469766,57.42617002009045,58.31978228094938
+Main model (regularised baseline),Andhra Pradesh,1996,Male,Historical fit,61.20737472882441,62.069548187957146,62.95766988647726
+Main model (regularised baseline),Andhra Pradesh,2001,Male,Historical fit,61.419314031354126,62.332896322546816,63.22073485957628
+Main model (regularised baseline),Andhra Pradesh,2006,Male,Historical fit,62.17358291944021,63.00915989300881,63.87688448036252
+Main model (regularised baseline),Andhra Pradesh,2009,Male,Historical fit,64.37987559980812,65.2394129825786,66.05374847344834
+Main model (regularised baseline),Andhra Pradesh,2011,Male,Historical fit,64.33130799545849,65.1771587545145,66.02717072915988
+Main model (regularised baseline),Andhra Pradesh,2012,Male,Historical fit,65.4311181812872,66.22677975841799,66.9680660209869
+Main model (regularised baseline),Andhra Pradesh,2013,Male,Historical fit,66.03767484447691,66.82852490946345,67.61502625100297
+Main model (regularised baseline),Andhra Pradesh,2014,Male,Historical fit,66.51020271530469,67.31492758012376,68.10133597252532
+Main model (regularised baseline),Andhra Pradesh,2015,Male,Historical fit,66.95086792782244,67.76810539534107,68.51614671860673
+Main model (regularised baseline),Andhra Pradesh,2016,Male,Historical fit,67.65072016682419,68.44568077241095,69.26066561779032
+Main model (regularised baseline),Andhra Pradesh,2017,Male,Historical fit,66.78533397712157,67.63784008245278,68.49497695772483
+Main model (regularised baseline),Andhra Pradesh,2018,Male,Historical fit,67.79565675468082,68.56173028585201,69.33138405514885
+Main model (regularised baseline),Andhra Pradesh,2019,Male,Historical fit,68.63014245842547,69.3886535325893,70.21566887979968
+Main model (regularised baseline),Andhra Pradesh,2020,Male,Historical fit,68.63469676710275,69.416507475482,70.18583122735276
+Main model (regularised baseline),Andhra Pradesh,2021,Male,Historical fit,65.96297883949305,66.76431087979049,67.58308892288588
+Main model (regularised baseline),Andhra Pradesh,2022,Male,Historical fit,66.59656877414734,67.38739625466943,68.20794029457122
+Main model (regularised baseline),Andhra Pradesh,2023,Male,Historical fit,68.89980093613491,69.69685151926751,70.45132327418222
+Main model (regularised baseline),Andhra Pradesh,2024,Male,Historical fit,69.6971963944955,70.51069573741,71.29025620369185
+Main model (regularised baseline),Assam,1971,Female,Historical fit,46.66156944774774,46.66156944774774,46.66156944774774
+Main model (regularised baseline),Assam,1976,Female,Historical fit,45.643137564687045,46.57012667011748,47.45701482783025
+Main model (regularised baseline),Assam,1981,Female,Historical fit,49.61975223183911,50.48494310302126,51.40107077766068
+Main model (regularised baseline),Assam,1986,Female,Historical fit,50.12774098570616,50.992017635275914,51.95423953576349
+Main model (regularised baseline),Assam,1991,Female,Historical fit,52.705185538107074,53.638582009653454,54.549497433065426
+Main model (regularised baseline),Assam,1996,Female,Historical fit,57.97156736303932,58.84293737895052,59.719948272975564
+Main model (regularised baseline),Assam,2001,Female,Historical fit,58.97452575760518,59.83746656822934,60.75003932846152
+Main model (regularised baseline),Assam,2006,Female,Historical fit,61.51841852817615,62.36879578234793,63.295893241114754
+Main model (regularised baseline),Assam,2009,Female,Historical fit,64.1211601647276,64.99100300362707,65.90491424743017
+Main model (regularised baseline),Assam,2011,Female,Historical fit,64.30596928792107,65.14589350854405,66.0157033849777
+Main model (regularised baseline),Assam,2012,Female,Historical fit,65.26292599436256,66.10613154134978,66.95374089769983
+Main model (regularised baseline),Assam,2013,Female,Historical fit,64.35321219349191,65.17858932261436,66.00789912290861
+Main model (regularised baseline),Assam,2014,Female,Historical fit,65.56386456669263,66.4001664792263,67.25039648202849
+Main model (regularised baseline),Assam,2015,Female,Historical fit,66.27926708944804,67.05587467505828,67.87360146224454
+Main model (regularised baseline),Assam,2016,Female,Historical fit,67.20007274175792,67.99207547672323,68.82592803383001
+Main model (regularised baseline),Assam,2017,Female,Historical fit,67.5731386782503,68.35206074382899,69.16201177718249
+Main model (regularised baseline),Assam,2018,Female,Historical fit,67.51061039565714,68.359870186779375,69.1767302620013
+Main model (regularised baseline),Assam,2019,Female,Historical fit,67.66230765410288,68.49386421605861,69.29498206895784
+Main model (regularised baseline),Assam,2020,Female,Historical fit,67.73941602025263,68.6234714765101,69.45602345238467
+Main model (regularised baseline),Assam,2021,Female,Historical fit,70.65442531596484,71.56314588770525,72.4552121948434
+Main model (regularised baseline),Assam,2022,Female,Historical fit,70.59207474884144,71.49451965012531,72.38645122390552
+Main model (regularised baseline),Assam,2023,Female,Historical fit,71.67156722444354,72.49703923285438,73.30410615980708
+Main model (regularised baseline),Assam,2024,Female,Historical fit,71.6437669440355,72.43655835751645,73.26472413690401
+Main model (regularised baseline),Assam,1971,Male,Historical fit,47.130285021040734,47.130285021040734,47.130285021040734
+Main model (regularised baseline),Assam,1976,Male,Historical fit,46.210076833660686,47.08138616972033,47.922005911305924
+Main model (regularised baseline),Assam,1981,Male,Historical fit,50.56022429917492,51.448766998787136,52.29596146483814
+Main model (regularised baseline),Assam,1986,Male,Historical fit,50.795680666333496,51.69435790245318,52.59578174916768
+Main model (regularised baseline),Assam,1991,Male,Historical fit,52.642630961782444,53.54428411010713,54.46498999800448
+Main model (regularised baseline),Assam,1996,Male,Historical fit,57.33002333621513,58.171531798261185,59.029412104433945
+Main model (regularised baseline),Assam,2001,Male,Historical fit,56.640823121678245,57.514954064107215,58.36703646926956
+Main model (regularised baseline),Assam,2006,Male,Historical fit,59.404562714078565,60.33501124142653,61.19631401638197
+Main model (regularised baseline),Assam,2009,Male,Historical fit,61.09163623949447,61.96214557834223,62.824348712618324
+Main model (regularised baseline),Assam,2011,Male,Historical fit,61.1599987096493,61.96385878690271,62.741263658881614
+Main model (regularised baseline),Assam,2012,Male,Historical fit,61.27279025917343,62.0594230113184,62.839989992094594
+Main model (regularised baseline),Assam,2013,Male,Historical fit,61.729648059952886,62.53771934795536,63.30864008203696
+Main model (regularised baseline),Assam,2014,Male,Historical fit,63.185800196778274,63.98617268822875,64.77386141547267
+Main model (regularised baseline),Assam,2015,Male,Historical fit,64.06974776356222,64.81201290569659,65.5854113321517
+Main model (regularised baseline),Assam,2016,Male,Historical fit,64.94027549636556,65.72507852225723,66.53766124101348
+Main model (regularised baseline),Assam,2017,Male,Historical fit,65.53145241460675,66.34349601512406,67.13682216442264
+Main model (regularised baseline),Assam,2018,Male,Historical fit,65.9772742468463,66.78911287493358,67.55370356727329
+Main model (regularised baseline),Assam,2019,Male,Historical fit,66.34612167986384,67.10122823429347,67.85373822722991
+Main model (regularised baseline),Assam,2020,Male,Historical fit,66.29407333537695,67.13203077447417,67.90552110370815
+Main model (regularised baseline),Assam,2021,Male,Historical fit,64.52546395408767,65.34503812725897,66.18234500666836
+Main model (regularised baseline),Assam,2022,Male,Historical fit,65.28323518123531,66.07223293503853,66.88977994906405
+Main model (regularised baseline),Assam,2023,Male,Historical fit,67.04096497009284,67.80805158818622,68.58057232262706
+Main model (regularised baseline),Assam,2024,Male,Historical fit,67.55242172153544,68.33363818999939,69.1611586902637
+Main model (regularised baseline),Bihar,1981,Female,Historical fit,49.91664129157436,49.91664129157436,49.91664129157436
+Main model (regularised baseline),Bihar,1986,Female,Historical fit,49.09368661381844,49.954805166043954,50.87563644415542
+Main model (regularised baseline),Bihar,1991,Female,Historical fit,58.55672672109336,59.47806367355388,60.377429161794424
+Main model (regularised baseline),Bihar,1996,Female,Historical fit,57.196835078159644,58.1045606740674,58.99668475676205
+Main model (regularised baseline),Bihar,2001,Female,Historical fit,64.23878019092733,65.20015087577596,66.03308352371617
+Main model (regularised baseline),Bihar,2006,Female,Historical fit,64.1683084743264,65.03734944084918,65.91085498484233
+Main model (regularised baseline),Bihar,2011,Female,Historical fit,67.10783339116071,67.96119045373798,68.84025275079146
+Main model (regularised baseline),Bihar,2012,Female,Historical fit,67.30331423587315,68.14242606244875,68.96254970685062
+Main model (regularised baseline),Bihar,2013,Female,Historical fit,67.2297433746998,68.01372041615716,68.86200656630271
+Main model (regularised baseline),Bihar,2014,Female,Historical fit,67.81013479204648,68.64962283079663,69.43542495326209
+Main model (regularised baseline),Bihar,2015,Female,Historical fit,66.79016700272147,67.58774448692034,68.44378051066194
+Main model (regularised baseline),Bihar,2016,Female,Historical fit,67.60616777918887,68.45438983824643,69.24826083242912
+Main model (regularised baseline),Bihar,2017,Female,Historical fit,68.05133048747798,68.89148210065267,69.69971251495365
+Main model (regularised baseline),Bihar,2018,Female,Historical fit,67.84817212450048,68.649868767796,69.4903281597384
+Main model (regularised baseline),Bihar,2019,Female,Historical fit,68.38020502362365,69.2029788245222,70.05523625454056
+Main model (regularised baseline),Bihar,2020,Female,Historical fit,68.57668023551845,69.43152330553056,70.26616259965282
+Main model (regularised baseline),Bihar,2021,Female,Historical fit,67.76657874270651,68.66396793840072,69.54200973593515
+Main model (regularised baseline),Bihar,2022,Female,Historical fit,68.61649052935543,69.49929869515633,70.25415469139918
+Main model (regularised baseline),Bihar,2023,Female,Historical fit,69.8260228922843,70.64669660280839,71.45602286582346
+Main model (regularised baseline),Bihar,2024,Female,Historical fit,70.08802036444509,70.91149949980709,71.72802108547592
+Main model (regularised baseline),Bihar,1981,Male,Historical fit,53.524405463351805,53.524405463351805,53.524405463351805
+Main model (regularised baseline),Bihar,1986,Male,Historical fit,52.342999942565285,53.24452270538218,54.136303196583725
+Main model (regularised baseline),Bihar,1991,Male,Historical fit,59.38042133561807,60.3181281590919,61.19875514772838
+Main model (regularised baseline),Bihar,1996,Male,Historical fit,58.564541367100944,59.46880088602791,60.37289803431849
+Main model (regularised baseline),Bihar,2001,Male,Historical fit,63.61283555681944,64.48120545518285,65.35146109917667
+Main model (regularised baseline),Bihar,2006,Male,Historical fit,64.70093861684934,65.55533819121914,66.44427660961402
+Main model (regularised baseline),Bihar,2011,Male,Historical fit,66.19623434121324,67.09003679289808,68.00517160900736
+Main model (regularised baseline),Bihar,2012,Male,Historical fit,66.76556091987737,67.56381025798783,68.3480026125149
+Main model (regularised baseline),Bihar,2013,Male,Historical fit,66.89254135609386,67.65384176496235,68.48162014307067
+Main model (regularised baseline),Bihar,2014,Male,Historical fit,67.63093532371433,68.4388661837954,69.19698393273916
+Main model (regularised baseline),Bihar,2015,Male,Historical fit,67.9494458832458,68.74064464620588,69.50303621332596
+Main model (regularised baseline),Bihar,2016,Male,Historical fit,68.40453456041362,69.19476373596899,70.00453749728236
+Main model (regularised baseline),Bihar,2017,Male,Historical fit,68.3775506370577,69.13556137863611,69.9468538718283
+Main model (regularised baseline),Bihar,2018,Male,Historical fit,68.43133345468439,69.23965595947723,70.01577224918734
+Main model (regularised baseline),Bihar,2019,Male,Historical fit,68.89920847042286,69.70639906803952,70.51878392330603
+Main model (regularised baseline),Bihar,2020,Male,Historical fit,68.73169876992661,69.51324638964128,70.33027559441165
+Main model (regularised baseline),Bihar,2021,Male,Historical fit,65.97299528869584,66.79044352125045,67.60546209165065
+Main model (regularised baseline),Bihar,2022,Male,Historical fit,66.60540890242706,67.39746820757892,68.20559834982564
+Main model (regularised baseline),Bihar,2023,Male,Historical fit,68.79211923170206,69.57426661640667,70.32516511261132
+Main model (regularised baseline),Bihar,2024,Male,Historical fit,69.34052361464332,70.08676024469784,70.90706918689305
+Main model (regularised baseline),Chhattisgarh,2004,Female,Historical fit,68.02353204526922,68.02353204526922,68.02353204526922
+Main model (regularised baseline),Chhattisgarh,2006,Female,Historical fit,64.74438107818384,65.62285016982011,66.47501063051493
+Main model (regularised baseline),Chhattisgarh,2011,Female,Historical fit,65.71518041631681,66.56863827640049,67.53025618692936
+Main model (regularised baseline),Chhattisgarh,2012,Female,Historical fit,66.50530525643896,67.38200281426938,68.22032051162972
+Main model (regularised baseline),Chhattisgarh,2013,Female,Historical fit,65.49237921471266,66.30555494696199,67.15965714048865
+Main model (regularised baseline),Chhattisgarh,2014,Female,Historical fit,66.01016402737653,66.8529252584556,67.67085264005152
+Main model (regularised baseline),Chhattisgarh,2015,Female,Historical fit,66.24402209593023,67.08467503101704,67.92523801385434
+Main model (regularised baseline),Chhattisgarh,2016,Female,Historical fit,66.17829507447516,67.01597863467516,67.86744010663554
+Main model (regularised baseline),Chhattisgarh,2017,Female,Historical fit,66.26105020180417,67.07730571083891,67.91706305843594
+Main model (regularised baseline),Chhattisgarh,2018,Female,Historical fit,65.15568898638398,66.0147623862172,66.86786426965621
+Main model (regularised baseline),Chhattisgarh,2019,Female,Historical fit,66.60890180605017,67.45869399679158,68.34737932656292
+Main model (regularised baseline),Chhattisgarh,2020,Female,Historical fit,65.60823097985451,66.41769552546083,67.23733659494478
+Main model (regularised baseline),Chhattisgarh,2021,Female,Historical fit,64.28910717968449,65.07331364720042,65.88885125178818
+Main model (regularised baseline),Chhattisgarh,2022,Female,Historical fit,66.2772522239259,67.17255496500482,67.98494781794967
+Main model (regularised baseline),Chhattisgarh,2023,Female,Historical fit,67.06577102026947,67.8788557523299,68.67796224098899
+Main model (regularised baseline),Chhattisgarh,2024,Female,Historical fit,66.99231929427152,67.83516998468559,68.69312925204868
+Main model (regularised baseline),Chhattisgarh,2004,Male,Historical fit,62.992921494962225,62.992921494962225,62.992921494962225
+Main model (regularised baseline),Chhattisgarh,2006,Male,Historical fit,61.167455994864255,61.98289306120871,62.74332091581179
+Main model (regularised baseline),Chhattisgarh,2011,Male,Historical fit,62.515846411933644,63.39252787366361,64.21937567260146
+Main model (regularised baseline),Chhattisgarh,2012,Male,Historical fit,61.593455366972705,62.43239549890782,63.21178655578778
+Main model (regularised baseline),Chhattisgarh,2013,Male,Historical fit,62.14316142321497,62.95481010957006,63.727144759738245
+Main model (regularised baseline),Chhattisgarh,2014,Male,Historical fit,62.858870098025875,63.65516414181911,64.48648744006434
+Main model (regularised baseline),Chhattisgarh,2015,Male,Historical fit,63.14147772462039,63.94186485852501,64.75413271897379
+Main model (regularised baseline),Chhattisgarh,2016,Male,Historical fit,63.123634774092025,63.91074116570989,64.67198562123214
+Main model (regularised baseline),Chhattisgarh,2017,Male,Historical fit,62.610823573907936,63.39969745679742,64.2026581836085
+Main model (regularised baseline),Chhattisgarh,2018,Male,Historical fit,62.17010032014562,62.93582958639892,63.7613846312541
+Main model (regularised baseline),Chhattisgarh,2019,Male,Historical fit,62.79600670240467,63.58273945929321,64.35520866474842
+Main model (regularised baseline),Chhattisgarh,2020,Male,Historical fit,62.28742211967857,63.032710064080675,63.832998357387645
+Main model (regularised baseline),Chhattisgarh,2021,Male,Historical fit,60.049823668706615,60.784852509171834,61.556577580205136
+Main model (regularised baseline),Chhattisgarh,2022,Male,Historical fit,60.26052246108661,61.07778054047365,61.88530367704322
+Main model (regularised baseline),Chhattisgarh,2023,Male,Historical fit,62.12278094170447,62.89157085943238,63.67817797801765
+Main model (regularised baseline),Chhattisgarh,2024,Male,Historical fit,62.56894714201985,63.36911672807149,64.17816904882858
+Main model (regularised baseline),Delhi,2004,Female,Historical fit,73.79622039788495,73.79622039788495,73.79622039788495
+Main model (regularised baseline),Delhi,2006,Female,Historical fit,71.52117943951559,72.42455767342554,73.28089935516917
+Main model (regularised baseline),Delhi,2011,Female,Historical fit,72.9659157539657,73.8746534977129,74.8194717619231
+Main model (regularised baseline),Delhi,2012,Female,Historical fit,74.03686806841147,74.88461211019931,75.68390996332457
+Main model (regularised baseline),Delhi,2013,Female,Historical fit,73.58381337986512,74.38742733245802,75.18000766649699
+Main model (regularised baseline),Delhi,2014,Female,Historical fit,75.81257043856132,76.68340799973114,77.52091413950068
+Main model (regularised baseline),Delhi,2015,Female,Historical fit,76.4224606757544,77.2213613409744,78.01369532042835
+Main model (regularised baseline),Delhi,2016,Female,Historical fit,75.72093413520864,76.56095056451808,77.3846840503477
+Main model (regularised baseline),Delhi,2017,Female,Historical fit,77.10662822288899,77.9882771565146,78.77831508894832
+Main model (regularised baseline),Delhi,2018,Female,Historical fit,77.73537575136064,78.53552869278278,79.34921757746368
+Main model (regularised baseline),Delhi,2019,Female,Historical fit,78.44238488490397,79.27441670283463,80.06170331431223
+Main model (regularised baseline),Delhi,2020,Female,Historical fit,78.03491970346505,78.84462930131423,79.67914626665625
+Main model (regularised baseline),Delhi,2021,Female,Historical fit,74.70480918505484,75.54321003740185,76.34545277088553
+Main model (regularised baseline),Delhi,2022,Female,Historical fit,76.67800145819157,77.52070699929561,78.34638557362038
+Main model (regularised baseline),Delhi,2023,Female,Historical fit,76.1062823794124,76.99845814444797,77.80380366860776
+Main model (regularised baseline),Delhi,2024,Female,Historical fit,76.37792217929906,77.2456295790686,78.05749311210957
+Main model (regularised baseline),Delhi,2004,Male,Historical fit,69.1324446545988,69.1324446545988,69.1324446545988
+Main model (regularised baseline),Delhi,2006,Male,Historical fit,68.16695970180405,68.93012423761897,69.76031834934665
+Main model (regularised baseline),Delhi,2011,Male,Historical fit,71.18409114431653,72.1415329103908,73.01931871970798
+Main model (regularised baseline),Delhi,2012,Male,Historical fit,70.8201048519298,71.61189159092636,72.48141525086953
+Main model (regularised baseline),Delhi,2013,Male,Historical fit,71.26541517962349,72.05897175999978,72.85786850391929
+Main model (regularised baseline),Delhi,2014,Male,Historical fit,72.59027860088963,73.39016531817786,74.1731242318871
+Main model (regularised baseline),Delhi,2015,Male,Historical fit,72.98699557274536,73.7767807771016,74.53718490080298
+Main model (regularised baseline),Delhi,2016,Male,Historical fit,71.45983898733607,72.20288535383918,73.018396120212
+Main model (regularised baseline),Delhi,2017,Male,Historical fit,71.87927501089777,72.68892217037796,73.53428184027166
+Main model (regularised baseline),Delhi,2018,Male,Historical fit,72.62337536637143,73.34977686925083,74.1518450128508
+Main model (regularised baseline),Delhi,2019,Male,Historical fit,73.01474164049615,73.77838978976274,74.59263027116356
+Main model (regularised baseline),Delhi,2020,Male,Historical fit,72.07449131443627,72.83859545240107,73.5868164980336
+Main model (regularised baseline),Delhi,2021,Male,Historical fit,68.29426989661866,69.09017109573605,69.89374050898174
+Main model (regularised baseline),Delhi,2022,Male,Historical fit,70.43745684114249,71.2116689778122,71.99824898790555
+Main model (regularised baseline),Delhi,2023,Male,Historical fit,72.14393530072299,72.92405456511727,73.72259457200917
+Main model (regularised baseline),Delhi,2024,Male,Historical fit,72.75036046838694,73.5511217077554,74.33475563562538
+Main model (regularised baseline),Goa,1991,Female,Historical fit,71.33853347783285,71.33853347783285,71.33853347783285
+Main model (regularised baseline),Goa,1992,Female,Historical fit,70.62018216179816,71.41347479726701,72.23795677693775
+Main model (regularised baseline),Goa,1993,Female,Historical fit,71.56990839011598,72.43656751162283,73.26771888018769
+Main model (regularised baseline),Goa,1994,Female,Historical fit,69.46106940725137,70.29621523650263,71.21794333202605
+Main model (regularised baseline),Goa,1995,Female,Historical fit,69.15580737901476,69.97426190478322,70.85751101745532
+Main model (regularised baseline),Goa,1996,Female,Historical fit,71.19708796236607,72.0331588605589,72.88054070248303
+Main model (regularised baseline),Goa,1997,Female,Historical fit,71.3687694040055,72.29454308025905,73.13488366783277
+Main model (regularised baseline),Goa,1998,Female,Historical fit,72.34657983910321,73.16186323750533,73.98567456106969
+Main model (regularised baseline),Goa,1999,Female,Historical fit,72.93689890007757,73.74163333772265,74.5439167262732
+Main model (regularised baseline),Goa,2000,Female,Historical fit,73.72399485750529,74.49581273986142,75.31395839583328
+Main model (regularised baseline),Goa,2001,Female,Historical fit,73.23788183317815,74.03665513112804,74.89341892020008
+Main model (regularised baseline),Goa,2002,Female,Historical fit,72.99889466160313,73.87015912434069,74.68806449099787
+Main model (regularised baseline),Goa,2003,Female,Historical fit,73.93844912918922,74.77332637523281,75.61624733616078
+Main model (regularised baseline),Goa,2004,Female,Historical fit,73.96347183076722,74.78874757616944,75.63577123069464
+Main model (regularised baseline),Goa,2005,Female,Historical fit,72.81670154552599,73.62361166425893,74.44250951009337
+Main model (regularised baseline),Goa,2006,Female,Historical fit,73.12318524748241,73.95935804426051,74.76859133211877
+Main model (regularised baseline),Goa,2007,Female,Historical fit,74.36974036902046,75.25664282132797,76.03697641238975
+Main model (regularised baseline),Goa,2008,Female,Historical fit,75.77106556283292,76.65813401961739,77.50371997338945
+Main model (regularised baseline),Goa,2009,Female,Historical fit,76.66329179595412,77.49868373748876,78.39858692654538
+Main model (regularised baseline),Goa,2010,Female,Historical fit,76.68769708675971,77.49759133853837,78.35575925970555
+Main model (regularised baseline),Goa,2011,Female,Historical fit,76.48364075024847,77.30416284883168,78.15509376976858
+Main model (regularised baseline),Goa,2012,Female,Historical fit,76.74368458136779,77.57296209647703,78.39232664262963
+Main model (regularised baseline),Goa,1991,Male,Historical fit,63.42579186840128,63.42579186840128,63.42579186840128
+Main model (regularised baseline),Goa,1992,Male,Historical fit,63.35429679677288,64.1157871704885,64.86742726828196
+Main model (regularised baseline),Goa,1993,Male,Historical fit,64.34565672648365,65.19572713013795,65.99407058319558
+Main model (regularised baseline),Goa,1994,Male,Historical fit,64.65858094901162,65.49895067544333,66.27709628482918
+Main model (regularised baseline),Goa,1995,Male,Historical fit,64.65391521543164,65.47958847556907,66.2828110449449
+Main model (regularised baseline),Goa,1996,Male,Historical fit,63.94084472471596,64.7443537676649,65.5283696763152
+Main model (regularised baseline),Goa,1997,Male,Historical fit,63.294415560443056,64.07388317821346,64.92138436231225
+Main model (regularised baseline),Goa,1998,Male,Historical fit,63.89393935487705,64.6592169338862,65.46555632885844
+Main model (regularised baseline),Goa,1999,Male,Historical fit,64.30798424689593,65.0656103915459,65.84627853215144
+Main model (regularised baseline),Goa,2000,Male,Historical fit,65.58422762721001,66.37967106865467,67.13779065579224
+Main model (regularised baseline),Goa,2001,Male,Historical fit,65.26756355315696,66.07824072821177,66.81570772275951
+Main model (regularised baseline),Goa,2002,Male,Historical fit,65.53319926863202,66.3259501895736,67.11421251966398
+Main model (regularised baseline),Goa,2003,Male,Historical fit,65.98955893992408,66.77057486039632,67.56909193623778
+Main model (regularised baseline),Goa,2004,Male,Historical fit,66.43195452134259,67.2302612774844,68.01900643162041
+Main model (regularised baseline),Goa,2005,Male,Historical fit,66.17827317055192,66.90700084257017,67.66025145472292
+Main model (regularised baseline),Goa,2006,Male,Historical fit,66.42521575560035,67.17955849233205,67.94843168081722
+Main model (regularised baseline),Goa,2007,Male,Historical fit,67.27672689627639,68.05685454807963,68.80775062512895
+Main model (regularised baseline),Goa,2008,Male,Historical fit,67.95685667962746,68.712620986132535,69.48131335337526
+Main model (regularised baseline),Goa,2009,Male,Historical fit,68.97815400089193,69.83360098625187,70.60954113759915
+Main model (regularised baseline),Goa,2010,Male,Historical fit,69.42874328706829,70.23797429332402,71.00409697263264
+Main model (regularised baseline),Goa,2011,Male,Historical fit,69.76831936494715,70.56557914112898,71.37141463988448
+Main model (regularised baseline),Goa,2012,Male,Historical fit,69.86845835785209,70.69499748956831,71.45134165955875
+Main model (regularised baseline),Gujarat,1971,Female,Historical fit,45.92561258317842,45.92561258317842,45.92561258317842
+Main model (regularised baseline),Gujarat,1976,Female,Historical fit,48.13920820356775,49.01607361075227,49.945358542186426
+Main model (regularised baseline),Gujarat,1981,Female,Historical fit,54.46148392020675,55.41158641141724,56.319255076266096
+Main model (regularised baseline),Gujarat,1986,Female,Historical fit,56.63311372065326,57.56611852422874,58.44130127079997
+Main model (regularised baseline),Gujarat,1991,Female,Historical fit,62.721036479918006,63.6135564702266,64.53208628134038
+Main model (regularised baseline),Gujarat,1996,Female,Historical fit,65.11727855538601,66.06968557602578,66.97811892307287
+Main model (regularised baseline),Gujarat,2001,Female,Historical fit,66.9842084214044,67.90938159680488,68.8141639828955
+Main model (regularised baseline),Gujarat,2006,Female,Historical fit,67.8169854654344,68.78319090645843,69.68042107449445
+Main model (regularised baseline),Gujarat,2009,Female,Historical fit,69.59075010113841,70.48026328296245,71.34640374472015
+Main model (regularised baseline),Gujarat,2011,Female,Historical fit,70.25943783632528,71.08527433959928,71.95516681282074
+Main model (regularised baseline),Gujarat,2012,Female,Historical fit,70.80836681387362,71.63139299657493,72.49219389565327
+Main model (regularised baseline),Gujarat,2013,Female,Historical fit,71.1802156358337,72.01614107302179,72.88276423993686
+Main model (regularised baseline),Gujarat,2014,Female,Historical fit,71.79861297976807,72.64850429200769,73.50789164280798
+Main model (regularised baseline),Gujarat,2015,Female,Historical fit,71.7904792739729,72.57445303488234,73.4331706269243
+Main model (regularised baseline),Gujarat,2016,Female,Historical fit,72.09787414581284,72.9280122481057,73.74329916798233
+Main model (regularised baseline),Gujarat,2017,Female,Historical fit,71.69333506212394,72.50827861782189,73.41771978849557
+Main model (regularised baseline),Gujarat,2018,Female,Historical fit,73.00161786309738,73.84318969515425,74.66088905815452
+Main model (regularised baseline),Gujarat,2019,Female,Historical fit,73.32343437351156,74.21469929122644,75.03094165189789
+Main model (regularised baseline),Gujarat,2020,Female,Historical fit,73.72604182261142,74.57707933026029,75.41381613474111
+Main model (regularised baseline),Gujarat,2021,Female,Historical fit,69.82837792484469,70.65878604266248,71.52458688795447
+Main model (regularised baseline),Gujarat,2022,Female,Historical fit,72.55223121691856,73.44056482142915,74.2198744495401
+Main model (regularised baseline),Gujarat,2023,Female,Historical fit,74.58005301192811,75.42936095152342,76.27076703936608
+Main model (regularised baseline),Gujarat,2024,Female,Historical fit,75.11114361058898,75.94967299568827,76.79647865801576
+Main model (regularised baseline),Gujarat,1971,Male,Historical fit,46.74363334113801,46.74363334113801,46.74363334113801
+Main model (regularised baseline),Gujarat,1976,Male,Historical fit,47.02593155971702,47.85233602329661,48.7413707740171
+Main model (regularised baseline),Gujarat,1981,Male,Historical fit,52.178196933918585,53.09793651847528,53.971783924469726
+Main model (regularised baseline),Gujarat,1986,Male,Historical fit,54.318254186493796,55.24638018582699,56.10813903714935
+Main model (regularised baseline),Gujarat,1991,Male,Historical fit,58.591878753293365,59.49547163879548,60.38427972172053
+Main model (regularised baseline),Gujarat,1996,Male,Historical fit,61.930341363456975,62.82856468101242,63.714937145905594
+Main model (regularised baseline),Gujarat,2001,Male,Historical fit,62.52119949355706,63.39218098761049,64.2262230804988
+Main model (regularised baseline),Gujarat,2006,Male,Historical fit,63.448440234383696,64.31543851542031,65.18470579609448
+Main model (regularised baseline),Gujarat,2009,Male,Historical fit,64.99240166086919,65.8941053697559,66.77941945423494
+Main model (regularised baseline),Gujarat,2011,Male,Historical fit,65.2223620993397,66.0368515192655,66.93652811646022
+Main model (regularised baseline),Gujarat,2012,Male,Historical fit,65.68535770224096,66.45873816621737,67.28269649945919
+Main model (regularised baseline),Gujarat,2013,Male,Historical fit,66.19059546200316,66.90498923731701,67.7019783632142
+Main model (regularised baseline),Gujarat,2014,Male,Historical fit,67.02154497256424,67.818271033720265,68.56911259284567
+Main model (regularised baseline),Gujarat,2015,Male,Historical fit,67.17672996304154,67.97484366139057,68.7422236635787
+Main model (regularised baseline),Gujarat,2016,Male,Historical fit,67.54681449474403,68.32235462450853,69.12878118785684
+Main model (regularised baseline),Gujarat,2017,Male,Historical fit,67.1649471596975,67.90402700937142,68.74128733517182
+Main model (regularised baseline),Gujarat,2018,Male,Historical fit,67.3903359223444,68.20286678872412,68.98754811053938
+Main model (regularised baseline),Gujarat,2019,Male,Historical fit,68.00243436329133,68.77424491270436,69.53892502461463
+Main model (regularised baseline),Gujarat,2020,Male,Historical fit,67.97945055452331,68.81081457724514,69.57774001375253
+Main model (regularised baseline),Gujarat,2021,Male,Historical fit,63.95161178453584,64.74108102928324,65.58671579684761
+Main model (regularised baseline),Gujarat,2022,Male,Historical fit,65.93693633351066,66.74565933284859,67.54397608374015
+Main model (regularised baseline),Gujarat,2023,Male,Historical fit,68.2499903364034,69.06534761059909,69.88359549813711
+Main model (regularised baseline),Gujarat,2024,Male,Historical fit,69.17004003721726,69.94172308462647,70.73372665384211
+Main model (regularised baseline),Haryana,1971,Female,Historical fit,59.12756203757166,59.12756203757166,59.12756203757166
+Main model (regularised baseline),Haryana,1976,Female,Historical fit,49.6788677660845,50.56164588803065,51.57520777881827
+Main model (regularised baseline),Haryana,1986,Female,Historical fit,60.821332178948026,61.75137570131058,62.64945093374123
+Main model (regularised baseline),Haryana,1991,Female,Historical fit,63.618048396184996,64.54428608205956,65.41653733382796
+Main model (regularised baseline),Haryana,1996,Female,Historical fit,64.6163766750548,65.55488843000062,66.46055487325104
+Main model (regularised baseline),Haryana,2001,Female,Historical fit,68.07108661075814,68.93431088815512,69.86835125789764
+Main model (regularised baseline),Haryana,2006,Female,Historical fit,71.67054469416698,72.53837104764915,73.4382457611423
+Main model (regularised baseline),Haryana,2009,Female,Historical fit,70.24593170355494,71.10469629198374,72.03659054739654
+Main model (regularised baseline),Haryana,2011,Female,Historical fit,70.27051541616963,71.12281040693418,71.96150717818664
+Main model (regularised baseline),Haryana,2012,Female,Historical fit,70.5388084805808,71.33077040055703,72.186404654938
+Main model (regularised baseline),Haryana,2013,Female,Historical fit,70.84341407181151,71.69107941250763,72.50713604793872
+Main model (regularised baseline),Haryana,2014,Female,Historical fit,70.98946008523909,71.76926541471681,72.61341909208011
+Main model (regularised baseline),Haryana,2015,Female,Historical fit,71.12491788912608,71.89236001468541,72.82433996512202
+Main model (regularised baseline),Haryana,2016,Female,Historical fit,71.70375676379027,72.5510052361332,73.40870315721844
+Main model (regularised baseline),Haryana,2017,Female,Historical fit,71.84421097112806,72.74013239710789,73.63258357587766
+Main model (regularised baseline),Haryana,2018,Female,Historical fit,72.28551287448227,73.12551403239824,73.92722680093647
+Main model (regularised baseline),Haryana,2019,Female,Historical fit,72.3191048577547,73.18998662382165,74.00434491470047
+Main model (regularised baseline),Haryana,2020,Female,Historical fit,71.85085786572766,72.67701312716132,73.47515568100256
+Main model (regularised baseline),Haryana,2021,Female,Historical fit,68.88415364536948,69.63807285027562,70.54789160866298
+Main model (regularised baseline),Haryana,2022,Female,Historical fit,70.92732143661478,71.81086189400517,72.67900117123531
+Main model (regularised baseline),Haryana,2023,Female,Historical fit,72.48279273892082,73.34618984019431,74.18025499572292
+Main model (regularised baseline),Haryana,2024,Female,Historical fit,72.74545101638662,73.60359355808758,74.4555922425338
+Main model (regularised baseline),Haryana,1971,Male,Historical fit,60.04398023867897,60.04398023867897,60.04398023867897
+Main model (regularised baseline),Haryana,1976,Male,Historical fit,53.53426879245039,54.37852291873506,55.286468860316845
+Main model (regularised baseline),Haryana,1986,Male,Historical fit,61.20566944553979,62.1188534268785,62.98385994384936
+Main model (regularised baseline),Haryana,1991,Male,Historical fit,61.95855381913124,62.857716839412014,63.691592778399524
+Main model (regularised baseline),Haryana,1996,Male,Historical fit,64.12663022743546,65.04651676034311,65.89242764676504
+Main model (regularised baseline),Haryana,2001,Male,Historical fit,64.0567737077874,64.94892793848442,65.89600342344183
+Main model (regularised baseline),Haryana,2006,Male,Historical fit,65.07199857463397,65.92358042816808,66.80003709549601
+Main model (regularised baseline),Haryana,2009,Male,Historical fit,64.99901827361039,65.80881288786856,66.6945673706607
+Main model (regularised baseline),Haryana,2011,Male,Historical fit,65.32764594461369,66.13590607744341,66.9735336254469
+Main model (regularised baseline),Haryana,2012,Male,Historical fit,65.54002885233214,66.32331564879966,67.15550428293808
+Main model (regularised baseline),Haryana,2013,Male,Historical fit,65.84930367437363,66.65218397124619,67.42236670440231
+Main model (regularised baseline),Haryana,2014,Male,Historical fit,66.51435681753208,67.26244348703949,68.06437268355961
+Main model (regularised baseline),Haryana,2015,Male,Historical fit,66.62841280194269,67.39270109147549,68.17722997556311
+Main model (regularised baseline),Haryana,2016,Male,Historical fit,67.23106143003393,68.02097114095633,68.84723480342282
+Main model (regularised baseline),Haryana,2017,Male,Historical fit,67.14887471650653,67.93135980834052,68.72013934919407
+Main model (regularised baseline),Haryana,2018,Male,Historical fit,66.37634265573878,67.19746660777213,67.9471363477687
+Main model (regularised baseline),Haryana,2019,Male,Historical fit,66.28189343760786,67.06217830492452,67.86189797561607
+Main model (regularised baseline),Haryana,2020,Male,Historical fit,65.59197895447218,66.42593731127727,67.20613467081752
+Main model (regularised baseline),Haryana,2021,Male,Historical fit,62.91829619810849,63.75136351716879,64.54506964229361
+Main model (regularised baseline),Haryana,2022,Male,Historical fit,64.38895601398784,65.20546616190614,65.97662420179026
+Main model (regularised baseline),Haryana,2023,Male,Historical fit,66.15550281956249,66.94482074514383,67.71019469855509
+Main model (regularised baseline),Haryana,2024,Male,Historical fit,66.86340330954374,67.6392096765562,68.45116870637331
+Main model (regularised baseline),Himachal Pradesh,1991,Female,Historical fit,65.03864446437379,65.03864446437379,65.03864446437379
+Main model (regularised baseline),Himachal Pradesh,1992,Female,Historical fit,64.51809181734274,65.3554085141429,66.17465405304229
+Main model (regularised baseline),Himachal Pradesh,1993,Female,Historical fit,64.9277837672133,65.7706995787323,66.60986987718331
+Main model (regularised baseline),Himachal Pradesh,1994,Female,Historical fit,62.206918180361654,63.03949725853499,63.87496382408411
+Main model (regularised baseline),Himachal Pradesh,1996,Female,Historical fit,65.75545151167655,66.70354844080077,67.56197313078607
+Main model (regularised baseline),Himachal Pradesh,1997,Female,Historical fit,67.4402010984522,68.21311341855713,69.04614388159483
+Main model (regularised baseline),Himachal Pradesh,1998,Female,Historical fit,68.63314663024066,69.48424220473393,70.29451777627445
+Main model (regularised baseline),Himachal Pradesh,1999,Female,Historical fit,70.12476161268637,70.98528101029774,71.83619961494998
+Main model (regularised baseline),Himachal Pradesh,2000,Female,Historical fit,71.43774125469258,72.31465023124002,73.13688460226044
+Main model (regularised baseline),Himachal Pradesh,2002,Female,Historical fit,72.49767369924477,73.41281390106965,74.27381753769872
+Main model (regularised baseline),Himachal Pradesh,2003,Female,Historical fit,73.12673986799226,73.96642421659082,74.78976991557786
+Main model (regularised baseline),Himachal Pradesh,2004,Female,Historical fit,73.46314448616056,74.23482929079714,75.08047689191625
+Main model (regularised baseline),Himachal Pradesh,2005,Female,Historical fit,73.58782894665833,74.4436731819305,75.1933979978179
+Main model (regularised baseline),Himachal Pradesh,2006,Female,Historical fit,73.76643100649666,74.53009372436986,75.35627602256176
+Main model (regularised baseline),Himachal Pradesh,2007,Female,Historical fit,73.89793333424679,74.77887100321558,75.67606700847061
+Main model (regularised baseline),Himachal Pradesh,2008,Female,Historical fit,73.63117327846842,74.45124540470114,75.26819099339268
+Main model (regularised baseline),Himachal Pradesh,2009,Female,Historical fit,73.62661841705273,74.53018376279535,75.33021874476984
+Main model (regularised baseline),Himachal Pradesh,2010,Female,Historical fit,74.17608412842021,75.01277387905418,75.85548351665842
+Main model (regularised baseline),Himachal Pradesh,2011,Female,Historical fit,73.70515679449467,74.57910549763456,75.41687425000401
+Main model (regularised baseline),Himachal Pradesh,2012,Female,Historical fit,74.74022575197282,75.58332161725852,76.38626562056719
+Main model (regularised baseline),Himachal Pradesh,2013,Female,Historical fit,74.20700664454593,74.98375648542088,75.84783867994935
+Main model (regularised baseline),Himachal Pradesh,2014,Female,Historical fit,75.77356747261041,76.61923119749302,77.43150390963028
+Main model (regularised baseline),Himachal Pradesh,2015,Female,Historical fit,75.9047261564726,76.78988791975172,77.62296327170196
+Main model (regularised baseline),Himachal Pradesh,2016,Female,Historical fit,75.15688202146615,75.98378171875805,76.78605354245198
+Main model (regularised baseline),Himachal Pradesh,2017,Female,Historical fit,75.8669748083129,76.64287926524652,77.46564347417119
+Main model (regularised baseline),Himachal Pradesh,2018,Female,Historical fit,75.37035236341715,76.23510145808027,77.09396615560792
+Main model (regularised baseline),Himachal Pradesh,2019,Female,Historical fit,75.2495848943108,76.05125898712166,76.91673230049972
+Main model (regularised baseline),Himachal Pradesh,2020,Female,Historical fit,75.76064101826003,76.63726210265679,77.4479196826039
+Main model (regularised baseline),Himachal Pradesh,2021,Female,Historical fit,73.31271509622088,74.17805191633641,75.03935321051307
+Main model (regularised baseline),Himachal Pradesh,2022,Female,Historical fit,76.36038094406503,77.22041085254628,78.06246533981619
+Main model (regularised baseline),Himachal Pradesh,2023,Female,Historical fit,78.42669143477877,79.31378972742945,80.15397776039616
+Main model (regularised baseline),Himachal Pradesh,2024,Female,Historical fit,78.48180180418275,79.3393155790072,80.15767339119702
+Main model (regularised baseline),Himachal Pradesh,1991,Male,Historical fit,62.86116834074685,62.86116834074685,62.86116834074685
+Main model (regularised baseline),Himachal Pradesh,1992,Male,Historical fit,62.01504111855908,62.753733235641135,63.50635076999477
+Main model (regularised baseline),Himachal Pradesh,1993,Male,Historical fit,61.4286063341893,62.21631897736056,62.99569776708095
+Main model (regularised baseline),Himachal Pradesh,1994,Male,Historical fit,59.39517591855617,60.23560140579524,61.01331635165947
+Main model (regularised baseline),Himachal Pradesh,1996,Male,Historical fit,63.03481292009111,63.90647959094414,64.78051926430362
+Main model (regularised baseline),Himachal Pradesh,1997,Male,Historical fit,64.32953490743392,65.11178713823773,65.87419895205355
+Main model (regularised baseline),Himachal Pradesh,1998,Male,Historical fit,65.14393102245774,65.9480721221829,66.73254356858165
+Main model (regularised baseline),Himachal Pradesh,1999,Male,Historical fit,66.2170727642463,67.04648449171276,67.82089655383133
+Main model (regularised baseline),Himachal Pradesh,2000,Male,Historical fit,67.14822211354735,67.92347206580139,68.70288705665277
+Main model (regularised baseline),Himachal Pradesh,2002,Male,Historical fit,66.82769830193634,67.68499073489494,68.5567099789135
+Main model (regularised baseline),Himachal Pradesh,2003,Male,Historical fit,66.86133862129111,67.63902214327723,68.44119996582646
+Main model (regularised baseline),Himachal Pradesh,2004,Male,Historical fit,67.54025200861848,68.36102493979357,69.1769040445892
+Main model (regularised baseline),Himachal Pradesh,2005,Male,Historical fit,67.65193009974436,68.45720949708783,69.20001853491635
+Main model (regularised baseline),Himachal Pradesh,2006,Male,Historical fit,67.6359876756166,68.32783201321234,69.09555157355736
+Main model (regularised baseline),Himachal Pradesh,2007,Male,Historical fit,67.19129592695687,67.98026799889436,68.77892935066227
+Main model (regularised baseline),Himachal Pradesh,2008,Male,Historical fit,67.08651385243988,67.90816421821802,68.7340996109585
+Main model (regularised baseline),Himachal Pradesh,2009,Male,Historical fit,67.62455573287082,68.4357339595136,69.18509384118202
+Main model (regularised baseline),Himachal Pradesh,2010,Male,Historical fit,68.46848612077297,69.23441192894154,69.97990270778301
+Main model (regularised baseline),Himachal Pradesh,2011,Male,Historical fit,68.67071845824219,69.46044602646404,70.28586518196182
+Main model (regularised baseline),Himachal Pradesh,2012,Male,Historical fit,68.47006639460906,69.2197697257837,70.0145360597167
+Main model (regularised baseline),Himachal Pradesh,2013,Male,Historical fit,69.64216243800139,70.43092331001048,71.1981433183553
+Main model (regularised baseline),Himachal Pradesh,2014,Male,Historical fit,68.61419801130826,69.38567263942622,70.24333394842697
+Main model (regularised baseline),Himachal Pradesh,2015,Male,Historical fit,68.08677758161103,68.86925511780925,69.68321922799028
+Main model (regularised baseline),Himachal Pradesh,2016,Male,Historical fit,69.3081456746025,70.16425214804282,70.92276560206453
+Main model (regularised baseline),Himachal Pradesh,2017,Male,Historical fit,69.88515268601189,70.7206499817342,71.52805008389925
+Main model (regularised baseline),Himachal Pradesh,2018,Male,Historical fit,69.1612602272128,69.96537053253496,70.7183052639207
+Main model (regularised baseline),Himachal Pradesh,2019,Male,Historical fit,69.0185173079451,69.84262529130173,70.61584122450637
+Main model (regularised baseline),Himachal Pradesh,2020,Male,Historical fit,68.87064503856585,69.6785390546585,70.43514553976472
+Main model (regularised baseline),Himachal Pradesh,2021,Male,Historical fit,67.07608281348784,67.95589353975052,68.7165202438349
+Main model (regularised baseline),Himachal Pradesh,2022,Male,Historical fit,70.12174837543837,70.90237032074194,71.72820023172636
+Main model (regularised baseline),Himachal Pradesh,2023,Male,Historical fit,72.14230511458788,72.9155093791442,73.76654288404671
+Main model (regularised baseline),Himachal Pradesh,2024,Male,Historical fit,72.04199464519043,72.83881981182118,73.62307789501206
+Main model (regularised baseline),Jammu & Kashmir,2004,Female,Historical fit,73.41310157365669,73.41310157365669,73.41310157365669
+Main model (regularised baseline),Jammu & Kashmir,2006,Female,Historical fit,72.88439031183145,73.78264097181122,74.64294290416045
+Main model (regularised baseline),Jammu & Kashmir,2011,Female,Historical fit,72.51182861711297,73.39940047092855,74.33953947749197
+Main model (regularised baseline),Jammu & Kashmir,2012,Female,Historical fit,73.4727241377469,74.35610532005921,75.19251602968079
+Main model (regularised baseline),Jammu & Kashmir,2013,Female,Historical fit,76.37278103836736,77.28827543298209,78.13775714289427
+Main model (regularised baseline),Jammu & Kashmir,2014,Female,Historical fit,77.58337331995651,78.43385095605893,79.30493547910562
+Main model (regularised baseline),Jammu & Kashmir,2015,Female,Historical fit,77.79867092249216,78.63141012822493,79.47818791174203
+Main model (regularised baseline),Jammu & Kashmir,2016,Female,Historical fit,78.39750252670422,79.25210641293478,80.05779294278746
+Main model (regularised baseline),Jammu & Kashmir,2017,Female,Historical fit,77.78849346644185,78.6327526028384,79.44854813371938
+Main model (regularised baseline),Jammu & Kashmir,2018,Female,Historical fit,77.81499570583311,78.63416990067353,79.45232778859318
+Main model (regularised baseline),Jammu & Kashmir,2020,Female,Historical fit,79.93736762877099,80.89037089074336,81.78361679175985
+Main model (regularised baseline),Jammu & Kashmir,2021,Female,Historical fit,76.0937158806034,76.87824699153623,77.82062082757241
+Main model (regularised baseline),Jammu & Kashmir,2022,Female,Historical fit,75.90011332983715,76.73096951057639,77.5199333232658
+Main model (regularised baseline),Jammu & Kashmir,2023,Female,Historical fit,76.76578088448873,77.56689403430514,78.44887589971312
+Main model (regularised baseline),Jammu & Kashmir,2024,Female,Historical fit,77.2371207727032,78.06718765076727,78.86581814826383
+Main model (regularised baseline),Jammu & Kashmir,2004,Male,Historical fit,71.63886229998366,71.63886229998366,71.63886229998366
+Main model (regularised baseline),Jammu & Kashmir,2006,Male,Historical fit,69.07108421121822,69.88222803402947,70.76900603432921
+Main model (regularised baseline),Jammu & Kashmir,2011,Male,Historical fit,69.86677123385448,70.72549216780958,71.60916802411445
+Main model (regularised baseline),Jammu & Kashmir,2012,Male,Historical fit,70.02792447737512,70.86878169947754,71.66887811711763
+Main model (regularised baseline),Jammu & Kashmir,2013,Male,Historical fit,70.97552820471768,71.76308612752604,72.5789398682361
+Main model (regularised baseline),Jammu & Kashmir,2014,Male,Historical fit,71.42100731981685,72.19721598034957,73.00116984070162
+Main model (regularised baseline),Jammu & Kashmir,2015,Male,Historical fit,72.30021461766079,73.1102795227309,73.87103628324228
+Main model (regularised baseline),Jammu & Kashmir,2016,Male,Historical fit,72.87979069249272,73.69084755583617,74.46264963684374
+Main model (regularised baseline),Jammu & Kashmir,2017,Male,Historical fit,73.34131757086524,74.17406718483724,74.97704860733369
+Main model (regularised baseline),Jammu & Kashmir,2018,Male,Historical fit,73.33417859963126,74.10693369100858,74.86576949946047
+Main model (regularised baseline),Jammu & Kashmir,2020,Male,Historical fit,73.51899235815704,74.3327932503409,75.1273227001939
+Main model (regularised baseline),Jammu & Kashmir,2021,Male,Historical fit,73.02542972330251,73.84594197485504,74.68049853054639
+Main model (regularised baseline),Jammu & Kashmir,2022,Male,Historical fit,72.50319689620248,73.31526261130176,74.09595022689327
+Main model (regularised baseline),Jammu & Kashmir,2023,Male,Historical fit,74.45034566625446,75.18155460366643,75.96889652677145
+Main model (regularised baseline),Jammu & Kashmir,2024,Male,Historical fit,75.1906280728067,75.96171973718303,76.76249781998443
+Main model (regularised baseline),Jharkhand,2004,Female,Historical fit,62.93725609269838,62.93725609269838,62.93725609269838
+Main model (regularised baseline),Jharkhand,2006,Female,Historical fit,61.89222888422834,62.73411387089248,63.608353054462924
+Main model (regularised baseline),Jharkhand,2011,Female,Historical fit,65.63535304010178,66.5325748345563,67.42021790829935
+Main model (regularised baseline),Jharkhand,2012,Female,Historical fit,65.9763757127489,66.75314858930179,67.63495194913344
+Main model (regularised baseline),Jharkhand,2013,Female,Historical fit,66.26532636330461,67.11804081109267,67.95463727790361
+Main model (regularised baseline),Jharkhand,2014,Female,Historical fit,67.24899880343405,68.097890850809,68.85701647625945
+Main model (regularised baseline),Jharkhand,2015,Female,Historical fit,67.5654936657599,68.37328705247518,69.24561322587671
+Main model (regularised baseline),Jharkhand,2016,Female,Historical fit,67.84743818504133,68.6605197240128,69.49274232206993
+Main model (regularised baseline),Jharkhand,2017,Female,Historical fit,67.69631606679152,68.54311305207352,69.37762033983752
+Main model (regularised baseline),Jharkhand,2018,Female,Historical fit,67.49032357349424,68.30713768278272,69.17349303614128
+Main model (regularised baseline),Jharkhand,2019,Female,Historical fit,68.0122792787146,68.83430938668366,69.6863109082137
+Main model (regularised baseline),Jharkhand,2020,Female,Historical fit,68.26632467590059,69.12246650772408,69.91111862329063
+Main model (regularised baseline),Jharkhand,2021,Female,Historical fit,68.95911588082295,69.81028853408851,70.63988661489681
+Main model (regularised baseline),Jharkhand,2022,Female,Historical fit,70.88937859606573,71.736450006929,72.60919153885071
+Main model (regularised baseline),Jharkhand,2023,Female,Historical fit,69.7082677169134,70.60944965069135,71.44759932010506
+Main model (regularised baseline),Jharkhand,2024,Female,Historical fit,69.89621836054891,70.77054782043062,71.62979903335292
+Main model (regularised baseline),Jharkhand,2004,Male,Historical fit,62.37574606207074,62.37574606207074,62.37574606207074
+Main model (regularised baseline),Jharkhand,2006,Male,Historical fit,63.170002782453835,63.95862182725937,64.80443069175907
+Main model (regularised baseline),Jharkhand,2011,Male,Historical fit,64.73262913305857,65.63237813727656,66.47715471856804
+Main model (regularised baseline),Jharkhand,2012,Male,Historical fit,65.2794060943176,66.04556117211209,66.8118631831851
+Main model (regularised baseline),Jharkhand,2013,Male,Historical fit,65.06482661343787,65.88214152835856,66.67417538213401
+Main model (regularised baseline),Jharkhand,2014,Male,Historical fit,66.93071547153389,67.73897598172445,68.49607228545912
+Main model (regularised baseline),Jharkhand,2015,Male,Historical fit,67.48315181400206,68.23300843102973,69.00652601690378
+Main model (regularised baseline),Jharkhand,2016,Male,Historical fit,68.68493610955741,69.54231815264522,70.31567179569058
+Main model (regularised baseline),Jharkhand,2017,Male,Historical fit,69.11449555337443,69.87716916655134,70.66070244431721
+Main model (regularised baseline),Jharkhand,2018,Male,Historical fit,69.06858657013028,69.82547683720784,70.5932085069957
+Main model (regularised baseline),Jharkhand,2019,Male,Historical fit,69.00217173328416,69.7990530937521,70.61915811946187
+Main model (regularised baseline),Jharkhand,2020,Male,Historical fit,68.77110374698195,69.57625328042428,70.30196129527032
+Main model (regularised baseline),Jharkhand,2021,Male,Historical fit,65.80402560436193,66.612365596876,67.4703350765211
+Main model (regularised baseline),Jharkhand,2022,Male,Historical fit,67.144030395197575,67.89934619418418,68.73237485418655
+Main model (regularised baseline),Jharkhand,2023,Male,Historical fit,67.45891981744045,68.26801003962396,69.03914062469478
+Main model (regularised baseline),Jharkhand,2024,Male,Historical fit,67.61614771116403,68.43868756761296,69.21962031511104
+Main model (regularised baseline),Karnataka,1971,Female,Historical fit,55.55172524328785,55.55172524328785,55.55172524328785
+Main model (regularised baseline),Karnataka,1976,Female,Historical fit,54.41017679438054,55.33898365654501,56.280170069533575
+Main model (regularised baseline),Karnataka,1981,Female,Historical fit,59.78605974336736,60.728724156604166,61.59073733314348
+Main model (regularised baseline),Karnataka,1986,Female,Historical fit,61.398127390486195,62.247644108239214,63.14633110073451
+Main model (regularised baseline),Karnataka,1991,Female,Historical fit,61.52591902178179,62.4471221803811,63.3237173744439
+Main model (regularised baseline),Karnataka,1996,Female,Historical fit,65.27054694195168,66.1894909602164,67.05916523187665
+Main model (regularised baseline),Karnataka,2001,Female,Historical fit,68.25236601316254,69.14913621334863,69.99105554420935
+Main model (regularised baseline),Karnataka,2006,Female,Historical fit,69.56384049823849,70.42607364531804,71.3527273027921
+Main model (regularised baseline),Karnataka,2009,Female,Historical fit,70.0646592853444,70.95208558534432,71.79352389259523
+Main model (regularised baseline),Karnataka,2011,Female,Historical fit,70.95597832364484,71.81362951821666,72.7388593632952
+Main model (regularised baseline),Karnataka,2012,Female,Historical fit,70.45559146606793,71.26919677502937,72.16695135728015
+Main model (regularised baseline),Karnataka,2013,Female,Historical fit,70.51244279409104,71.30559614409952,72.1580671439788
+Main model (regularised baseline),Karnataka,2014,Female,Historical fit,70.38132573903745,71.22401576608084,72.09592098848672
+Main model (regularised baseline),Karnataka,2015,Female,Historical fit,69.9620200854224,70.77171983197186,71.64061658893269
+Main model (regularised baseline),Karnataka,2016,Female,Historical fit,69.80061583388948,70.61050764070754,71.41646015164314
+Main model (regularised baseline),Karnataka,2017,Female,Historical fit,70.26506967221937,71.08811881432132,71.92910785171378
+Main model (regularised baseline),Karnataka,2018,Female,Historical fit,70.55620181339219,71.38637767343192,72.23566648614475
+Main model (regularised baseline),Karnataka,2019,Female,Historical fit,71.37175594713611,72.18754442260612,73.00989906091547
+Main model (regularised baseline),Karnataka,2020,Female,Historical fit,71.83390680266419,72.67789943634611,73.5262004870312
+Main model (regularised baseline),Karnataka,2021,Female,Historical fit,69.73224107372894,70.55381774800861,71.40032897253472
+Main model (regularised baseline),Karnataka,2022,Female,Historical fit,71.32287674936839,72.20062209517118,73.0865059991256
+Main model (regularised baseline),Karnataka,2023,Female,Historical fit,73.11394501493236,73.95724953062597,74.77348977191116
+Main model (regularised baseline),Karnataka,2024,Female,Historical fit,73.26834188495485,74.07105517963925,74.98371738981228
+Main model (regularised baseline),Karnataka,1971,Male,Historical fit,52.69809486852763,52.69809486852763,52.69809486852763
+Main model (regularised baseline),Karnataka,1976,Male,Historical fit,54.353629495492015,55.26352013329081,56.07302936736965
+Main model (regularised baseline),Karnataka,1981,Male,Historical fit,58.86560173534071,59.829303071435064,60.662704602570024
+Main model (regularised baseline),Karnataka,1986,Male,Historical fit,59.52311775396946,60.4005966319493,61.25647124741639
+Main model (regularised baseline),Karnataka,1991,Male,Historical fit,58.87126827951394,59.69636567300123,60.51983105588084
+Main model (regularised baseline),Karnataka,1996,Male,Historical fit,62.40328192771249,63.33370140442764,64.24128226810052
+Main model (regularised baseline),Karnataka,2001,Male,Historical fit,62.60290891433475,63.42837956798603,64.33924980102277
+Main model (regularised baseline),Karnataka,2006,Male,Historical fit,63.92675795783485,64.78272080442886,65.73497120404808
+Main model (regularised baseline),Karnataka,2009,Male,Historical fit,65.40280975826836,66.22620526847228,67.117801910217
+Main model (regularised baseline),Karnataka,2011,Male,Historical fit,65.12812205010954,65.95537572888352,66.8108852528324
+Main model (regularised baseline),Karnataka,2012,Male,Historical fit,65.49221369089662,66.28355828860029,67.07324604776774
+Main model (regularised baseline),Karnataka,2013,Male,Historical fit,66.23976255477398,67.03069508570758,67.79350576243965
+Main model (regularised baseline),Karnataka,2014,Male,Historical fit,67.09277110692064,67.88640279138178,68.68569877068936
+Main model (regularised baseline),Karnataka,2015,Male,Historical fit,67.1900274930326,67.97707519857327,68.79883972816894
+Main model (regularised baseline),Karnataka,2016,Male,Historical fit,66.91585673198902,67.68118395300432,68.46140937831925
+Main model (regularised baseline),Karnataka,2017,Male,Historical fit,66.87514618454232,67.66766657840945,68.47839070991664
+Main model (regularised baseline),Karnataka,2018,Male,Historical fit,67.24573497569754,68.06461849750752,68.92845842004863
+Main model (regularised baseline),Karnataka,2019,Male,Historical fit,67.32223958362454,68.13266813786217,68.97336663013473
+Main model (regularised baseline),Karnataka,2020,Male,Historical fit,67.12955553671515,67.89449914596861,68.73163364393486
+Main model (regularised baseline),Karnataka,2021,Male,Historical fit,64.71803067615788,65.5251430582638,66.303820384086265
+Main model (regularised baseline),Karnataka,2022,Male,Historical fit,66.6056174537116,67.39560367329906,68.13731842420142
+Main model (regularised baseline),Karnataka,2023,Male,Historical fit,68.76099994260828,69.566268323302893,70.37835789606584
+Main model (regularised baseline),Karnataka,2024,Male,Historical fit,68.89949060909598,69.63430822738984,70.43322396665889
+Main model (regularised baseline),Kerala,1971,Female,Historical fit,61.41485345330871,61.41485345330871,61.41485345330871
+Main model (regularised baseline),Kerala,1976,Female,Historical fit,63.860659055768004,64.76383541716547,65.6504024282648
+Main model (regularised baseline),Kerala,1981,Female,Historical fit,69.68387246823563,70.58390088537905,71.45291427944477
+Main model (regularised baseline),Kerala,1986,Female,Historical fit,72.104470941787,73.05963247353594,74.0171346022736
+Main model (regularised baseline),Kerala,1991,Female,Historical fit,73.72727671274488,74.60780800540115,75.55045277387183
+Main model (regularised baseline),Kerala,1996,Female,Historical fit,74.88997814890078,75.80654345979906,76.68142265423694
+Main model (regularised baseline),Kerala,2001,Female,Historical fit,75.76758508529902,76.75011871654482,77.66876903567763
+Main model (regularised baseline),Kerala,2006,Female,Historical fit,76.63742458033344,77.51886686068661,78.41824770182087
+Main model (regularised baseline),Kerala,2009,Female,Historical fit,76.84974840191825,77.81122778660111,78.64542706049123
+Main model (regularised baseline),Kerala,2011,Female,Historical fit,77.0815311188682,77.95801045601064,78.87899091931713
+Main model (regularised baseline),Kerala,2012,Female,Historical fit,77.46385071960735,78.30729916636423,79.15906366244917
+Main model (regularised baseline),Kerala,2013,Female,Historical fit,77.42337839982233,78.250751132676,79.09393795654505
+Main model (regularised baseline),Kerala,2014,Female,Historical fit,77.1878572195328,78.03656743629637,78.87492633563471
+Main model (regularised baseline),Kerala,2015,Female,Historical fit,77.37637019180393,78.205870290985,79.00848679542821
+Main model (regularised baseline),Kerala,2016,Female,Historical fit,76.31079574017133,77.14532462823726,77.9241900399099
+Main model (regularised baseline),Kerala,2017,Female,Historical fit,77.19817422832756,78.07817026725901,78.94347406610717
+Main model (regularised baseline),Kerala,2018,Female,Historical fit,77.23257130113477,78.0531645558367,78.8826042089635
+Main model (regularised baseline),Kerala,2019,Female,Historical fit,77.05961909599584,77.87545450431631,78.69601788284412
+Main model (regularised baseline),Kerala,2020,Female,Historical fit,77.13167486546789,77.96504234165418,78.77445164720827
+Main model (regularised baseline),Kerala,2021,Female,Historical fit,75.56524544934624,76.36889808557368,77.22361285603307
+Main model (regularised baseline),Kerala,2022,Female,Historical fit,77.31745588277839,78.1904292053867,79.00117495312018
+Main model (regularised baseline),Kerala,2023,Female,Historical fit,79.13676594027692,79.97154891481554,80.85912501160612
+Main model (regularised baseline),Kerala,2024,Female,Historical fit,79.10624845953551,79.9288103195026,80.80493109908637
+Main model (regularised baseline),Kerala,1971,Male,Historical fit,59.60772245066056,59.60772245066056,59.60772245066056
+Main model (regularised baseline),Kerala,1976,Male,Historical fit,60.61412485158134,61.443283565314744,62.3040753489918
+Main model (regularised baseline),Kerala,1981,Male,Historical fit,63.72135424154965,64.55229983536591,65.49932604504023
+Main model (regularised baseline),Kerala,1986,Male,Historical fit,66.85247355811497,67.72723516791538,68.61722264381724
+Main model (regularised baseline),Kerala,1991,Male,Historical fit,67.87693351637152,68.7658705665892,69.67239739037073
+Main model (regularised baseline),Kerala,1996,Male,Historical fit,68.6176927173843,69.53813984385803,70.35201912009472
+Main model (regularised baseline),Kerala,2001,Male,Historical fit,68.93005861366268,69.83603767259089,70.75955635382937
+Main model (regularised baseline),Kerala,2006,Male,Historical fit,70.83295553712016,71.73608749743218,72.59742825521501
+Main model (regularised baseline),Kerala,2009,Male,Historical fit,71.04394722116314,71.88801742450657,72.80987700444047
+Main model (regularised baseline),Kerala,2011,Male,Historical fit,70.73870161950882,71.57395676580104,72.38142509562755
+Main model (regularised baseline),Kerala,2012,Male,Historical fit,70.90828628921186,71.69959063024004,72.49664137111908
+Main model (regularised baseline),Kerala,2013,Male,Historical fit,71.37968319833593,72.1546416849439,72.98611611708884
+Main model (regularised baseline),Kerala,2014,Male,Historical fit,71.8288576091287,72.5927135550246,73.37553013415166
+Main model (regularised baseline),Kerala,2015,Male,Historical fit,71.86385078499029,72.62678708403533,73.33419484548592
+Main model (regularised baseline),Kerala,2016,Male,Historical fit,71.11840942791362,71.8750201813645,72.65905150095494
+Main model (regularised baseline),Kerala,2017,Male,Historical fit,71.73522543204189,72.58458419204001,73.34978817824145
+Main model (regularised baseline),Kerala,2018,Male,Historical fit,71.78521076731732,72.51614453254012,73.30356959436676
+Main model (regularised baseline),Kerala,2019,Male,Historical fit,70.95403610097608,71.78130222169654,72.60703091837732
+Main model (regularised baseline),Kerala,2020,Male,Historical fit,70.48916195407902,71.22211141567921,71.99110819808897
+Main model (regularised baseline),Kerala,2021,Male,Historical fit,69.20693330827785,70.02240655492639,70.81996131431846
+Main model (regularised baseline),Kerala,2022,Male,Historical fit,71.27901874625124,72.04811033803571,72.83716688339165
+Main model (regularised baseline),Kerala,2023,Male,Historical fit,72.91927757919206,73.69891428007304,74.5103007589764
+Main model (regularised baseline),Kerala,2024,Male,Historical fit,73.28032565330025,74.04270947922352,74.842416803112
+Main model (regularised baseline),Madhya Pradesh,1971,Female,Historical fit,49.06091747051475,49.06091747051475,49.06091747051475
+Main model (regularised baseline),Madhya Pradesh,1976,Female,Historical fit,49.334550486424966,50.296225767082746,51.17003966852399
+Main model (regularised baseline),Madhya Pradesh,1986,Female,Historical fit,50.73342978585109,51.6607935656353,52.59694730388861
+Main model (regularised baseline),Madhya Pradesh,1991,Female,Historical fit,53.78480813099868,54.71171436840038,55.61725185075219
+Main model (regularised baseline),Madhya Pradesh,1996,Female,Historical fit,56.734034412808626,57.611207936538754,58.50036877026832
+Main model (regularised baseline),Madhya Pradesh,2011,Female,Historical fit,64.6905155717613,65.61991268396312,66.53642845208776
+Main model (regularised baseline),Madhya Pradesh,2012,Female,Historical fit,64.92910293115246,65.79478434096723,66.62288793183774
+Main model (regularised baseline),Madhya Pradesh,2013,Female,Historical fit,65.54216561387346,66.37220837387643,67.17749468223235
+Main model (regularised baseline),Madhya Pradesh,2014,Female,Historical fit,65.76855780037953,66.59535552047788,67.40479288267858
+Main model (regularised baseline),Madhya Pradesh,2015,Female,Historical fit,66.22506854211115,67.07885048652619,67.87708357545088
+Main model (regularised baseline),Madhya Pradesh,2016,Female,Historical fit,67.49792769435915,68.35468156636017,69.17269736956338
+Main model (regularised baseline),Madhya Pradesh,2017,Female,Historical fit,67.9876621145716,68.8303340225197,69.65643024582306
+Main model (regularised baseline),Madhya Pradesh,2018,Female,Historical fit,68.15269052324732,68.99574679000693,69.87492356068078
+Main model (regularised baseline),Madhya Pradesh,2019,Female,Historical fit,68.38367192276952,69.22220709479197,70.04695644195492
+Main model (regularised baseline),Madhya Pradesh,2020,Female,Historical fit,68.74116807187642,69.56138871434925,70.41032070999194
+Main model (regularised baseline),Madhya Pradesh,2021,Female,Historical fit,67.05185058575391,67.89642082229156,68.75475469262564
+Main model (regularised baseline),Madhya Pradesh,2022,Female,Historical fit,69.55516934785797,70.4112716937355,71.16277935108562
+Main model (regularised baseline),Madhya Pradesh,2023,Female,Historical fit,71.42273647604713,72.21858186601398,73.05028327702875
+Main model (regularised baseline),Madhya Pradesh,2024,Female,Historical fit,71.65016372456378,72.4741545267712,73.31827611843293
+Main model (regularised baseline),Madhya Pradesh,1971,Male,Historical fit,50.2408089135435,50.2408089135435,50.2408089135435
+Main model (regularised baseline),Madhya Pradesh,1976,Male,Historical fit,45.80437724500255,46.70919587844983,47.715731485514475
+Main model (regularised baseline),Madhya Pradesh,1986,Male,Historical fit,51.028434771661566,51.928733551496755,52.809734023933395
+Main model (regularised baseline),Madhya Pradesh,1991,Male,Historical fit,53.85098913976525,54.6575990860798,55.54821772760586
+Main model (regularised baseline),Madhya Pradesh,1996,Male,Historical fit,55.8167403465559,56.673583413295134,57.51805447003112
+Main model (regularised baseline),Madhya Pradesh,2011,Male,Historical fit,61.2436283772997,62.205566687577715,63.07669525779411
+Main model (regularised baseline),Madhya Pradesh,2012,Male,Historical fit,61.555575920673505,62.31464939282714,63.09289377298628
+Main model (regularised baseline),Madhya Pradesh,2013,Male,Historical fit,61.781143204847496,62.515763724284085,63.31148524371254
+Main model (regularised baseline),Madhya Pradesh,2014,Male,Historical fit,62.47868543809638,63.20921445744263,64.01358407351066
+Main model (regularised baseline),Madhya Pradesh,2015,Male,Historical fit,62.84888800133854,63.59540836046288,64.41665431690241
+Main model (regularised baseline),Madhya Pradesh,2016,Male,Historical fit,63.4735360008977,64.27577034730993,65.08665166384422
+Main model (regularised baseline),Madhya Pradesh,2017,Male,Historical fit,64.03354098244839,64.80627858644439,65.56937871229634
+Main model (regularised baseline),Madhya Pradesh,2018,Male,Historical fit,64.35777444669468,65.12737128051994,65.8987699441122
+Main model (regularised baseline),Madhya Pradesh,2019,Male,Historical fit,64.59603336482185,65.33527433187024,66.09952645603835
+Main model (regularised baseline),Madhya Pradesh,2020,Male,Historical fit,64.52091041930368,65.30092207575841,66.1014489049541
+Main model (regularised baseline),Madhya Pradesh,2021,Male,Historical fit,62.294550047685874,63.07358554733318,63.84926736985132
+Main model (regularised baseline),Madhya Pradesh,2022,Male,Historical fit,64.04118046296931,64.84085505806769,65.61531289743026
+Main model (regularised baseline),Madhya Pradesh,2023,Male,Historical fit,65.70862817705996,66.49861137895815,67.26983540112457
+Main model (regularised baseline),Madhya Pradesh,2024,Male,Historical fit,66.22956072683932,66.95520099665448,67.77239722676389
+Main model (regularised baseline),Maharashtra,1971,Female,Historical fit,53.72707778571223,53.72707778571223,53.72707778571223
+Main model (regularised baseline),Maharashtra,1976,Female,Historical fit,56.22105022727024,57.120097945051604,57.9962039431155
+Main model (regularised baseline),Maharashtra,1981,Female,Historical fit,59.51437445698271,60.45304745897123,61.37472714437346
+Main model (regularised baseline),Maharashtra,1991,Female,Historical fit,64.01082992145386,64.95465978095008,65.8446837167951
+Main model (regularised baseline),Maharashtra,1996,Female,Historical fit,66.97265856911605,67.9241589475629,68.8626008062389
+Main model (regularised baseline),Maharashtra,2001,Female,Historical fit,67.88255278333719,68.76524006677963,69.65848863823074
+Main model (regularised baseline),Maharashtra,2006,Female,Historical fit,71.34246671552259,72.2843433403678,73.18740111572286
+Main model (regularised baseline),Maharashtra,2009,Female,Historical fit,72.44734809613803,73.40316852146124,74.26541855288241
+Main model (regularised baseline),Maharashtra,2011,Female,Historical fit,73.00579314410834,73.89401875957287,74.76934767721103
+Main model (regularised baseline),Maharashtra,2012,Female,Historical fit,72.96237346624565,73.7958224486622,74.61414494828809
+Main model (regularised baseline),Maharashtra,2013,Female,Historical fit,73.52600917271221,74.33369294501938,75.21414133238692
+Main model (regularised baseline),Maharashtra,2014,Female,Historical fit,73.57870364959133,74.40304461583106,75.2625578983264
+Main model (regularised baseline),Maharashtra,2015,Female,Historical fit,73.14092513673569,73.94439174842792,74.85584584555599
+Main model (regularised baseline),Maharashtra,2016,Female,Historical fit,73.04220098498463,73.86156443110178,74.69445142977993
+Main model (regularised baseline),Maharashtra,2017,Female,Historical fit,73.15951318969945,73.95134427717821,74.82332408687196
+Main model (regularised baseline),Maharashtra,2018,Female,Historical fit,73.86473008113373,74.69343068036093,75.55875338471712
+Main model (regularised baseline),Maharashtra,2019,Female,Historical fit,74.34169015775552,75.15833348241688,75.96943803001413
+Main model (regularised baseline),Maharashtra,2020,Female,Historical fit,74.31139194489941,75.17082490826235,76.03109700126328
+Main model (regularised baseline),Maharashtra,2021,Female,Historical fit,72.94302074636559,73.82487363060767,74.60474410651354
+Main model (regularised baseline),Maharashtra,2022,Female,Historical fit,73.74233684029045,74.61753087653604,75.43213186476736
+Main model (regularised baseline),Maharashtra,2023,Female,Historical fit,75.57144004455148,76.39327219090465,77.20863256097995
+Main model (regularised baseline),Maharashtra,2024,Female,Historical fit,75.88645436743428,76.71216469933381,77.61647214616083
+Main model (regularised baseline),Maharashtra,1971,Male,Historical fit,53.07133884006325,53.07133884006325,53.07133884006325
+Main model (regularised baseline),Maharashtra,1976,Male,Historical fit,54.186901123290966,55.08433906353407,55.961026401839
+Main model (regularised baseline),Maharashtra,1981,Male,Historical fit,57.99424127751149,58.88118681668924,59.725015822712336
+Main model (regularised baseline),Maharashtra,1991,Male,Historical fit,61.37850977638735,62.26903259013436,63.14247743775843
+Main model (regularised baseline),Maharashtra,1996,Male,Historical fit,63.99074777209036,64.9077376499183,65.81310937925439
+Main model (regularised baseline),Maharashtra,2001,Male,Historical fit,65.00004368001768,65.86673863219227,66.77152216761394
+Main model (regularised baseline),Maharashtra,2006,Male,Historical fit,67.34950282107792,68.22490843328885,69.10399337987543
+Main model (regularised baseline),Maharashtra,2009,Male,Historical fit,68.54085614614763,69.38246240632407,70.23858783983452
+Main model (regularised baseline),Maharashtra,2011,Male,Historical fit,68.52783592096235,69.40718909080326,70.19468818655862
+Main model (regularised baseline),Maharashtra,2012,Male,Historical fit,69.19434456857175,69.9994475326688,70.78289753761598
+Main model (regularised baseline),Maharashtra,2013,Male,Historical fit,69.54041289321026,70.33645138747454,71.13398823142822
+Main model (regularised baseline),Maharashtra,2014,Male,Historical fit,69.87509170619425,70.60117352902986,71.38374758607038
+Main model (regularised baseline),Maharashtra,2015,Male,Historical fit,70.44341361434374,71.22622736319289,71.97797304580168
+Main model (regularised baseline),Maharashtra,2016,Male,Historical fit,70.50814162727525,71.25997750313739,72.05565477188813
+Main model (regularised baseline),Maharashtra,2017,Male,Historical fit,70.86124015530851,71.64602297213483,72.46718922317999
+Main model (regularised baseline),Maharashtra,2018,Male,Historical fit,70.78321249263067,71.61261293804787,72.40323431201546
+Main model (regularised baseline),Maharashtra,2019,Male,Historical fit,70.93752727936615,71.73068718719429,72.50518805732078
+Main model (regularised baseline),Maharashtra,2020,Male,Historical fit,70.5458806773484,71.32042511998458,72.13237542931584
+Main model (regularised baseline),Maharashtra,2021,Male,Historical fit,67.44731178498259,68.23632877795131,69.05511946601702
+Main model (regularised baseline),Maharashtra,2022,Male,Historical fit,69.17641587260978,69.96840546664191,70.79381152619821
+Main model (regularised baseline),Maharashtra,2023,Male,Historical fit,71.1025691119592,71.90284615987159,72.73531546353541
+Main model (regularised baseline),Maharashtra,2024,Male,Historical fit,71.7852017219584,72.60991936062995,73.35320209638587
+Main model (regularised baseline),Odisha,1971,Female,Historical fit,46.611135649921984,46.611135649921984,46.611135649921984
+Main model (regularised baseline),Odisha,1976,Female,Historical fit,45.63724226543305,46.537141143314756,47.432785074146786
+Main model (regularised baseline),Odisha,1981,Female,Historical fit,51.33780044088413,52.27394383521687,53.177723447305624
+Main model (regularised baseline),Odisha,1986,Female,Historical fit,50.82766764503585,51.709370354815675,52.66766637685716
+Main model (regularised baseline),Odisha,1991,Female,Historical fit,53.166369696814165,54.10382149903536,54.98327073398035
+Main model (regularised baseline),Odisha,1996,Female,Historical fit,57.84979381163125,58.78781916657411,59.661343019846754
+Main model (regularised baseline),Odisha,2001,Female,Historical fit,60.420602966255544,61.374026842149256,62.23096383212295
+Main model (regularised baseline),Odisha,2006,Female,Historical fit,62.88673965505262,63.76280698094595,64.61943585140389
+Main model (regularised baseline),Odisha,2009,Female,Historical fit,65.034014080267,65.90672547663358,66.79585515820602
+Main model (regularised baseline),Odisha,2011,Female,Historical fit,65.28010232399603,66.12770935760929,67.00560382716965
+Main model (regularised baseline),Odisha,2012,Female,Historical fit,65.66293601637344,66.5225412881193,67.33107264426668
+Main model (regularised baseline),Odisha,2013,Female,Historical fit,65.79143661215959,66.63800434145753,67.53531905092571
+Main model (regularised baseline),Odisha,2014,Female,Historical fit,68.12271940192672,68.87648505820238,69.67307969068337
+Main model (regularised baseline),Odisha,2015,Female,Historical fit,68.6097195112621,69.45568823638686,70.30169300673467
+Main model (regularised baseline),Odisha,2016,Female,Historical fit,68.72704602172837,69.53502074453235,70.34208212844175
+Main model (regularised baseline),Odisha,2017,Female,Historical fit,69.13249790757537,69.94300847260048,70.83670503991208
+Main model (regularised baseline),Odisha,2018,Female,Historical fit,69.78095164005956,70.68313092744768,71.55749013452102
+Main model (regularised baseline),Odisha,2019,Female,Historical fit,70.53991951979445,71.41775205156137,72.21522335383528
+Main model (regularised baseline),Odisha,2020,Female,Historical fit,70.48634395024983,71.35915624279887,72.22654074413224
+Main model (regularised baseline),Odisha,2021,Female,Historical fit,69.18638005011674,69.98340434000556,70.8318913059329
+Main model (regularised baseline),Odisha,2022,Female,Historical fit,70.24709082274423,71.05966758608596,71.86407481961768
+Main model (regularised baseline),Odisha,2023,Female,Historical fit,71.22886881678627,72.04718246533437,72.84662511937955
+Main model (regularised baseline),Odisha,2024,Female,Historical fit,71.11841364072272,72.01847881939942,72.83884435536311
+Main model (regularised baseline),Odisha,1971,Male,Historical fit,48.46105342671475,48.46105342671475,48.46105342671475
+Main model (regularised baseline),Odisha,1976,Male,Historical fit,46.81374437638513,47.72737518483322,48.597119037197366
+Main model (regularised baseline),Odisha,1981,Male,Historical fit,51.70709824875273,52.590805321727785,53.5118038006391
+Main model (regularised baseline),Odisha,1986,Male,Historical fit,51.65767118632685,52.57702292388922,53.408514951559035
+Main model (regularised baseline),Odisha,1991,Male,Historical fit,52.117230614707196,53.018799602638765,53.94393530001028
+Main model (regularised baseline),Odisha,1996,Male,Historical fit,56.00496635438822,56.87455740425167,57.75100840711335
+Main model (regularised baseline),Odisha,2001,Male,Historical fit,57.80305684717028,58.69810337430583,59.5598655871855
+Main model (regularised baseline),Odisha,2006,Male,Historical fit,60.4648749148235,61.31364235941241,62.20354349213339
+Main model (regularised baseline),Odisha,2009,Male,Historical fit,62.769212927247054,63.63515169944529,64.490127389139
+Main model (regularised baseline),Odisha,2011,Male,Historical fit,63.5467212439832,64.37620573399454,65.2045679580527
+Main model (regularised baseline),Odisha,2012,Male,Historical fit,63.2727040716168,64.06576373770724,64.84934001419332
+Main model (regularised baseline),Odisha,2013,Male,Historical fit,63.648217446231016,64.50616038443329,65.29348781545558
+Main model (regularised baseline),Odisha,2014,Male,Historical fit,65.1616996322489,65.92967900563124,66.71456188287573
+Main model (regularised baseline),Odisha,2015,Male,Historical fit,65.4102778961289,66.20750560221191,67.01834383280752
+Main model (regularised baseline),Odisha,2016,Male,Historical fit,66.05040188682943,66.78372027542632,67.57835335049398
+Main model (regularised baseline),Odisha,2017,Male,Historical fit,66.65243109792279,67.43402196850474,68.24438189999103
+Main model (regularised baseline),Odisha,2018,Male,Historical fit,67.48733719419445,68.26151986819514,69.06645552156256
+Main model (regularised baseline),Odisha,2019,Male,Historical fit,67.79045734755918,68.60121629251401,69.37514909877012
+Main model (regularised baseline),Odisha,2020,Male,Historical fit,67.95584851857822,68.72145035271907,69.51305962198049
+Main model (regularised baseline),Odisha,2021,Male,Historical fit,65.88185626796059,66.6743411808581,67.46322061140077
+Main model (regularised baseline),Odisha,2022,Male,Historical fit,67.74041490358532,68.56902956688805,69.34682535830964
+Main model (regularised baseline),Odisha,2023,Male,Historical fit,68.73888205461398,69.47197215178565,70.22893307953407
+Main model (regularised baseline),Odisha,2024,Male,Historical fit,68.338996484564,69.13665822917432,69.94965725278449
+Main model (regularised baseline),Punjab,1971,Female,Historical fit,56.57690075568382,56.57690075568382,56.57690075568382
+Main model (regularised baseline),Punjab,1976,Female,Historical fit,57.233677981697156,58.17763673400594,59.052731238544226
+Main model (regularised baseline),Punjab,1981,Female,Historical fit,61.963527430333244,62.91761927203294,63.798484226467004
+Main model (regularised baseline),Punjab,1986,Female,Historical fit,64.01569824062678,64.91093635121129,65.82944889260561
+Main model (regularised baseline),Punjab,1991,Female,Historical fit,67.88183578828468,68.83613441834676,69.72938396094702
+Main model (regularised baseline),Punjab,1996,Female,Historical fit,69.50221429535321,70.37243119248663,71.29440254385062
+Main model (regularised baseline),Punjab,2001,Female,Historical fit,71.19570726956736,72.19819737040987,73.05081916502742
+Main model (regularised baseline),Punjab,2006,Female,Historical fit,72.17387732286343,73.0397130153109,73.94046781002822
+Main model (regularised baseline),Punjab,2009,Female,Historical fit,72.48585507156352,73.41208062268811,74.26092367177105
+Main model (regularised baseline),Punjab,2011,Female,Historical fit,72.88312677509337,73.7689747609279,74.70232657317496
+Main model (regularised baseline),Punjab,2012,Female,Historical fit,73.06671919092574,73.89931354353982,74.7660607527578
+Main model (regularised baseline),Punjab,2013,Female,Historical fit,73.51762116880138,74.36840054645924,75.18065054141563
+Main model (regularised baseline),Punjab,2014,Female,Historical fit,73.82094507917466,74.63546087723792,75.5003798235536
+Main model (regularised baseline),Punjab,2015,Female,Historical fit,74.1537266059798,74.96614586188484,75.83691165751276
+Main model (regularised baseline),Punjab,2016,Female,Historical fit,75.29092683910575,76.12463588330739,76.9370133902528
+Main model (regularised baseline),Punjab,2017,Female,Historical fit,73.07059418209147,73.9035758714358,74.75975351459324
+Main model (regularised baseline),Punjab,2018,Female,Historical fit,73.61845209164059,74.452522056086,75.2977971043685
+Main model (regularised baseline),Punjab,2019,Female,Historical fit,73.42191448209238,74.28433365694141,75.11358496092737
+Main model (regularised baseline),Punjab,2020,Female,Historical fit,72.53538591100678,73.35414406865226,74.20672797386429
+Main model (regularised baseline),Punjab,2021,Female,Historical fit,70.64725490796374,71.45836808848526,72.3005603180676
+Main model (regularised baseline),Punjab,2022,Female,Historical fit,71.7033580104608,72.54119302234693,73.37247563359834
+Main model (regularised baseline),Punjab,2023,Female,Historical fit,74.1431785873756,74.991022500708155,75.8636943959593
+Main model (regularised baseline),Punjab,2024,Female,Historical fit,74.53967459132336,75.30694861611039,76.13866834971935
+Main model (regularised baseline),Punjab,1971,Male,Historical fit,60.72264668909984,60.72264668909984,60.72264668909984
+Main model (regularised baseline),Punjab,1976,Male,Historical fit,60.053531316611085,60.92369095189183,61.77910181227554
+Main model (regularised baseline),Punjab,1981,Male,Historical fit,60.24964760737822,61.12588351129248,62.0128573258703
+Main model (regularised baseline),Punjab,1986,Male,Historical fit,62.318123548145266,63.127443938037075,64.04015077043212
+Main model (regularised baseline),Punjab,1991,Male,Historical fit,62.61614709133878,63.481375227640555,64.39046063739404
+Main model (regularised baseline),Punjab,1996,Male,Historical fit,64.60278920572863,65.44587796112518,66.31213525639576
+Main model (regularised baseline),Punjab,2001,Male,Historical fit,66.72888278212328,67.63386928604312,68.5547678063206
+Main model (regularised baseline),Punjab,2006,Male,Historical fit,67.76892339589577,68.66148657813156,69.53510003832288
+Main model (regularised baseline),Punjab,2009,Male,Historical fit,68.28014864059027,69.09659034280065,69.9598877883592
+Main model (regularised baseline),Punjab,2011,Male,Historical fit,67.8403526905399,68.7125549154247,69.52270689523635
+Main model (regularised baseline),Punjab,2012,Male,Historical fit,68.1236336762816,68.90666073781057,69.77102667505383
+Main model (regularised baseline),Punjab,2013,Male,Historical fit,69.44490016989104,70.27866019170911,71.05017551588442
+Main model (regularised baseline),Punjab,2014,Male,Historical fit,70.00596644466032,70.84929528752251,71.67596560547071
+Main model (regularised baseline),Punjab,2015,Male,Historical fit,70.63851801876656,71.46281726689381,72.23738803745076
+Main model (regularised baseline),Punjab,2016,Male,Historical fit,71.35866782348768,72.11032102955335,72.9062690507112
+Main model (regularised baseline),Punjab,2017,Male,Historical fit,69.1174877754402,69.88259255734195,70.71291049450589
+Main model (regularised baseline),Punjab,2018,Male,Historical fit,69.1794387354229,69.96312424313507,70.77979169818285
+Main model (regularised baseline),Punjab,2019,Male,Historical fit,69.31196017348822,70.14375473375357,70.92519408081799
+Main model (regularised baseline),Punjab,2020,Male,Historical fit,68.24744377574994,69.02156593280345,69.86778220365188
+Main model (regularised baseline),Punjab,2021,Male,Historical fit,65.78400716962348,66.54922453525461,67.34388285742024
+Main model (regularised baseline),Punjab,2022,Male,Historical fit,66.68797653742487,67.5056242870937,68.36214755592886
+Main model (regularised baseline),Punjab,2023,Male,Historical fit,68.79176479638654,69.57239636862829,70.361524355274355
+Main model (regularised baseline),Punjab,2024,Male,Historical fit,69.72975902267436,70.53624999727856,71.37811189729605
+Main model (regularised baseline),Rajasthan,1971,Female,Historical fit,49.2,49.2,49.2
+Main model (regularised baseline),Rajasthan,1976,Female,Historical fit,48.34898371225131,49.20739315503475,50.06494172845882
+Main model (regularised baseline),Rajasthan,1981,Female,Historical fit,49.670740810671155,50.59129873578513,51.498152618348264
+Main model (regularised baseline),Rajasthan,1986,Female,Historical fit,55.8309695409416,56.76671492992857,57.69995073697956
+Main model (regularised baseline),Rajasthan,1991,Female,Historical fit,58.37182972166704,59.29957005331475,60.18904165031042
+Main model (regularised baseline),Rajasthan,1996,Female,Historical fit,60.67732419499752,61.62495434680669,62.469395527735145
+Main model (regularised baseline),Rajasthan,2001,Female,Historical fit,66.89856690544761,67.82127932563728,68.68124963910297
+Main model (regularised baseline),Rajasthan,2006,Female,Historical fit,68.98185790823358,69.92105489716437,70.81545475829417
+Main model (regularised baseline),Rajasthan,2009,Female,Historical fit,69.11724485224497,70.06883944216297,70.97643668709215
+Main model (regularised baseline),Rajasthan,2011,Female,Historical fit,69.35475566003768,70.15136768188387,71.05256614174994
+Main model (regularised baseline),Rajasthan,2012,Female,Historical fit,69.35321603918806,70.18722684356399,70.98814132053917
+Main model (regularised baseline),Rajasthan,2013,Female,Historical fit,69.49730871007698,70.31624450237436,71.09479731058855
+Main model (regularised baseline),Rajasthan,2014,Female,Historical fit,69.7067785381108,70.50587795805242,71.32695460408996
+Main model (regularised baseline),Rajasthan,2015,Female,Historical fit,69.76170049511195,70.61061380313849,71.44568611867399
+Main model (regularised baseline),Rajasthan,2016,Female,Historical fit,70.46147843711897,71.30412009200461,72.14358764000879
+Main model (regularised baseline),Rajasthan,2017,Female,Historical fit,70.96835147713982,71.73555671031656,72.58815560451643
+Main model (regularised baseline),Rajasthan,2018,Female,Historical fit,70.90089456523576,71.69983637988874,72.49229054670884
+Main model (regularised baseline),Rajasthan,2019,Female,Historical fit,71.29280274468913,72.0783799121502,72.94890962189248
+Main model (regularised baseline),Rajasthan,2020,Female,Historical fit,71.78252529776789,72.60871789462267,73.461000079168
+Main model (regularised baseline),Rajasthan,2021,Female,Historical fit,71.41164123086165,72.2742415601424,73.16058045717699
+Main model (regularised baseline),Rajasthan,2022,Female,Historical fit,73.15521493613632,74.10691381826058,74.93141438534347
+Main model (regularised baseline),Rajasthan,2023,Female,Historical fit,74.87774620028726,75.74441541163637,76.59699277462653
+Main model (regularised baseline),Rajasthan,2024,Female,Historical fit,75.10213730200977,75.93236617204721,76.74196285641138
+Main model (regularised baseline),Rajasthan,1971,Male,Historical fit,49.2,49.2,49.2
+Main model (regularised baseline),Rajasthan,1976,Male,Historical fit,48.0636166916777,48.96604403960211,49.93721168080605
+Main model (regularised baseline),Rajasthan,1981,Male,Historical fit,49.01570122717577,49.92198936894424,50.78320874853309
+Main model (regularised baseline),Rajasthan,1986,Male,Historical fit,53.47589640309421,54.33109397092217,55.141981226332504
+Main model (regularised baseline),Rajasthan,1991,Male,Historical fit,56.391444944745814,57.2515707897856,58.145216748143696
+Main model (regularised baseline),Rajasthan,1996,Male,Historical fit,58.603881423667886,59.512065736928065,60.404139975121595
+Main model (regularised baseline),Rajasthan,2001,Male,Historical fit,61.90894634460772,62.77656897336976,63.65213204573957
+Main model (regularised baseline),Rajasthan,2006,Male,Historical fit,63.93971696640046,64.89047526246492,65.75081302576447
+Main model (regularised baseline),Rajasthan,2009,Male,Historical fit,64.51253093879247,65.3812128295738,66.21617556951205
+Main model (regularised baseline),Rajasthan,2011,Male,Historical fit,64.57646665646693,65.38633524638732,66.21653919825273
+Main model (regularised baseline),Rajasthan,2012,Male,Historical fit,64.63333856697817,65.39589067843376,66.14428979005672
+Main model (regularised baseline),Rajasthan,2013,Male,Historical fit,64.98276103477214,65.70666010627463,66.48296659928809
+Main model (regularised baseline),Rajasthan,2014,Male,Historical fit,64.95335531701147,65.76096319648224,66.53261350051062
+Main model (regularised baseline),Rajasthan,2015,Male,Historical fit,65.17092595617875,65.98401793199673,66.77975747897713
+Main model (regularised baseline),Rajasthan,2016,Male,Historical fit,65.63527519576154,66.41109325414267,67.21775458679
+Main model (regularised baseline),Rajasthan,2017,Male,Historical fit,65.80797672848617,66.57674121047307,67.35242591694477
+Main model (regularised baseline),Rajasthan,2018,Male,Historical fit,65.97944664981377,66.76139137727716,67.48234929658783
+Main model (regularised baseline),Rajasthan,2019,Male,Historical fit,66.26689009865018,67.09254262201814,67.93746104824226
+Main model (regularised baseline),Rajasthan,2020,Male,Historical fit,66.32690972580288,67.08436131242635,67.87372715996824
+Main model (regularised baseline),Rajasthan,2021,Male,Historical fit,65.18632108940497,66.04948365110698,66.84289330625191
+Main model (regularised baseline),Rajasthan,2022,Male,Historical fit,66.58890000383614,67.34224894471595,68.12683029051242
+Main model (regularised baseline),Rajasthan,2023,Male,Historical fit,68.47745621643907,69.29882899759201,70.05125901124546
+Main model (regularised baseline),Rajasthan,2024,Male,Historical fit,69.29917867175335,70.07210014910436,70.8777125444264
+Main model (regularised baseline),Tamil Nadu,1971,Female,Historical fit,51.39046883376432,51.39046883376432,51.39046883376432
+Main model (regularised baseline),Tamil Nadu,1976,Female,Historical fit,49.175426580534484,50.06969832117615,50.98735511321418
+Main model (regularised baseline),Tamil Nadu,1981,Female,Historical fit,54.1028662659974,55.04161493055541,55.94327140958532
+Main model (regularised baseline),Tamil Nadu,1986,Female,Historical fit,58.43264257001474,59.3483640588454,60.27168348759877
+Main model (regularised baseline),Tamil Nadu,1991,Female,Historical fit,62.6837789170215,63.64107044304038,64.54677176743132
+Main model (regularised baseline),Tamil Nadu,1996,Female,Historical fit,65.04034979271738,65.94053508073578,66.85472811326596
+Main model (regularised baseline),Tamil Nadu,2001,Female,Historical fit,68.1914869453039,69.11940877401307,70.06940753692764
+Main model (regularised baseline),Tamil Nadu,2006,Female,Historical fit,70.70209325344189,71.57454386347669,72.40753650255942
+Main model (regularised baseline),Tamil Nadu,2009,Female,Historical fit,71.4316857936437,72.32444419877484,73.19741777885122
+Main model (regularised baseline),Tamil Nadu,2011,Female,Historical fit,72.04466029939752,72.88982021066997,73.73509146501623
+Main model (regularised baseline),Tamil Nadu,2012,Female,Historical fit,72.12588177267602,72.90999699438888,73.77753867068279
+Main model (regularised baseline),Tamil Nadu,2013,Female,Historical fit,72.46797657335,73.28372561532146,74.10014349542911
+Main model (regularised baseline),Tamil Nadu,2014,Female,Historical fit,72.76896702684454,73.57822632481319,74.42462102631337
+Main model (regularised baseline),Tamil Nadu,2015,Female,Historical fit,72.8320493273355,73.63905589770229,74.45393782206851
+Main model (regularised baseline),Tamil Nadu,2016,Female,Historical fit,73.59888482780424,74.45170025162197,75.26024904480975
+Main model (regularised baseline),Tamil Nadu,2017,Female,Historical fit,73.52438916843744,74.31993973233014,75.17071788480216
+Main model (regularised baseline),Tamil Nadu,2018,Female,Historical fit,74.47416999416838,75.3241849534636,76.19363238156312
+Main model (regularised baseline),Tamil Nadu,2019,Female,Historical fit,75.80441907433774,76.6369268246302,77.51831815576328
+Main model (regularised baseline),Tamil Nadu,2020,Female,Historical fit,76.16786214588893,77.0060288449445,77.85457167673336
+Main model (regularised baseline),Tamil Nadu,2021,Female,Historical fit,73.78612799855759,74.63587907077388,75.48006010798336
+Main model (regularised baseline),Tamil Nadu,2022,Female,Historical fit,74.75360012730418,75.60271145972135,76.42678180234395
+Main model (regularised baseline),Tamil Nadu,2023,Female,Historical fit,76.43338197779407,77.27085437866226,78.10579183427642
+Main model (regularised baseline),Tamil Nadu,2024,Female,Historical fit,76.97218423889248,77.82853159165612,78.64423965628221
+Main model (regularised baseline),Tamil Nadu,1971,Male,Historical fit,50.015743211513254,50.015743211513254,50.015743211513254
+Main model (regularised baseline),Tamil Nadu,1976,Male,Historical fit,48.72991339283886,49.61032898476361,50.5241148751433
+Main model (regularised baseline),Tamil Nadu,1981,Male,Historical fit,53.58942584251611,54.459071639918214,55.33165729601227
+Main model (regularised baseline),Tamil Nadu,1986,Male,Historical fit,57.84995432038764,58.78863016264647,59.64185546968072
+Main model (regularised baseline),Tamil Nadu,1991,Male,Historical fit,59.41513311302759,60.29686646583585,61.15382664115258
+Main model (regularised baseline),Tamil Nadu,1996,Male,Historical fit,62.87924666335267,63.76537322489963,64.64303506233466
+Main model (regularised baseline),Tamil Nadu,2001,Male,Historical fit,64.57259326268668,65.46572827285958,66.35706294014467
+Main model (regularised baseline),Tamil Nadu,2006,Male,Historical fit,66.08568552989664,66.94807688707445,67.84347497494049
+Main model (regularised baseline),Tamil Nadu,2009,Male,Historical fit,67.2434096780314,68.14519549995427,69.06375673471655
+Main model (regularised baseline),Tamil Nadu,2011,Male,Historical fit,67.6386279273364,68.49048791084422,69.2990230937885
+Main model (regularised baseline),Tamil Nadu,2012,Male,Historical fit,67.61894405164661,68.41172735104766,69.20980035562627
+Main model (regularised baseline),Tamil Nadu,2013,Male,Historical fit,68.0206044637158,68.82048197506762,69.62015842039409
+Main model (regularised baseline),Tamil Nadu,2014,Male,Historical fit,68.93941770093421,69.73744184426329,70.53456437935817
+Main model (regularised baseline),Tamil Nadu,2015,Male,Historical fit,69.08064034906683,69.85796770863638,70.67006624793824
+Main model (regularised baseline),Tamil Nadu,2016,Male,Historical fit,69.60245982243072,70.39943867588026,71.21489264057223
+Main model (regularised baseline),Tamil Nadu,2017,Male,Historical fit,69.5765551795522,70.3832832082418,71.13561319862232
+Main model (regularised baseline),Tamil Nadu,2018,Male,Historical fit,70.25817652322108,71.11105544909161,71.86645900261345
+Main model (regularised baseline),Tamil Nadu,2019,Male,Historical fit,71.16650107901424,71.97580077968135,72.77957502673628
+Main model (regularised baseline),Tamil Nadu,2020,Male,Historical fit,71.53288715067652,72.32608109171827,73.13507759555617
+Main model (regularised baseline),Tamil Nadu,2021,Male,Historical fit,68.68661401635077,69.53158308030737,70.31953191993708
+Main model (regularised baseline),Tamil Nadu,2022,Male,Historical fit,70.72176104240278,71.5296541142616,72.34826920481746
+Main model (regularised baseline),Tamil Nadu,2023,Male,Historical fit,72.98033953476082,73.89951225695597,74.6989293729793
+Main model (regularised baseline),Tamil Nadu,2024,Male,Historical fit,73.52724500680375,74.3195631861858,75.07609395326918
+Main model (regularised baseline),Telangana,2014,Female,Historical fit,69.90341215342906,69.90341215342906,69.90341215342906
+Main model (regularised baseline),Telangana,2015,Female,Historical fit,69.3406457002857,70.13524218853547,70.946068091397
+Main model (regularised baseline),Telangana,2016,Female,Historical fit,70.3509653760109,71.17990191741495,71.93540498610474
+Main model (regularised baseline),Telangana,2017,Female,Historical fit,69.33586508800052,70.19110244744806,71.00341856888089
+Main model (regularised baseline),Telangana,2018,Female,Historical fit,69.76586876778546,70.61094808344106,71.42850548412149
+Main model (regularised baseline),Telangana,2019,Female,Historical fit,70.531034061974,71.36454139788331,72.21942164713904
+Main model (regularised baseline),Telangana,2020,Female,Historical fit,70.84625401884786,71.66269292197654,72.52612459067323
+Main model (regularised baseline),Telangana,2021,Female,Historical fit,72.51266647107123,73.35436708776916,74.18751526902027
+Main model (regularised baseline),Telangana,2022,Female,Historical fit,72.79043124585576,73.60802063024906,74.4518930394105
+Main model (regularised baseline),Telangana,2023,Female,Historical fit,73.59380538901164,74.41935474697743,75.26904174657565
+Main model (regularised baseline),Telangana,2024,Female,Historical fit,73.64128680269792,74.42353676725489,75.2726907662367
+Main model (regularised baseline),Telangana,2014,Male,Historical fit,67.99624546848396,67.99624546848396,67.99624546848396
+Main model (regularised baseline),Telangana,2015,Male,Historical fit,67.32791386695293,68.04477748471689,68.7724187123116
+Main model (regularised baseline),Telangana,2016,Male,Historical fit,67.65630424883626,68.44098000477058,69.22353536819074
+Main model (regularised baseline),Telangana,2017,Male,Historical fit,66.95050990484694,67.73989517383762,68.51138507466835
+Main model (regularised baseline),Telangana,2018,Male,Historical fit,67.14136124853312,67.92687502734296,68.65902449835122
+Main model (regularised baseline),Telangana,2019,Male,Historical fit,67.59910739744399,68.38238000817154,69.19358768841843
+Main model (regularised baseline),Telangana,2020,Male,Historical fit,67.69924761882854,68.49151487233829,69.34859504978759
+Main model (regularised baseline),Telangana,2021,Male,Historical fit,66.92137474761779,67.74502656458691,68.58438556099055
+Main model (regularised baseline),Telangana,2022,Male,Historical fit,67.11375925800614,67.93244097293993,68.73053846239156
+Main model (regularised baseline),Telangana,2023,Male,Historical fit,68.62362857205902,69.36174089856414,70.1334490838408
+Main model (regularised baseline),Telangana,2024,Male,Historical fit,68.35702148123876,69.16733919087869,69.9580052715169
+Main model (regularised baseline),Uttar Pradesh,1971,Female,Historical fit,40.025605215308296,40.025605215308296,40.025605215308296
+Main model (regularised baseline),Uttar Pradesh,1976,Female,Historical fit,37.603059959685886,38.487864885663036,39.39941414320101
+Main model (regularised baseline),Uttar Pradesh,1981,Female,Historical fit,46.24009587486766,47.12576985916358,48.063895417876076
+Main model (regularised baseline),Uttar Pradesh,1986,Female,Historical fit,48.57905713586821,49.49681583309477,50.34968769451844
+Main model (regularised baseline),Uttar Pradesh,1991,Female,Historical fit,55.04432753204626,55.973802751998385,56.851958548774206
+Main model (regularised baseline),Uttar Pradesh,1996,Female,Historical fit,57.81564846602153,58.73681325194222,59.61538342742537
+Main model (regularised baseline),Uttar Pradesh,2001,Female,Historical fit,60.15659249181627,61.06633632206068,61.96378453735524
+Main model (regularised baseline),Uttar Pradesh,2006,Female,Historical fit,62.766176946837945,63.61492847342482,64.53274894584214
+Main model (regularised baseline),Uttar Pradesh,2009,Female,Historical fit,64.23391449839417,65.10944122018603,66.01435102515025
+Main model (regularised baseline),Uttar Pradesh,2011,Female,Historical fit,65.00942060443283,65.9402343230968,66.85322891780352
+Main model (regularised baseline),Uttar Pradesh,2012,Female,Historical fit,65.43075786327331,66.25776286076305,67.08402183958961
+Main model (regularised baseline),Uttar Pradesh,2013,Female,Historical fit,64.98219920230187,65.8370677899338,66.61788621675677
+Main model (regularised baseline),Uttar Pradesh,2014,Female,Historical fit,65.14711985290809,65.91839898641567,66.76933734496492
+Main model (regularised baseline),Uttar Pradesh,2015,Female,Historical fit,65.0014973343358,65.85019525941698,66.71524740403923
+Main model (regularised baseline),Uttar Pradesh,2016,Female,Historical fit,65.71407343524868,66.52791952515872,67.33175404884585
+Main model (regularised baseline),Uttar Pradesh,2017,Female,Historical fit,65.88717482104524,66.69408504404254,67.58049572428688
+Main model (regularised baseline),Uttar Pradesh,2018,Female,Historical fit,66.20504715102489,67.0037435540076,67.84229408684227
+Main model (regularised baseline),Uttar Pradesh,2019,Female,Historical fit,66.63082366051178,67.44736328630023,68.2861448047637
+Main model (regularised baseline),Uttar Pradesh,2020,Female,Historical fit,66.77673952694744,67.59247159003175,68.44602731810092
+Main model (regularised baseline),Uttar Pradesh,2021,Female,Historical fit,68.16128700369073,69.02038390528003,69.89000058349549
+Main model (regularised baseline),Uttar Pradesh,2022,Female,Historical fit,69.41403984995738,70.25380335854081,71.07601135894805
+Main model (regularised baseline),Uttar Pradesh,2023,Female,Historical fit,70.57693899627915,71.37248401171402,72.17294203034368
+Main model (regularised baseline),Uttar Pradesh,2024,Female,Historical fit,71.26518895144163,72.08218365079536,72.90587828565536
+Main model (regularised baseline),Uttar Pradesh,1971,Male,Historical fit,45.2269362436115,45.2269362436115,45.2269362436115
+Main model (regularised baseline),Uttar Pradesh,1976,Male,Historical fit,44.44610210038018,45.295891854789616,46.155395438268016
+Main model (regularised baseline),Uttar Pradesh,1981,Male,Historical fit,48.78512605517567,49.63594536121093,50.502603723134115
+Main model (regularised baseline),Uttar Pradesh,1986,Male,Historical fit,49.84794416024064,50.75922010508266,51.644698313118724
+Main model (regularised baseline),Uttar Pradesh,1991,Male,Historical fit,56.07968019432694,57.019691416752046,57.87388960864544
+Main model (regularised baseline),Uttar Pradesh,1996,Male,Historical fit,58.65409707802351,59.485957330852244,60.354041596774564
+Main model (regularised baseline),Uttar Pradesh,2001,Male,Historical fit,59.8330265955244,60.64711578686136,61.50878698215587
+Main model (regularised baseline),Uttar Pradesh,2006,Male,Historical fit,61.03446346777747,61.92348990107787,62.782979321136594
+Main model (regularised baseline),Uttar Pradesh,2009,Male,Historical fit,61.74662142815424,62.59768440202444,63.45931981647414
+Main model (regularised baseline),Uttar Pradesh,2011,Male,Historical fit,61.73880078848592,62.54033329977075,63.379437485877
+Main model (regularised baseline),Uttar Pradesh,2012,Male,Historical fit,61.98332110473122,62.73331463492083,63.55145724724977
+Main model (regularised baseline),Uttar Pradesh,2013,Male,Historical fit,62.09160088676927,62.87617988387883,63.665535979137836
+Main model (regularised baseline),Uttar Pradesh,2014,Male,Historical fit,63.36883958706528,64.15178446232534,64.90316308205033
+Main model (regularised baseline),Uttar Pradesh,2015,Male,Historical fit,63.735012047651864,64.54333589610482,65.36602650298622
+Main model (regularised baseline),Uttar Pradesh,2016,Male,Historical fit,64.07721975741711,64.91230719326012,65.77078525384869
+Main model (regularised baseline),Uttar Pradesh,2017,Male,Historical fit,64.30616543784451,65.11883588255829,65.90708291326249
+Main model (regularised baseline),Uttar Pradesh,2018,Male,Historical fit,64.5447813187761,65.35275492436081,66.14385879742144
+Main model (regularised baseline),Uttar Pradesh,2019,Male,Historical fit,64.81397153334288,65.64505742107704,66.39108750043955
+Main model (regularised baseline),Uttar Pradesh,2020,Male,Historical fit,64.67064315613393,65.52666349108219,66.31992421322533
+Main model (regularised baseline),Uttar Pradesh,2021,Male,Historical fit,63.90738787506195,64.69202275474737,65.46839829865047
+Main model (regularised baseline),Uttar Pradesh,2022,Male,Historical fit,65.3971467870313,66.1224588947163,66.96331418499625
+Main model (regularised baseline),Uttar Pradesh,2023,Male,Historical fit,66.80476298661975,67.61158180800692,68.40043332373017
+Main model (regularised baseline),Uttar Pradesh,2024,Male,Historical fit,67.4646162717176,68.28575177103284,69.08384954043999
+Main model (regularised baseline),Uttarakhand,2014,Female,Historical fit,75.62475944963583,75.62475944963583,75.62475944963583
+Main model (regularised baseline),Uttarakhand,2015,Female,Historical fit,72.89008290195915,73.69910776410323,74.51938878628624
+Main model (regularised baseline),Uttarakhand,2016,Female,Historical fit,72.45829651020361,73.28609523197409,74.1740106796334
+Main model (regularised baseline),Uttarakhand,2017,Female,Historical fit,72.13299166299521,72.93511494228456,73.7692613065541
+Main model (regularised baseline),Uttarakhand,2018,Female,Historical fit,72.8942598453452,73.74951945411149,74.5866906106364
+Main model (regularised baseline),Uttarakhand,2019,Female,Historical fit,72.88344587108105,73.74054631482812,74.54190763188686
+Main model (regularised baseline),Uttarakhand,2020,Female,Historical fit,72.41213217498441,73.29633172092122,74.1677095274569
+Main model (regularised baseline),Uttarakhand,2021,Female,Historical fit,72.39316993872859,73.3002904159271,74.0838145357656
+Main model (regularised baseline),Uttarakhand,2022,Female,Historical fit,73.87427427569368,74.69370765540008,75.50648874201404
+Main model (regularised baseline),Uttarakhand,2023,Female,Historical fit,75.59009888963723,76.38830900167017,77.22018372455645
+Main model (regularised baseline),Uttarakhand,2024,Female,Historical fit,75.7888483923892,76.59911615794864,77.3938260748474
+Main model (regularised baseline),Uttarakhand,2014,Male,Historical fit,69.11049021363779,69.11049021363779,69.11049021363779
+Main model (regularised baseline),Uttarakhand,2015,Male,Historical fit,67.13883913864612,67.88349285189847,68.59955076370385
+Main model (regularised baseline),Uttarakhand,2016,Male,Historical fit,66.04899112738944,66.83111742122531,67.64530784245306
+Main model (regularised baseline),Uttarakhand,2017,Male,Historical fit,65.7411450939633,66.55243761857376,67.30577330767747
+Main model (regularised baseline),Uttarakhand,2018,Male,Historical fit,66.9612804980351,67.74745833968353,68.52731031020772
+Main model (regularised baseline),Uttarakhand,2019,Male,Historical fit,66.91990185201891,67.71040676869592,68.53016252732327
+Main model (regularised baseline),Uttarakhand,2020,Male,Historical fit,66.78864679814086,67.56585041037607,68.40073545893118
+Main model (regularised baseline),Uttarakhand,2021,Male,Historical fit,65.46268739353266,66.26242482984537,67.08314497435704
+Main model (regularised baseline),Uttarakhand,2022,Male,Historical fit,67.17496835756933,68.02451945091829,68.7882953404366
+Main model (regularised baseline),Uttarakhand,2023,Male,Historical fit,68.6871386486214,69.49373993723597,70.28185594239596
+Main model (regularised baseline),Uttarakhand,2024,Male,Historical fit,69.58231831430288,70.33689464825812,71.11354672768961
+Main model (regularised baseline),West Bengal,1981,Female,Historical fit,55.9970671076597,55.9970671076597,55.9970671076597
+Main model (regularised baseline),West Bengal,1986,Female,Historical fit,59.450605655791804,60.35115499632295,61.26180688248808
+Main model (regularised baseline),West Bengal,1991,Female,Historical fit,61.46683964318925,62.40624055692324,63.26035955174804
+Main model (regularised baseline),West Bengal,1996,Female,Historical fit,63.427231689309224,64.2736526285029,65.17125982594041
+Main model (regularised baseline),West Bengal,2001,Female,Historical fit,67.43476857555848,68.37342198477947,69.26282590641661
+Main model (regularised baseline),West Bengal,2006,Female,Historical fit,70.35226775649433,71.26888330290052,72.16553085853036
+Main model (regularised baseline),West Bengal,2009,Female,Historical fit,70.76251975637729,71.66397190564749,72.53424635032513
+Main model (regularised baseline),West Bengal,2011,Female,Historical fit,70.99427665668311,71.83501169721058,72.66437740683668
+Main model (regularised baseline),West Bengal,2012,Female,Historical fit,70.60514682971568,71.44813364617526,72.28893935134413
+Main model (regularised baseline),West Bengal,2013,Female,Historical fit,70.56072955332674,71.41707984987835,72.28356158383947
+Main model (regularised baseline),West Bengal,2014,Female,Historical fit,71.24794947336333,72.11200171753758,72.9603949800495
+Main model (regularised baseline),West Bengal,2015,Female,Historical fit,71.784920631395,72.64638764205066,73.45775859183274
+Main model (regularised baseline),West Bengal,2016,Female,Historical fit,72.10184575777895,72.91663048551567,73.78524556339649
+Main model (regularised baseline),West Bengal,2017,Female,Historical fit,71.8371610780495,72.6622011496157,73.49266503025527
+Main model (regularised baseline),West Bengal,2018,Female,Historical fit,72.676614793243,73.52368863322732,74.31586820798415
+Main model (regularised baseline),West Bengal,2019,Female,Historical fit,73.81666555515591,74.6544502686886,75.50486789032716
+Main model (regularised baseline),West Bengal,2020,Female,Historical fit,73.60048378453183,74.51399939617383,75.40383845356872
+Main model (regularised baseline),West Bengal,2021,Female,Historical fit,71.93668543597948,72.79663656521583,73.64813392102374
+Main model (regularised baseline),West Bengal,2022,Female,Historical fit,73.10406505567114,73.90081942289099,74.75369933008177
+Main model (regularised baseline),West Bengal,2023,Female,Historical fit,74.40507949681198,75.27183438223156,76.08217378998452
+Main model (regularised baseline),West Bengal,2024,Female,Historical fit,74.32010648808641,75.19870577507047,76.02698693818094
+Main model (regularised baseline),West Bengal,1981,Male,Historical fit,54.29230997945578,54.29230997945578,54.29230997945578
+Main model (regularised baseline),West Bengal,1986,Male,Historical fit,57.52152095114042,58.32803877266125,59.23373671847692
+Main model (regularised baseline),West Bengal,1991,Male,Historical fit,60.19894472094421,61.10577107543592,61.9888233389355
+Main model (regularised baseline),West Bengal,1996,Male,Historical fit,61.00903236950365,61.87744318779925,62.75320202106639
+Main model (regularised baseline),West Bengal,2001,Male,Historical fit,64.46933571757859,65.35797972578008,66.23065036969348
+Main model (regularised baseline),West Bengal,2006,Male,Historical fit,66.60336846612026,67.52267238468214,68.40671355731818
+Main model (regularised baseline),West Bengal,2009,Male,Historical fit,67.53952840752717,68.41091582610142,69.27917100368717
+Main model (regularised baseline),West Bengal,2011,Male,Historical fit,67.93551615952309,68.80226768547358,69.6119550299803
+Main model (regularised baseline),West Bengal,2012,Male,Historical fit,67.710865005522,68.51458438777453,69.28292498263544
+Main model (regularised baseline),West Bengal,2013,Male,Historical fit,67.98140239901139,68.7974517122777,69.58463489869712
+Main model (regularised baseline),West Bengal,2014,Male,Historical fit,69.06482446982753,69.83458977717913,70.61759233930587
+Main model (regularised baseline),West Bengal,2015,Male,Historical fit,69.84221927628346,70.62020338696851,71.43501209132972
+Main model (regularised baseline),West Bengal,2016,Male,Historical fit,70.26834896001895,71.03113463976851,71.8506463180759
+Main model (regularised baseline),West Bengal,2017,Male,Historical fit,70.24648555152389,71.06179575383236,71.83401634528623
+Main model (regularised baseline),West Bengal,2018,Male,Historical fit,70.16298760743518,70.94366903120698,71.74652391318047
+Main model (regularised baseline),West Bengal,2019,Male,Historical fit,70.61148423235173,71.43409166090895,72.22941259321624
+Main model (regularised baseline),West Bengal,2020,Male,Historical fit,70.04591271828423,70.81589293321554,71.63709658376806
+Main model (regularised baseline),West Bengal,2021,Male,Historical fit,68.24683833629986,69.08294808288437,69.82420590913958
+Main model (regularised baseline),West Bengal,2022,Male,Historical fit,69.54652633936708,70.40317905529965,71.20887306375806
+Main model (regularised baseline),West Bengal,2023,Male,Historical fit,72.14366614027495,72.96141251097187,73.70378297855882
+Main model (regularised baseline),West Bengal,2024,Male,Historical fit,72.67664848479535,73.48813927022249,74.29109607298

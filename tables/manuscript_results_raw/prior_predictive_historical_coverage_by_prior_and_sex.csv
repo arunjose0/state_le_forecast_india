@@ -1,0 +1,7 @@
+prior_mode,model_label,sex,coverage50,coverage90
+2,Main model (regularised baseline),Female,0.7522321428571429,0.9977678571428572
+2,Main model (regularised baseline),Male,0.8839285714285714,0.9955357142857144
+3,Tighter-prior sensitivity,Female,0.3616071428571429,0.9285714285714286
+3,Tighter-prior sensitivity,Male,0.5825892857142857,0.984375
+4,Wide-prior sensitivity,Female,0.9464285714285714,1
+4,Wide-prior sensitivity,Male,0.9799107142857144,1

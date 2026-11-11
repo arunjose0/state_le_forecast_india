@@ -1,0 +1,4 @@
+health_index_group,n_states,mean_female_minus_male,median_female_minus_male,smallest_gap_state,smallest_gap,largest_gap_state,largest_gap,n_states_gap_over_5_years
+Achiever,7,6.33127976919524,6.244207368513031,Karnataka,5.727363035764753,Goa,7.39254529173671,7
+Aspirant,10,4.039726018107416,3.975929660427589,Bihar,2.347598089037376,Uttarakhand,5.743912097294611,3
+Front-runner,6,4.2230951264029555,4.1530309094913065,West Bengal,3.2051781597258753,Kerala,5.287127111731678,1

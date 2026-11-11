@@ -1,0 +1,71 @@
+year,sex,state,health_index_group,e0
+1971,Female,Uttar Pradesh,Aspirant,40.025605215308296
+1971,Female,Gujarat,Achiever,45.92561258317842
+1971,Female,Odisha,Aspirant,46.611135649921984
+1971,Female,Assam,Aspirant,46.66156944774774
+1971,Female,Madhya Pradesh,Aspirant,49.06091747051475
+1971,Female,Rajasthan,Aspirant,49.2
+1971,Female,Andhra Pradesh,Front-runner,50.95112643040908
+1971,Female,Tamil Nadu,Front-runner,51.39046883376432
+1971,Female,Maharashtra,Front-runner,53.72707778571223
+1971,Female,Karnataka,Achiever,55.55172524328785
+1971,Female,Punjab,Achiever,56.57690075568382
+1971,Female,Haryana,Achiever,59.12756203757166
+1971,Female,Kerala,Front-runner,61.41485345330871
+1971,Male,Uttar Pradesh,Aspirant,45.2269362436115
+1971,Male,Gujarat,Achiever,46.74363334113801
+1971,Male,Assam,Aspirant,47.130285021040734
+1971,Male,Andhra Pradesh,Front-runner,48.36667597366772
+1971,Male,Odisha,Aspirant,48.46105342671475
+1971,Male,Rajasthan,Aspirant,49.2
+1971,Male,Tamil Nadu,Front-runner,50.015743211513254
+1971,Male,Madhya Pradesh,Aspirant,50.2408089135435
+1971,Male,Karnataka,Achiever,52.69809486852763
+1971,Male,Maharashtra,Front-runner,53.07133884006325
+1971,Male,Kerala,Front-runner,59.60772245066056
+1971,Male,Haryana,Achiever,60.04398023867897
+1971,Male,Punjab,Achiever,60.72264668909984
+2024,Female,Chhattisgarh,Achiever,67.6765217958545
+2024,Female,Jharkhand,Aspirant,70.75993947841066
+2024,Female,Bihar,Aspirant,70.87520566368893
+2024,Female,Odisha,Aspirant,72.06707254966318
+2024,Female,Uttar Pradesh,Aspirant,72.19534114712175
+2024,Female,Assam,Aspirant,72.33648688989987
+2024,Female,Madhya Pradesh,Aspirant,72.47983952446097
+2024,Female,Haryana,Achiever,73.50674267134659
+2024,Female,Karnataka,Achiever,74.0875329215744
+2024,Female,Telangana,Front-runner,74.52244172870068
+2024,Female,West Bengal,Front-runner,75.04432710555433
+2024,Female,Punjab,Achiever,75.22199163636004
+2024,Female,Andhra Pradesh,Front-runner,75.52570440528146
+2024,Female,Rajasthan,Aspirant,75.8816875130812
+2024,Female,Gujarat,Achiever,75.97861839166632
+2024,Female,Uttarakhand,Aspirant,76.50399912851961
+2024,Female,Maharashtra,Front-runner,76.71485150951742
+2024,Female,Delhi,Aspirant,77.17693935121773
+2024,Female,Tamil Nadu,Front-runner,77.91353508001185
+2024,Female,Jammu & Kashmir,Aspirant,78.062287538013
+2024,Female,Himachal Pradesh,Achiever,79.37422041461608
+2024,Female,Kerala,Front-runner,79.90119621171608
+2024,Male,Chhattisgarh,Achiever,63.36466319634253
+2024,Male,Madhya Pradesh,Aspirant,66.9056087446158
+2024,Male,Haryana,Achiever,67.66931930591383
+2024,Male,Uttar Pradesh,Aspirant,68.2512174384906
+2024,Male,Jharkhand,Aspirant,68.26194352807907
+2024,Male,Assam,Aspirant,68.41352973067389
+2024,Male,Telangana,Front-runner,68.80667139103801
+2024,Male,Odisha,Aspirant,68.84157678401985
+2024,Male,Karnataka,Achiever,69.48913806878542
+2024,Male,Gujarat,Achiever,70.06068544732408
+2024,Male,Bihar,Aspirant,70.1418156676175
+2024,Male,Rajasthan,Aspirant,70.1918929302264
+2024,Male,Uttarakhand,Aspirant,70.4870287703374
+2024,Male,Andhra Pradesh,Front-runner,70.51822544665808
+2024,Male,Punjab,Achiever,70.71221309675508
+2024,Male,Maharashtra,Front-runner,72.62329131839584
+2024,Male,Himachal Pradesh,Achiever,72.6915724378237
+2024,Male,West Bengal,Front-runner,73.5772112962824
+2024,Male,Delhi,Aspirant,73.61995409681275
+2024,Male,Kerala,Front-runner,73.97102831498731
+2024,Male,Tamil Nadu,Front-runner,74.25438143714635
+2024,Male,Jammu & Kashmir,Aspirant,76.08011658165788

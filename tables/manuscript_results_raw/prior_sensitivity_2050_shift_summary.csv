@@ -1,0 +1,5 @@
+forecast_type,sex,n_states,median_absolute_shift_tighter_prior,mean_absolute_shift_tighter_prior,maximum_absolute_shift_tighter_prior,n_states_tighter_shift_over_1_year,median_absolute_shift_wider_prior,mean_absolute_shift_wider_prior,maximum_absolute_shift_wider_prior,n_states_wider_shift_over_1_year,n_state_intervals_overlap_tighter,n_state_intervals_overlap_wider
+Future observation,Female,23,0.2778180045357317,0.3729463782529318,0.9507992667934672,0,0.6087352468774867,0.5783726026322964,1.0032837526915015,1,23,23
+Future observation,Male,23,0.20764372135543852,0.32492044995632524,0.8980282483153417,0,0.7370756246646977,0.7344099103972122,1.313702343377514,5,23,23
+Latent trajectory,Female,23,0.2858161500520282,0.38105947951364866,0.9890614217284792,0,0.6194660659069768,0.573519824575123,0.9937409998372432,0,23,23
+Latent trajectory,Male,23,0.25019042473593345,0.32952098084244347,0.9042036318880236,0,0.7837908404470681,0.7323999794010995,1.2966560159715357,5,23,23

@@ -1,0 +1,2 @@
+forecast_start_year,prior_mode,model,divergences,max_treedepth_hits,min_bfmi,chains_bfmi_below_0_3,max_rhat,min_ess,nonfinite_rhat,nonfinite_ess,check_zero_divergences,check_no_treedepth_hits,check_bfmi,check_rhat,check_ess,check_finite_diagnostics,sampler_status,failed_checks
+2010,2,Main model (regularised baseline),0,0,0.8447613886626398,0,1.0039504361668914,1766.571214893165,0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PASS,None

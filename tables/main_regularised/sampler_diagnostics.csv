@@ -1,0 +1,2 @@
+divergences,max_treedepth_hit,min_bfmi,low_bfmi_chains,max_rhat,min_n_eff,nonfinite_rhat,nonfinite_n_eff,check_zero_divergences,check_no_treedepth_hits,check_bfmi,check_rhat,check_ess,check_finite_rhat,check_finite_ess,sampler_status,failed_checks
+0,0,0.793116425186191,0,1.0045972523813023,1004.1120282163455,0,0,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PASS,None

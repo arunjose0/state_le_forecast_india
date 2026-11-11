@@ -1,0 +1,7 @@
+variable,n_values,n_nonfinite,status
+latent_forecast_f,717600,0,PASS
+latent_forecast_m,717600,0,PASS
+e0_forecast_f,717600,0,PASS
+e0_forecast_m,717600,0,PASS
+y_rep_f,565200,0,PASS
+y_rep_m,565200,0,PASS

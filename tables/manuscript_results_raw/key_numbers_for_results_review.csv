@@ -1,0 +1,122 @@
+section,quantity,sex,year,health_index_group,value,unit,note
+Historical,Number of states,Female,1971,,13,states,
+Historical,Minimum e0,Female,1971,,40.025605215308296,years,Uttar Pradesh
+Historical,Maximum e0,Female,1971,,61.41485345330871,years,Kerala
+Historical,Interstate range,Female,1971,,21.389248238000413,years,
+Historical,Number of states,Male,1971,,13,states,
+Historical,Minimum e0,Male,1971,,45.2269362436115,years,Uttar Pradesh
+Historical,Maximum e0,Male,1971,,60.72264668909984,years,Punjab
+Historical,Interstate range,Male,1971,,15.495710445488342,years,
+Historical,Number of states,Female,2024,,22,states,
+Historical,Minimum e0,Female,2024,,67.6765217958545,years,Chhattisgarh
+Historical,Maximum e0,Female,2024,,79.90119621171608,years,Kerala
+Historical,Interstate range,Female,2024,,12.224674415861585,years,
+Historical,Number of states,Male,2024,,22,states,
+Historical,Minimum e0,Male,2024,,63.36466319634253,years,Chhattisgarh
+Historical,Maximum e0,Male,2024,,76.08011658165788,years,Jammu & Kashmir
+Historical,Interstate range,Male,2024,,12.715453385315342,years,
+Projections,Interstate range: 2024 observed,Female,2024,,12.224674415861585,years,Chhattisgarh to Kerala; n=22
+Projections,Interstate range: 2024 observed,Male,2024,,12.715453385315342,years,Chhattisgarh to Jammu & Kashmir; n=22
+Projections,Interstate range: 2050 projected posterior medians,Female,2050,,7.456042355874217,years,Uttar Pradesh to Kerala; n=23
+Projections,Interstate range: 2050 projected posterior medians,Male,2050,,7.546592993149218,years,Chhattisgarh to Kerala; n=23
+Projections,Mean of state posterior medians in 2050,Female,2050,Front-runner,81.65197966187071,years,State medians range from Telangana (80.05) to Kerala (84.04)
+Projections,Mean of state posterior medians in 2050,Female,2050,Achiever,79.87669185040271,years,State medians range from Chhattisgarh (77.51) to Goa (82.08)
+Projections,Mean of state posterior medians in 2050,Female,2050,Aspirant,78.31655929042851,years,State medians range from Uttar Pradesh (76.58) to Delhi (81.04)
+Projections,Mean of state posterior medians in 2050,Male,2050,Front-runner,77.42888453546776,years,State medians range from Telangana (75.91) to Kerala (78.75)
+Projections,Mean of state posterior medians in 2050,Male,2050,Achiever,73.54541208120747,years,State medians range from Chhattisgarh (71.2) to Himachal Pradesh (74.72)
+Projections,Mean of state posterior medians in 2050,Male,2050,Aspirant,74.2768332723211,years,State medians range from Madhya Pradesh (72.49) to Jammu & Kashmir (77.87)
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Female,2024,Front-runner,0.92375,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Female,2024,Front-runner,6,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Female,2024,Achiever,0.9416071428571428,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Female,2024,Achiever,7,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Female,2024,Aspirant,1,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Female,2024,Aspirant,10,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Male,2024,Front-runner,1,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Male,2024,Front-runner,6,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Male,2024,Achiever,1,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Male,2024,Achiever,7,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Male,2024,Aspirant,1,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Male,2024,Aspirant,10,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Female,2050,Front-runner,0.304,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Female,2050,Front-runner,0,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Female,2050,Achiever,0.5159285714285714,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Female,2050,Achiever,4,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Female,2050,Aspirant,0.6908,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Female,2050,Aspirant,7,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Male,2050,Front-runner,0.8344166666666666,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Male,2050,Front-runner,6,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Male,2050,Achiever,0.9911785714285716,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Male,2050,Achiever,7,states,
+Projections / threshold probabilities,Mean state-specific P(e0 < 80),Male,2050,Aspirant,0.966475,probability,Equal-weighted average across states; not a population-weighted group probability
+Projections / threshold probabilities,States with P(e0 < 80) > 0.5,Male,2050,Aspirant,10,states,
+Projections / sex gap,Median state female-minus-male gap,,2050,Achiever,6.244207368513031,years,
+Projections / sex gap,Median state female-minus-male gap,,2050,Aspirant,3.975929660427589,years,
+Projections / sex gap,Median state female-minus-male gap,,2050,Front-runner,4.1530309094913065,years,
+COVID shock,2020 deviation,Female,,,-0.2632594048346221,years,95% CrI -0.6998 to 0.1606
+COVID shock,2021 deviation,Female,,,-1.8449319272538902,years,95% CrI -2.343 to -1.339
+COVID shock,2020 deviation,Male,,,-0.5606165368160194,years,95% CrI -0.9576 to -0.1799
+COVID shock,2021 deviation,Male,,,-3.058089316245314,years,95% CrI -3.503 to -2.6
+COVID shock,Post-2021 annual decay fraction,Female,,,0.34701763074734215,proportion,95% CrI 0.146 to 0.561
+COVID shock,Post-2021 annual decay fraction,Male,,,0.541714984536608,proportion,95% CrI 0.4414 to 0.6363
+COVID shock,Post-2021 shock half-life,Female,,,0.6549135379762784,years,95% CrI 0.3602 to 1.199
+COVID shock,Post-2021 shock half-life,Male,,,1.1307176334791573,years,95% CrI 0.8477 to 1.533
+Out-of-sample validation,MAE,Female,2000,,3.9721114043604753,years,Benchmark: linear trend
+Out-of-sample validation,MSE,Female,2000,,26.021510083648376,years squared,Benchmark: linear trend
+Out-of-sample validation,RMSE,Female,2000,,5.1011283147602136,years,Benchmark: linear trend
+Out-of-sample validation,CRPS,Female,2000,,,years,Benchmark: linear trend
+Out-of-sample validation,coverage90,Female,2000,,,proportion,Benchmark: linear trend
+Out-of-sample validation,MAE,Female,2000,,6.130403208028312,years,Benchmark: persistence
+Out-of-sample validation,MSE,Female,2000,,45.73184874661179,years squared,Benchmark: persistence
+Out-of-sample validation,RMSE,Female,2000,,6.762532716860732,years,Benchmark: persistence
+Out-of-sample validation,CRPS,Female,2000,,,years,Benchmark: persistence
+Out-of-sample validation,coverage90,Female,2000,,,proportion,Benchmark: persistence
+Out-of-sample validation,MAE,Female,2000,,1.8327948513353585,years,Main model (regularised baseline)
+Out-of-sample validation,MSE,Female,2000,,4.68974643476517,years squared,Main model (regularised baseline)
+Out-of-sample validation,RMSE,Female,2000,,2.1655822392061608,years,Main model (regularised baseline)
+Out-of-sample validation,CRPS,Female,2000,,1.3265845750760783,years,Main model (regularised baseline)
+Out-of-sample validation,coverage90,Female,2000,,0.9903846153846154,proportion,Main model (regularised baseline)
+Out-of-sample validation,MAE,Male,2000,,3.5313660119592543,years,Benchmark: linear trend
+Out-of-sample validation,MSE,Male,2000,,17.93017238360739,years squared,Benchmark: linear trend
+Out-of-sample validation,RMSE,Male,2000,,4.234403427120211,years,Benchmark: linear trend
+Out-of-sample validation,CRPS,Male,2000,,,years,Benchmark: linear trend
+Out-of-sample validation,coverage90,Male,2000,,,proportion,Benchmark: linear trend
+Out-of-sample validation,MAE,Male,2000,,4.658323372682453,years,Benchmark: persistence
+Out-of-sample validation,MSE,Male,2000,,28.948552021904153,years squared,Benchmark: persistence
+Out-of-sample validation,RMSE,Male,2000,,5.380385861804351,years,Benchmark: persistence
+Out-of-sample validation,CRPS,Male,2000,,,years,Benchmark: persistence
+Out-of-sample validation,coverage90,Male,2000,,,proportion,Benchmark: persistence
+Out-of-sample validation,MAE,Male,2000,,1.5815432983373856,years,Main model (regularised baseline)
+Out-of-sample validation,MSE,Male,2000,,3.9316208169287616,years squared,Main model (regularised baseline)
+Out-of-sample validation,RMSE,Male,2000,,1.9828315150130031,years,Main model (regularised baseline)
+Out-of-sample validation,CRPS,Male,2000,,1.160968701480472,years,Main model (regularised baseline)
+Out-of-sample validation,coverage90,Male,2000,,0.9951923076923076,proportion,Main model (regularised baseline)
+Out-of-sample validation,MAE,Female,2010,,4.503815949732386,years,Benchmark: linear trend
+Out-of-sample validation,MSE,Female,2010,,34.19188536045189,years squared,Benchmark: linear trend
+Out-of-sample validation,RMSE,Female,2010,,5.8473827786841435,years,Benchmark: linear trend
+Out-of-sample validation,CRPS,Female,2010,,,years,Benchmark: linear trend
+Out-of-sample validation,coverage90,Female,2010,,,proportion,Benchmark: linear trend
+Out-of-sample validation,MAE,Female,2010,,2.296103782026633,years,Benchmark: persistence
+Out-of-sample validation,MSE,Female,2010,,11.10585999174082,years squared,Benchmark: persistence
+Out-of-sample validation,RMSE,Female,2010,,3.3325455723426827,years,Benchmark: persistence
+Out-of-sample validation,CRPS,Female,2010,,,years,Benchmark: persistence
+Out-of-sample validation,coverage90,Female,2010,,,proportion,Benchmark: persistence
+Out-of-sample validation,MAE,Female,2010,,1.2002220925680251,years,Main model (regularised baseline)
+Out-of-sample validation,MSE,Female,2010,,2.512538302877746,years squared,Main model (regularised baseline)
+Out-of-sample validation,RMSE,Female,2010,,1.585098830634149,years,Main model (regularised baseline)
+Out-of-sample validation,CRPS,Female,2010,,0.9359420838867758,years,Main model (regularised baseline)
+Out-of-sample validation,coverage90,Female,2010,,0.994535519125683,proportion,Main model (regularised baseline)
+Out-of-sample validation,MAE,Male,2010,,2.887198279362565,years,Benchmark: linear trend
+Out-of-sample validation,MSE,Male,2010,,17.575027602940686,years squared,Benchmark: linear trend
+Out-of-sample validation,RMSE,Male,2010,,4.1922580553850315,years,Benchmark: linear trend
+Out-of-sample validation,CRPS,Male,2010,,,years,Benchmark: linear trend
+Out-of-sample validation,coverage90,Male,2010,,,proportion,Benchmark: linear trend
+Out-of-sample validation,MAE,Male,2010,,2.1825395749189336,years,Benchmark: persistence
+Out-of-sample validation,MSE,Male,2010,,8.064118431437144,years squared,Benchmark: persistence
+Out-of-sample validation,RMSE,Male,2010,,2.8397391484847945,years,Benchmark: persistence
+Out-of-sample validation,CRPS,Male,2010,,,years,Benchmark: persistence
+Out-of-sample validation,coverage90,Male,2010,,,proportion,Benchmark: persistence
+Out-of-sample validation,MAE,Male,2010,,1.1425937374715154,years,Main model (regularised baseline)
+Out-of-sample validation,MSE,Male,2010,,2.1470457003655934,years squared,Main model (regularised baseline)
+Out-of-sample validation,RMSE,Male,2010,,1.465280075741697,years,Main model (regularised baseline)
+Out-of-sample validation,CRPS,Male,2010,,0.8361959102245162,years,Main model (regularised baseline)
+Out-of-sample validation,coverage90,Male,2010,,0.989071038251366,proportion,Main model (regularised baseline)

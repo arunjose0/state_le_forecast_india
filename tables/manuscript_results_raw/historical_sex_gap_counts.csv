@@ -1,0 +1,3 @@
+endpoint,n_states,male_life_expectancy_higher,female_life_expectancy_higher,equal,narrowest_positive_female_advantage,widest_positive_female_advantage
+Earliest observation,23,8,14,1,0.5615100306276375,7.912741609431578
+Latest available observation,23,0,23,0,0.7333899960714376,6.890807589453502

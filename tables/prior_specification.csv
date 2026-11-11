@@ -1,0 +1,37 @@
+model_role,prior_mode,parameter,prior,demographic_or_statistical_rationale
+Main/original regularised baseline,2,C_f,"Normal(87, 2)","Main/original regularised baseline: plausible target centre, not a ceiling"
+Main/original regularised baseline,2,C_m,"Normal(82, 2)","Main/original regularised baseline: plausible target centre, not a ceiling"
+Main/original regularised baseline,2,tier contrasts,"Raw Normal(0, 4)",Main baseline with moderate cross-tier variation; less shrinkage than mode 3
+Main/original regularised baseline,2,tau_C,Half-Normal(3),Main baseline between-state equilibrium heterogeneity; less shrinkage than mode 3
+Main/original regularised baseline,2,L_Omega_C and L_Omega_dev,LKJ-Cholesky(2),Regularises cross-sex dependence of state targets and OU deviations
+Main/original regularised baseline,2,z_C,Standard Normal,Standardised state-specific equilibrium deviations
+Main/original regularised baseline,2,phi_covid_f/m,"Beta(2, 2)",Main baseline prior for geometric post-2021 shock decay fractions
+Main/original regularised baseline,2,log kappa_f,"Normal(-1, 2.5)",Main regularised baseline retains this broad rate prior; mode 3 tests stronger demographic regularisation
+Main/original regularised baseline,2,delta_log_kappa,"Normal(0, 0.5)",Main baseline uncertainty in the sex-specific convergence-rate ratio; narrower in mode 3
+Main/original regularised baseline,2,log lambda gap,"Normal(log(0.20), 0.7)",Main baseline reversion-rate prior; mode 3 regularises temporary deviations to revert faster
+Main/original regularised baseline,2,sigma_dev,"Half-t(df=3, scale=1.5)",Main baseline half-t process prior; mode 3 uses a tighter half-normal scale prior
+Main/original regularised baseline,2,sigma_obs,"Half-t(df=3, scale=1.5)",Main baseline observation SD prior; the SD is estimated rather than fixed
+Main/original regularised baseline,2,COVID shocks,"Normal(0, 5)",Main baseline COVID shock prior in years; mode 3 downweights extreme shocks
+Tighter-prior sensitivity,3,C_f,"Normal(87, 2)",Same centre as the main baseline; no hard ceiling
+Tighter-prior sensitivity,3,C_m conditional on C_f,"Normal(C_f - 4.5, 1.5)",Tighter sensitivity prior on the long-run sex difference; uncertainty remains
+Tighter-prior sensitivity,3,tier contrasts,"Raw Normal(0, 2)",Stronger shrinkage of tier differences; no ordering is imposed
+Tighter-prior sensitivity,3,tau_C,Half-Normal(2),Stronger shrinkage of state equilibrium heterogeneity while allowing departures
+Tighter-prior sensitivity,3,log kappa_f,"Normal(log(log(2)/35), 0.65)",Centres smooth-trend half-life at 35 years; approximate 95% prior range 10–126 years
+Tighter-prior sensitivity,3,delta_log_kappa,"Normal(0, 0.35)",Allows sex-specific rates; rate ratio has approx. 95% prior range 0.50–1.99
+Tighter-prior sensitivity,3,log lambda gap,"Normal(log(0.05), 0.55)",Temporary deviations revert faster; broadly allows multi-year to multi-decade decay
+Tighter-prior sensitivity,3,sigma_dev,Half-Normal(1.0),Stronger shrinkage of process diffusion; stochastic trajectory variation remains estimated
+Tighter-prior sensitivity,3,sigma_obs,Half-Normal(0.75),"Stronger shrinkage of observation error; the SD remains estimated, not fixed"
+Tighter-prior sensitivity,3,COVID shocks,"Normal(0, 3)",Allows multi-year shocks but downweights extremes more than the main baseline
+Wide-prior sensitivity,4,C_f,"Normal(87, 5)",Wide equilibrium hypermean sensitivity prior; not a ceiling
+Wide-prior sensitivity,4,C_m,"Normal(82, 5)",Wide equilibrium hypermean sensitivity prior; not a ceiling
+Wide-prior sensitivity,4,tier contrasts,"Raw Normal(0, 8)",Very wide cross-tier variation sensitivity
+Wide-prior sensitivity,4,tau_C,Half-Normal(5),Wide between-state target heterogeneity sensitivity
+Wide-prior sensitivity,4,L_Omega_C and L_Omega_dev,LKJ-Cholesky(1),Uniform correlation-matrix prior for wide sensitivity
+Wide-prior sensitivity,4,z_C,Standard Normal,Standardised state-specific equilibrium deviations
+Wide-prior sensitivity,4,phi_covid_f/m,"Beta(1, 1)",Uniform post-2021 shock-decay fractions
+Wide-prior sensitivity,4,log kappa_f,"Normal(-1, 3)",Deliberately diffuse rate prior for stress-testing prior dependence
+Wide-prior sensitivity,4,delta_log_kappa,"Normal(0, 1)",Wide uncertainty in sex-specific convergence-rate ratio
+Wide-prior sensitivity,4,log lambda gap,"Normal(log(0.20), 1)",Wide short-term reversion-rate sensitivity
+Wide-prior sensitivity,4,sigma_dev,"Half-t(df=3, scale=3)",Wide latent-process scale sensitivity
+Wide-prior sensitivity,4,sigma_obs,"Half-t(df=3, scale=3)",Wide observation-error scale sensitivity
+Wide-prior sensitivity,4,COVID shocks,"Normal(0, 8)",Wide shock sensitivity in years
